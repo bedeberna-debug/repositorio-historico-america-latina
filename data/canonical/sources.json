@@ -1,0 +1,109 @@
+[
+  {
+    "id": "course-economic",
+    "institution": "Materiales del curso",
+    "title": "variables_economicas.csv",
+    "bibliographicReference": null,
+    "metadataNote": "El archivo no contiene referencia bibliográfica, institución, versión, fecha de publicación ni licencia. No se atribuye una procedencia externa por inferencia.",
+    "versions": [
+      {
+        "id": "course-economic-local",
+        "datasetName": "variables_economicas.csv",
+        "version": null,
+        "publicationDate": null,
+        "accessDate": null,
+        "license": null,
+        "status": "imported",
+        "sourceFile": "variables_economicas.csv",
+        "sourceSheet": null,
+        "sha256": "96abe1041344cac71020b08f75d22cc7ac6ab8a3e35a2440fb8d0b63765fa77f"
+      }
+    ]
+  },
+  {
+    "id": "vdem",
+    "institution": "V-Dem Institute",
+    "title": "variables_vdem.csv",
+    "url": "https://www.v-dem.net/",
+    "bibliographicReference": null,
+    "metadataNote": "El nombre de variable es v2x_polyarchy, pero el archivo no confirma versión, cita, fecha de publicación ni licencia. La institución figura como prevista, no como validación del archivo.",
+    "versions": [
+      {
+        "id": "vdem-local-unconfirmed",
+        "datasetName": "variables_vdem.csv",
+        "version": null,
+        "publicationDate": null,
+        "accessDate": null,
+        "license": null,
+        "status": "imported",
+        "sourceFile": "variables_vdem.csv",
+        "sourceSheet": null,
+        "sha256": "696a3255a9d3cac32ba2cfc751c8464fdebb7805792c592f2da36881147827db"
+      }
+    ]
+  },
+  {
+    "id": "martinez-pol-events",
+    "institution": "Christopher A. Martínez",
+    "title": "Data Set on Presidential Scandals, Anti-Government Demonstrations and General Strikes in Latin America (1979–2019)",
+    "doi": "10.1017/gov.2020.18",
+    "bibliographicReference": "Martínez, Christopher A. (2020). Presidential Instability in Latin America: Why Institutionalized Parties Matter. Government and Opposition, 1–22. doi:10.1017/gov.2020.18",
+    "metadataNote": "Referencia y versión 2 leídas en la hoja README. Licencia y fecha exacta de publicación no consignadas en el archivo.",
+    "versions": [
+      {
+        "id": "martinez-pol-events-v2",
+        "datasetName": "Pol Events LatAm",
+        "version": "2",
+        "publicationDate": null,
+        "accessDate": null,
+        "license": null,
+        "status": "imported",
+        "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+        "sourceSheet": "DATA",
+        "sha256": "daaf75d0ee4a92792129fb44e1d7a09508cb091ca99851383e4e720872da916f"
+      }
+    ]
+  },
+  {
+    "id": "comparative-survival",
+    "institution": "Materiales del curso",
+    "title": "comparative survival.xlsx",
+    "bibliographicReference": null,
+    "metadataNote": "El archivo no contiene una hoja de referencia bibliográfica, versión ni licencia. Hegemony.dta no fue utilizado.",
+    "versions": [
+      {
+        "id": "comparative-survival-local",
+        "datasetName": "comparative survival",
+        "version": null,
+        "publicationDate": null,
+        "accessDate": null,
+        "license": null,
+        "status": "imported",
+        "sourceFile": "comparative survival.xlsx",
+        "sourceSheet": "Sheet1",
+        "sha256": "28bbb59b48b893e2cee2bf298aea73fce4eba03cade01ebdefa4ee7e5dfab5cf"
+      }
+    ]
+  },
+  {
+    "id": "rcp-crisis",
+    "institution": "Materiales del curso",
+    "title": "Base_Final_RCP_v6.xlsx",
+    "bibliographicReference": null,
+    "metadataNote": "v6 forma parte del nombre del archivo; no se interpreta como versión bibliográfica confirmada. El archivo incluye codebook, pero no cita ni licencia.",
+    "versions": [
+      {
+        "id": "rcp-crisis-v6-local",
+        "datasetName": "Base_Final_RCP_v6",
+        "version": null,
+        "publicationDate": null,
+        "accessDate": null,
+        "license": null,
+        "status": "imported",
+        "sourceFile": "Base_Final_RCP_v6.xlsx",
+        "sourceSheet": "crisis",
+        "sha256": "a7b95cfb88d757ed70ea23b706d7fcda915e83f956dce84c4c8e61b4f329b191"
+      }
+    ]
+  }
+]

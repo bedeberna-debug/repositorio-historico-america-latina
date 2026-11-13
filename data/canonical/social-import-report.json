@@ -1,0 +1,2499 @@
+{
+  "scope": {
+    "countries": [
+      "ARG",
+      "CHL"
+    ],
+    "indicators": [
+      "SP.POP.TOTL",
+      "SP.POP.0014.TO.ZS",
+      "SP.POP.1564.TO.ZS",
+      "SP.POP.65UP.TO.ZS",
+      "SP.URB.TOTL.IN.ZS",
+      "SP.RUR.TOTL.ZS",
+      "SI.POV.NAHC",
+      "SI.POV.DDAY",
+      "SE.ADT.LITR.ZS"
+    ],
+    "canonicalIndicators": [
+      "total-population",
+      "population-age-0-14",
+      "population-age-15-64",
+      "population-age-65-plus",
+      "urban-population-share",
+      "rural-population-share",
+      "poverty-national-headcount",
+      "poverty-international-3-2021ppp",
+      "adult-literacy-rate"
+    ]
+  },
+  "accessDate": "2026-10-31",
+  "counts": {
+    "observations": 882,
+    "verifiedAgainstOriginalSample": 18,
+    "byIndicator": {
+      "ARG:total-population": {
+        "count": 66,
+        "startYear": 1960,
+        "endYear": 2025
+      },
+      "CHL:total-population": {
+        "count": 66,
+        "startYear": 1960,
+        "endYear": 2025
+      },
+      "ARG:population-age-0-14": {
+        "count": 66,
+        "startYear": 1960,
+        "endYear": 2025
+      },
+      "CHL:population-age-0-14": {
+        "count": 66,
+        "startYear": 1960,
+        "endYear": 2025
+      },
+      "ARG:population-age-15-64": {
+        "count": 66,
+        "startYear": 1960,
+        "endYear": 2025
+      },
+      "CHL:population-age-15-64": {
+        "count": 66,
+        "startYear": 1960,
+        "endYear": 2025
+      },
+      "ARG:population-age-65-plus": {
+        "count": 66,
+        "startYear": 1960,
+        "endYear": 2025
+      },
+      "CHL:population-age-65-plus": {
+        "count": 66,
+        "startYear": 1960,
+        "endYear": 2025
+      },
+      "ARG:urban-population-share": {
+        "count": 66,
+        "startYear": 1960,
+        "endYear": 2025
+      },
+      "CHL:urban-population-share": {
+        "count": 66,
+        "startYear": 1960,
+        "endYear": 2025
+      },
+      "ARG:rural-population-share": {
+        "count": 66,
+        "startYear": 1960,
+        "endYear": 2025
+      },
+      "CHL:rural-population-share": {
+        "count": 66,
+        "startYear": 1960,
+        "endYear": 2025
+      },
+      "ARG:poverty-national-headcount": {
+        "count": 10,
+        "startYear": 2016,
+        "endYear": 2025
+      },
+      "CHL:poverty-national-headcount": {
+        "count": 16,
+        "startYear": 1987,
+        "endYear": 2022
+      },
+      "ARG:poverty-international-3-2021ppp": {
+        "count": 36,
+        "startYear": 1980,
+        "endYear": 2024
+      },
+      "CHL:poverty-international-3-2021ppp": {
+        "count": 17,
+        "startYear": 1987,
+        "endYear": 2024
+      },
+      "ARG:adult-literacy-rate": {
+        "count": 4,
+        "startYear": 1980,
+        "endYear": 2020
+      },
+      "CHL:adult-literacy-rate": {
+        "count": 7,
+        "startYear": 1982,
+        "endYear": 2017
+      }
+    }
+  },
+  "metadataAudit": [
+    {
+      "indicator": "SP.POP.TOTL",
+      "metadataUrl": "https://api.worldbank.org/v2/indicator/SP.POP.TOTL?format=json",
+      "accessDate": "2026-10-31",
+      "officialName": "Population, total",
+      "definitionVerified": true,
+      "sourceOrganization": "World Population Prospects, United Nations (UN), uri: https://population.un.org/wpp/, publisher: UN Population Division;\nStatistical databases and publications from national statistical offices, National Statistical Offices (NSOs), uri: https://unstats.un.org/home/nso_sites/, publisher: National Statistical Offices;\nEurostat: Demographic Statistics, Eurostat (ESTAT), uri: https://ec.europa.eu/eurostat/data/database?node_code=earn_ses_monthly, publisher: Eurostat;\nPopulation and Vital Statistics Report (various years), United Nations (UN), uri: https://unstats.un.org, publisher: UN Statistics Division",
+      "licenseUrl": "https://datacatalog.worldbank.org/public-licenses"
+    },
+    {
+      "indicator": "SP.POP.0014.TO.ZS",
+      "metadataUrl": "https://api.worldbank.org/v2/indicator/SP.POP.0014.TO.ZS?format=json",
+      "accessDate": "2026-10-31",
+      "officialName": "Population ages 0-14 (% of total population)",
+      "definitionVerified": true,
+      "sourceOrganization": "United Nations Population Division. World Population Prospects., United Nations Population Division, uri: https://population.un.org/wpp/, publisher: United Nations Population Division",
+      "licenseUrl": "https://datacatalog.worldbank.org/public-licenses"
+    },
+    {
+      "indicator": "SP.POP.1564.TO.ZS",
+      "metadataUrl": "https://api.worldbank.org/v2/indicator/SP.POP.1564.TO.ZS?format=json",
+      "accessDate": "2026-10-31",
+      "officialName": "Population ages 15-64 (% of total population)",
+      "definitionVerified": true,
+      "sourceOrganization": "World Population Prospects, United Nations (UN), publisher: UN Population Division",
+      "licenseUrl": "https://datacatalog.worldbank.org/public-licenses"
+    },
+    {
+      "indicator": "SP.POP.65UP.TO.ZS",
+      "metadataUrl": "https://api.worldbank.org/v2/indicator/SP.POP.65UP.TO.ZS?format=json",
+      "accessDate": "2026-10-31",
+      "officialName": "Population ages 65 and above (% of total population)",
+      "definitionVerified": true,
+      "sourceOrganization": "World Population Prospects, United Nations (UN), publisher: UN Population Division",
+      "licenseUrl": "https://datacatalog.worldbank.org/public-licenses"
+    },
+    {
+      "indicator": "SP.URB.TOTL.IN.ZS",
+      "metadataUrl": "https://api.worldbank.org/v2/indicator/SP.URB.TOTL.IN.ZS?format=json",
+      "accessDate": "2026-10-31",
+      "officialName": "Urban population (% of total population)",
+      "definitionVerified": true,
+      "sourceOrganization": "World Urbanization Prospects, United Nations (UN), uri: https://population.un.org/wup/, note: United Nations Population Division's World Urbanization Prospects, National definitions, publisher: UN Population Division",
+      "licenseUrl": "https://datacatalog.worldbank.org/public-licenses"
+    },
+    {
+      "indicator": "SP.RUR.TOTL.ZS",
+      "metadataUrl": "https://api.worldbank.org/v2/indicator/SP.RUR.TOTL.ZS?format=json",
+      "accessDate": "2026-10-31",
+      "officialName": "Rural population (% of total population)",
+      "definitionVerified": true,
+      "sourceOrganization": "World Urbanization Prospects, United Nations (UN), uri: https://population.un.org/wup/, note: World Bank staff estimates based on the United Nations Population Division's World Urbanization Prospects, National definitions, publisher: UN Population Division;\nStaff estimates, World Bank (WB), note: World Bank staff estimates based on the United Nations Population Division's World Urbanization Prospects, National definitions",
+      "licenseUrl": "https://datacatalog.worldbank.org/public-licenses"
+    },
+    {
+      "indicator": "SI.POV.NAHC",
+      "metadataUrl": "https://api.worldbank.org/v2/indicator/SI.POV.NAHC?format=json",
+      "accessDate": "2026-10-31",
+      "officialName": "Poverty headcount ratio at national poverty lines (% of population)",
+      "definitionVerified": true,
+      "sourceOrganization": "World Bank, Poverty and Inequality Platform. Data are compiled from official government sources or are computed by World Bank staff using national (i.e. country–specific) poverty lines., World Bank (WB), note: Data are compiled from official government sources or are computed by World Bank staff using national (i.e. country–specific) poverty lines.",
+      "licenseUrl": "https://datacatalog.worldbank.org/public-licenses"
+    },
+    {
+      "indicator": "SI.POV.DDAY",
+      "metadataUrl": "https://api.worldbank.org/v2/indicator/SI.POV.DDAY?format=json",
+      "accessDate": "2026-10-31",
+      "officialName": "Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population)",
+      "definitionVerified": true,
+      "sourceOrganization": "World Bank, Poverty and Inequality Platform. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database. For more information and methodology, please see http://pip.worldbank.org., World Bank (WB), uri: http://pip.worldbank.org, note: Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database.",
+      "licenseUrl": "https://datacatalog.worldbank.org/public-licenses"
+    },
+    {
+      "indicator": "SE.ADT.LITR.ZS",
+      "metadataUrl": "https://api.worldbank.org/v2/indicator/SE.ADT.LITR.ZS?format=json",
+      "accessDate": "2026-10-31",
+      "officialName": "Literacy rate, adult total (% of people ages 15 and above)",
+      "definitionVerified": true,
+      "sourceOrganization": "Data API, UN Educational, Scientific and Cultural Organization (UNESCO), uri: https://databrowser.uis.unesco.org/resources, note: The data are obtained through the UIS API.  Detailed documentation is available at: https://api.uis.unesco.org/api/public/documentation/, publisher: UNESCO Institute for Statistics (UIS), type: Excel (bulk file), date accessed: 2026-03-19, date published: 2026-02",
+      "licenseUrl": "https://datacatalog.worldbank.org/public-licenses"
+    }
+  ],
+  "rawFiles": {
+    "data\\raw\\world-bank\\SP.POP.TOTL-metadata.json": "2f8491efc00bf2c0995112ff8e87aba69e5e9d22d0880b22f7e3a4ec757ba05c",
+    "data\\raw\\world-bank\\SP.POP.TOTL-ARG-CHL.json": "65d5f7600641d66bd2f74217a1769262c34e913d8549a2fcf41bca065f7ad2fc",
+    "data\\raw\\world-bank\\SP.POP.0014.TO.ZS-metadata.json": "61fb94b5744759ee8d2e63e2892b0cf7b4f71165c71ee6b99f556cc4864b0e92",
+    "data\\raw\\world-bank\\SP.POP.0014.TO.ZS-ARG-CHL.json": "6af47a850915b623f653ac147e8223d17c723dfe6536c5428752497783279979",
+    "data\\raw\\world-bank\\SP.POP.1564.TO.ZS-metadata.json": "492a7b2bdee2f0ac5e3ec87082a5f28dfbff99133349dd78624c7acbf607d7ce",
+    "data\\raw\\world-bank\\SP.POP.1564.TO.ZS-ARG-CHL.json": "fc42125c78b64631f8b3b85df4c12922a573ec1b169d13c9f67a73561273a3a5",
+    "data\\raw\\world-bank\\SP.POP.65UP.TO.ZS-metadata.json": "7e879654023471e82357bde5a072b0197de8e637832e4b61410c56aac6ac82f4",
+    "data\\raw\\world-bank\\SP.POP.65UP.TO.ZS-ARG-CHL.json": "9e3e178ec8d83aed4154317ed7e17034f666af1021252fd47d42816631af29ba",
+    "data\\raw\\world-bank\\SP.URB.TOTL.IN.ZS-metadata.json": "ada77d666a1469f69379933d0597cdd420299806163905af52de79d538da95e6",
+    "data\\raw\\world-bank\\SP.URB.TOTL.IN.ZS-ARG-CHL.json": "d31ecf761ff62603f6bea9c011a9ffe9f07dc87ee581f01d3eb433411143f182",
+    "data\\raw\\world-bank\\SP.RUR.TOTL.ZS-metadata.json": "7824eb12b1cd4a5dbbc43605c225be2076a5f581765b50351c00b8e1b6d28a6e",
+    "data\\raw\\world-bank\\SP.RUR.TOTL.ZS-ARG-CHL.json": "eaceb566410cfdc95dd61baba18c70dee5dae935fd8577e534410ec0d45ddfb8",
+    "data\\raw\\world-bank\\SI.POV.NAHC-metadata.json": "ededac5afbec462ef894a27656525dbb826becfc1846d950c2a8de65815f55e5",
+    "data\\raw\\world-bank\\SI.POV.NAHC-ARG-CHL.json": "57972fa28f58a54dd24fdccc1d8c4c4fa3c0b0f46554b170d82303d5f01a8bc2",
+    "data\\raw\\world-bank\\SI.POV.DDAY-metadata.json": "ad5ff599e5d33978cbd5fe9b9f96bac98ea150dafb64fcf5066dac11369ef389",
+    "data\\raw\\world-bank\\SI.POV.DDAY-ARG-CHL.json": "17a45e1a792bff965fef6af4d893043791712c83a8cd97d999dd3b4cb2b2d779",
+    "data\\raw\\world-bank\\SE.ADT.LITR.ZS-metadata.json": "1d14ffeda10a9189e2dd257422fca00d6f09a6217205e83ad44516c470c71518",
+    "data\\raw\\world-bank\\SE.ADT.LITR.ZS-ARG-CHL.json": "5b3f1c0fb91d35d2012698886a92a2ffa3426e07a2b5cc87a400c5a83875253f"
+  },
+  "update": {
+    "previousObservationCount": 882,
+    "addedIds": [],
+    "removedIds": [],
+    "changedIds": [],
+    "unchangedCount": 882
+  },
+  "validations": {
+    "compositionChecks": [
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 1960,
+        "sum": 100.00000000000001,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 1961,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 1962,
+        "sum": 100.00000000000001,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 1963,
+        "sum": 100.00000000000001,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 1964,
+        "sum": 99.99999999999997,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 1965,
+        "sum": 100.00000000000006,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 1966,
+        "sum": 100.00000000000003,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 1967,
+        "sum": 99.99999999999999,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 1968,
+        "sum": 100.00000000000001,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 1969,
+        "sum": 99.99999999999999,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 1970,
+        "sum": 100.00000000000003,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 1971,
+        "sum": 100.00000000000006,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 1972,
+        "sum": 99.99999999999996,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 1973,
+        "sum": 99.99999999999997,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 1974,
+        "sum": 99.99999999999997,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 1975,
+        "sum": 99.99999999999999,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 1976,
+        "sum": 100.00000000000001,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 1977,
+        "sum": 99.99999999999999,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 1978,
+        "sum": 100.00000000000007,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 1979,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 1980,
+        "sum": 99.99999999999999,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 1981,
+        "sum": 100.00000000000006,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 1982,
+        "sum": 100.00000000000003,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 1983,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 1984,
+        "sum": 99.99999999999999,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 1985,
+        "sum": 100.00000000000001,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 1986,
+        "sum": 99.99999999999996,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 1987,
+        "sum": 99.99999999999991,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 1988,
+        "sum": 100.00000000000001,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 1989,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 1990,
+        "sum": 100.00000000000003,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 1991,
+        "sum": 100.00000000000004,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 1992,
+        "sum": 100.00000000000007,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 1993,
+        "sum": 99.99999999999999,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 1994,
+        "sum": 99.99999999999994,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 1995,
+        "sum": 100.00000000000003,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 1996,
+        "sum": 100.00000000000006,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 1997,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 1998,
+        "sum": 100.00000000000001,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 1999,
+        "sum": 100.00000000000001,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 2000,
+        "sum": 99.99999999999997,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 2001,
+        "sum": 100.00000000000007,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 2002,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 2003,
+        "sum": 100.00000000000001,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 2004,
+        "sum": 99.99999999999993,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 2005,
+        "sum": 99.99999999999997,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 2006,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 2007,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 2008,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 2009,
+        "sum": 100.0000000000001,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 2010,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 2011,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 2012,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 2013,
+        "sum": 100.00000000000011,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 2014,
+        "sum": 100.00000000000009,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 2015,
+        "sum": 99.9999999999999,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 2016,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 2017,
+        "sum": 100.0000000000001,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 2018,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 2019,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 2020,
+        "sum": 99.9999999999999,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 2021,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 2022,
+        "sum": 99.9999999999999,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 2023,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 2024,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "ARG",
+        "year": 2025,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 1960,
+        "sum": 100.00000000000006,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 1961,
+        "sum": 100.00000000000003,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 1962,
+        "sum": 99.99999999999999,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 1963,
+        "sum": 99.99999999999997,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 1964,
+        "sum": 99.99999999999999,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 1965,
+        "sum": 99.99999999999997,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 1966,
+        "sum": 99.99999999999994,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 1967,
+        "sum": 99.99999999999993,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 1968,
+        "sum": 99.99999999999999,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 1969,
+        "sum": 100.00000000000009,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 1970,
+        "sum": 100.00000000000003,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 1971,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 1972,
+        "sum": 100.00000000000001,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 1973,
+        "sum": 99.99999999999997,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 1974,
+        "sum": 100.00000000000001,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 1975,
+        "sum": 100.00000000000003,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 1976,
+        "sum": 100.00000000000001,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 1977,
+        "sum": 100.00000000000003,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 1978,
+        "sum": 99.99999999999996,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 1979,
+        "sum": 99.99999999999999,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 1980,
+        "sum": 100.00000000000001,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 1981,
+        "sum": 100.00000000000001,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 1982,
+        "sum": 100.00000000000001,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 1983,
+        "sum": 99.99999999999991,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 1984,
+        "sum": 99.99999999999997,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 1985,
+        "sum": 99.99999999999999,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 1986,
+        "sum": 100.00000000000006,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 1987,
+        "sum": 100.00000000000001,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 1988,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 1989,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 1990,
+        "sum": 99.99999999999996,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 1991,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 1992,
+        "sum": 100.00000000000006,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 1993,
+        "sum": 100.00000000000003,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 1994,
+        "sum": 100.00000000000001,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 1995,
+        "sum": 100.00000000000001,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 1996,
+        "sum": 99.99999999999997,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 1997,
+        "sum": 99.99999999999999,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 1998,
+        "sum": 100.00000000000001,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 1999,
+        "sum": 99.99999999999997,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 2000,
+        "sum": 99.99999999999997,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 2001,
+        "sum": 99.99999999999994,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 2002,
+        "sum": 99.99999999999999,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 2003,
+        "sum": 100.00000000000003,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 2004,
+        "sum": 100.00000000000003,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 2005,
+        "sum": 99.99999999999996,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 2006,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 2007,
+        "sum": 99.99999999999991,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 2008,
+        "sum": 99.99999999999997,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 2009,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 2010,
+        "sum": 99.99999999999997,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 2011,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 2012,
+        "sum": 100.00000000000001,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 2013,
+        "sum": 100.0000000000001,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 2014,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 2015,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 2016,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 2017,
+        "sum": 99.9999999999999,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 2018,
+        "sum": 99.99999999999989,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 2019,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 2020,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 2021,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 2022,
+        "sum": 100.0000000000001,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 2023,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 2024,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "age",
+        "countryCode": "CHL",
+        "year": 2025,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 1960,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 1961,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 1962,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 1963,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 1964,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 1965,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 1966,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 1967,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 1968,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 1969,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 1970,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 1971,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 1972,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 1973,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 1974,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 1975,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 1976,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 1977,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 1978,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 1979,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 1980,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 1981,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 1982,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 1983,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 1984,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 1985,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 1986,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 1987,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 1988,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 1989,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 1990,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 1991,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 1992,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 1993,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 1994,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 1995,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 1996,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 1997,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 1998,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 1999,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 2000,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 2001,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 2002,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 2003,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 2004,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 2005,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 2006,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 2007,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 2008,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 2009,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 2010,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 2011,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 2012,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 2013,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 2014,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 2015,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 2016,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 2017,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 2018,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 2019,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 2020,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 2021,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 2022,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 2023,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 2024,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "ARG",
+        "year": 2025,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 1960,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 1961,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 1962,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 1963,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 1964,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 1965,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 1966,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 1967,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 1968,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 1969,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 1970,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 1971,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 1972,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 1973,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 1974,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 1975,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 1976,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 1977,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 1978,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 1979,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 1980,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 1981,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 1982,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 1983,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 1984,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 1985,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 1986,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 1987,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 1988,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 1989,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 1990,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 1991,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 1992,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 1993,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 1994,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 1995,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 1996,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 1997,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 1998,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 1999,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 2000,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 2001,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 2002,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 2003,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 2004,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 2005,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 2006,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 2007,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 2008,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 2009,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 2010,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 2011,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 2012,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 2013,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 2014,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 2015,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 2016,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 2017,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 2018,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 2019,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 2020,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 2021,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 2022,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 2023,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 2024,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "residence",
+        "countryCode": "CHL",
+        "year": 2025,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      }
+    ],
+    "nullYearsOmitted": 306,
+    "percentageRange": "0–100",
+    "populationUnitTransformTolerance": 1e-12
+  },
+  "compositionTolerancePercentagePoints": 0.2,
+  "sampleChecks": [
+    {
+      "id": "obs-arg-adult-literacy-rate-2020",
+      "sourceFile": "data\\raw\\world-bank\\SE.ADT.LITR.ZS-ARG-CHL.json",
+      "sourceRow": 6,
+      "checked": "SE.ADT.LITR.ZS=99.1399993896484; year=2020; country=ARG",
+      "result": "coincide"
+    },
+    {
+      "id": "obs-arg-population-age-0-14-2025",
+      "sourceFile": "data\\raw\\world-bank\\SP.POP.0014.TO.ZS-ARG-CHL.json",
+      "sourceRow": 1,
+      "checked": "SP.POP.0014.TO.ZS=21.0157121233708; year=2025; country=ARG",
+      "result": "coincide"
+    },
+    {
+      "id": "obs-arg-population-age-15-64-2025",
+      "sourceFile": "data\\raw\\world-bank\\SP.POP.1564.TO.ZS-ARG-CHL.json",
+      "sourceRow": 1,
+      "checked": "SP.POP.1564.TO.ZS=66.3498539384122; year=2025; country=ARG",
+      "result": "coincide"
+    },
+    {
+      "id": "obs-arg-population-age-65-plus-2025",
+      "sourceFile": "data\\raw\\world-bank\\SP.POP.65UP.TO.ZS-ARG-CHL.json",
+      "sourceRow": 1,
+      "checked": "SP.POP.65UP.TO.ZS=12.634433938217; year=2025; country=ARG",
+      "result": "coincide"
+    },
+    {
+      "id": "obs-arg-poverty-international-3-2021ppp-2024",
+      "sourceFile": "data\\raw\\world-bank\\SI.POV.DDAY-ARG-CHL.json",
+      "sourceRow": 2,
+      "checked": "SI.POV.DDAY=1; year=2024; country=ARG",
+      "result": "coincide"
+    },
+    {
+      "id": "obs-arg-poverty-national-headcount-2025",
+      "sourceFile": "data\\raw\\world-bank\\SI.POV.NAHC-ARG-CHL.json",
+      "sourceRow": 1,
+      "checked": "SI.POV.NAHC=28.2; year=2025; country=ARG",
+      "result": "coincide"
+    },
+    {
+      "id": "obs-arg-rural-population-share-2025",
+      "sourceFile": "data\\raw\\world-bank\\SP.RUR.TOTL.ZS-ARG-CHL.json",
+      "sourceRow": 1,
+      "checked": "SP.RUR.TOTL.ZS=7.64807783848271; year=2025; country=ARG",
+      "result": "coincide"
+    },
+    {
+      "id": "obs-arg-total-population-2025",
+      "sourceFile": "data\\raw\\world-bank\\SP.POP.TOTL-ARG-CHL.json",
+      "sourceRow": 1,
+      "checked": "SP.POP.TOTL=45851378; year=2025; country=ARG",
+      "result": "coincide"
+    },
+    {
+      "id": "obs-arg-urban-population-share-2025",
+      "sourceFile": "data\\raw\\world-bank\\SP.URB.TOTL.IN.ZS-ARG-CHL.json",
+      "sourceRow": 1,
+      "checked": "SP.URB.TOTL.IN.ZS=92.3519221615173; year=2025; country=ARG",
+      "result": "coincide"
+    },
+    {
+      "id": "obs-chl-adult-literacy-rate-2017",
+      "sourceFile": "data\\raw\\world-bank\\SE.ADT.LITR.ZS-ARG-CHL.json",
+      "sourceRow": 75,
+      "checked": "SE.ADT.LITR.ZS=96.4000015258789; year=2017; country=CHL",
+      "result": "coincide"
+    },
+    {
+      "id": "obs-chl-population-age-0-14-2025",
+      "sourceFile": "data\\raw\\world-bank\\SP.POP.0014.TO.ZS-ARG-CHL.json",
+      "sourceRow": 67,
+      "checked": "SP.POP.0014.TO.ZS=16.5470018737738; year=2025; country=CHL",
+      "result": "coincide"
+    },
+    {
+      "id": "obs-chl-population-age-15-64-2025",
+      "sourceFile": "data\\raw\\world-bank\\SP.POP.1564.TO.ZS-ARG-CHL.json",
+      "sourceRow": 67,
+      "checked": "SP.POP.1564.TO.ZS=68.8632522757769; year=2025; country=CHL",
+      "result": "coincide"
+    },
+    {
+      "id": "obs-chl-population-age-65-plus-2025",
+      "sourceFile": "data\\raw\\world-bank\\SP.POP.65UP.TO.ZS-ARG-CHL.json",
+      "sourceRow": 67,
+      "checked": "SP.POP.65UP.TO.ZS=14.5897458504493; year=2025; country=CHL",
+      "result": "coincide"
+    },
+    {
+      "id": "obs-chl-poverty-international-3-2021ppp-2024",
+      "sourceFile": "data\\raw\\world-bank\\SI.POV.DDAY-ARG-CHL.json",
+      "sourceRow": 68,
+      "checked": "SI.POV.DDAY=0.4; year=2024; country=CHL",
+      "result": "coincide"
+    },
+    {
+      "id": "obs-chl-poverty-national-headcount-2022",
+      "sourceFile": "data\\raw\\world-bank\\SI.POV.NAHC-ARG-CHL.json",
+      "sourceRow": 70,
+      "checked": "SI.POV.NAHC=6.5; year=2022; country=CHL",
+      "result": "coincide"
+    },
+    {
+      "id": "obs-chl-rural-population-share-2025",
+      "sourceFile": "data\\raw\\world-bank\\SP.RUR.TOTL.ZS-ARG-CHL.json",
+      "sourceRow": 67,
+      "checked": "SP.RUR.TOTL.ZS=10.8227169980777; year=2025; country=CHL",
+      "result": "coincide"
+    },
+    {
+      "id": "obs-chl-total-population-2025",
+      "sourceFile": "data\\raw\\world-bank\\SP.POP.TOTL-ARG-CHL.json",
+      "sourceRow": 67,
+      "checked": "SP.POP.TOTL=19859921; year=2025; country=CHL",
+      "result": "coincide"
+    },
+    {
+      "id": "obs-chl-urban-population-share-2025",
+      "sourceFile": "data\\raw\\world-bank\\SP.URB.TOTL.IN.ZS-ARG-CHL.json",
+      "sourceRow": 67,
+      "checked": "SP.URB.TOTL.IN.ZS=89.1772830019223; year=2025; country=CHL",
+      "result": "coincide"
+    }
+  ],
+  "verificationMeaning": "verified significa coincidencia con el registro de la respuesta JSON original; no es una validación metodológica independiente.",
+  "pendingSeries": [
+    {
+      "indicator": "SI.POV.LMIC y SI.POV.UMIC",
+      "status": "pendiente",
+      "reason": "No se cargan líneas internacionales adicionales sin una necesidad analítica específica; nunca deben empalmarse con SI.POV.DDAY."
+    },
+    {
+      "indicator": "Otras medidas educativas",
+      "status": "pendiente",
+      "reason": "Requieren revisar nivel educativo, población de referencia y cobertura antes de elegir una variante adicional."
+    }
+  ],
+  "originalCourseFilesUnmodified": true
+}

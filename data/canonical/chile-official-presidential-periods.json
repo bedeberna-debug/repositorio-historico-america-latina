@@ -1,0 +1,686 @@
+[
+  {
+    "id": "pres-chl-oficial-gabriel-gonzalez-videla",
+    "countryCode": "CHL",
+    "presidentName": "Gabriel González Videla",
+    "startDate": "1946-11-03",
+    "endDate": "1952-11-03",
+    "durationDays": 2192,
+    "party": null,
+    "coalition": null,
+    "interruptionStatus": "completed",
+    "periodType": "constitutional",
+    "institutionalNote": "Denominación y fechas explícitas en fuente oficial; partido y coalición no se completan por inferencia.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Período documentado de Gabriel González Videla.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1946,
+        "endYear": 1952,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/presidents.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/presidentes_de_la_republica/index.html",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Serie oficial separada de comparative survival.xlsx; no sustituye ni modifica el archivo canónico anterior.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "pres-chl-oficial-carlos-ibanez-1952",
+    "countryCode": "CHL",
+    "presidentName": "Carlos Ibáñez del Campo",
+    "startDate": "1952-11-03",
+    "endDate": "1958-11-03",
+    "durationDays": 2191,
+    "party": null,
+    "coalition": null,
+    "interruptionStatus": "completed",
+    "periodType": "constitutional",
+    "institutionalNote": "Denominación y fechas explícitas en fuente oficial; partido y coalición no se completan por inferencia.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Período documentado de Carlos Ibáñez del Campo.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1952,
+        "endYear": 1958,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/ibanez.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/resenas_biograficas/wiki/Carlos_Ib%C3%A1%C3%B1ez_del_Campo",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Serie oficial separada de comparative survival.xlsx; no sustituye ni modifica el archivo canónico anterior.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "pres-chl-oficial-jorge-alessandri",
+    "countryCode": "CHL",
+    "presidentName": "Jorge Alessandri Rodríguez",
+    "startDate": "1958-11-03",
+    "endDate": "1964-11-03",
+    "durationDays": 2192,
+    "party": null,
+    "coalition": null,
+    "interruptionStatus": "completed",
+    "periodType": "constitutional",
+    "institutionalNote": "Denominación y fechas explícitas en fuente oficial; partido y coalición no se completan por inferencia.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Período documentado de Jorge Alessandri Rodríguez.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1958,
+        "endYear": 1964,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/alessandri.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/resenas_biograficas/wiki/Jorge_Alessandri_Rodr%C3%ADguez",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Serie oficial separada de comparative survival.xlsx; no sustituye ni modifica el archivo canónico anterior.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "pres-chl-oficial-eduardo-frei-montalva",
+    "countryCode": "CHL",
+    "presidentName": "Eduardo Frei Montalva",
+    "startDate": "1964-11-03",
+    "endDate": "1970-11-03",
+    "durationDays": 2191,
+    "party": null,
+    "coalition": null,
+    "interruptionStatus": "completed",
+    "periodType": "constitutional",
+    "institutionalNote": "Denominación y fechas explícitas en fuente oficial; partido y coalición no se completan por inferencia.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Período documentado de Eduardo Frei Montalva.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1964,
+        "endYear": 1970,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/presidents.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/presidentes_de_la_republica/index.html",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Serie oficial separada de comparative survival.xlsx; no sustituye ni modifica el archivo canónico anterior.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "pres-chl-oficial-salvador-allende",
+    "countryCode": "CHL",
+    "presidentName": "Salvador Allende Gossens",
+    "startDate": "1970-11-03",
+    "endDate": "1973-09-11",
+    "durationDays": 1043,
+    "party": null,
+    "coalition": null,
+    "interruptionStatus": "interrupted",
+    "periodType": "constitutional",
+    "institutionalNote": "Denominación y fechas explícitas en fuente oficial; partido y coalición no se completan por inferencia.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Período documentado de Salvador Allende Gossens.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1970,
+        "endYear": 1973,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/allende.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/resenas_biograficas/wiki/Salvador_Allende_Gossens",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Serie oficial separada de comparative survival.xlsx; no sustituye ni modifica el archivo canónico anterior.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "pres-chl-oficial-junta-gobierno-1973",
+    "countryCode": "CHL",
+    "presidentName": "Junta de Gobierno · Augusto Pinochet Ugarte",
+    "startDate": "1973-09-11",
+    "endDate": "1974-06-25",
+    "durationDays": 287,
+    "party": null,
+    "coalition": null,
+    "interruptionStatus": "completed",
+    "periodType": "de_facto",
+    "institutionalNote": "Denominación y fechas explícitas en fuente oficial; partido y coalición no se completan por inferencia.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Período documentado de Junta de Gobierno · Augusto Pinochet Ugarte.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1973,
+        "endYear": 1974,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/pinochet.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/resenas_biograficas/wiki/Augusto_Pinochet_Ugarte",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Serie oficial separada de comparative survival.xlsx; no sustituye ni modifica el archivo canónico anterior.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "pres-chl-oficial-augusto-pinochet-jefe-supremo",
+    "countryCode": "CHL",
+    "presidentName": "Augusto Pinochet Ugarte · Jefe Supremo de la Nación",
+    "startDate": "1974-06-26",
+    "endDate": "1974-12-16",
+    "durationDays": 173,
+    "party": null,
+    "coalition": null,
+    "interruptionStatus": "completed",
+    "periodType": "de_facto",
+    "institutionalNote": "Denominación y fechas explícitas en fuente oficial; partido y coalición no se completan por inferencia.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Período documentado de Augusto Pinochet Ugarte · Jefe Supremo de la Nación.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1974,
+        "endYear": 1974,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/pinochet.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/resenas_biograficas/wiki/Augusto_Pinochet_Ugarte",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Serie oficial separada de comparative survival.xlsx; no sustituye ni modifica el archivo canónico anterior.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "pres-chl-oficial-augusto-pinochet-de-facto",
+    "countryCode": "CHL",
+    "presidentName": "Augusto Pinochet Ugarte · Jefatura de Estado de facto",
+    "startDate": "1974-12-17",
+    "endDate": "1981-03-10",
+    "durationDays": 2275,
+    "party": null,
+    "coalition": null,
+    "interruptionStatus": "completed",
+    "periodType": "de_facto",
+    "institutionalNote": "Denominación y fechas explícitas en fuente oficial; partido y coalición no se completan por inferencia.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Período documentado de Augusto Pinochet Ugarte · Jefatura de Estado de facto.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1974,
+        "endYear": 1981,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/pinochet.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/resenas_biograficas/wiki/Augusto_Pinochet_Ugarte",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Serie oficial separada de comparative survival.xlsx; no sustituye ni modifica el archivo canónico anterior.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "pres-chl-oficial-augusto-pinochet-constitucional",
+    "countryCode": "CHL",
+    "presidentName": "Augusto Pinochet Ugarte · Presidente constitucional",
+    "startDate": "1981-03-11",
+    "endDate": "1990-03-11",
+    "durationDays": 3287,
+    "party": null,
+    "coalition": null,
+    "interruptionStatus": "completed",
+    "periodType": "constitutional",
+    "institutionalNote": "Denominación y fechas explícitas en fuente oficial; partido y coalición no se completan por inferencia.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Período documentado de Augusto Pinochet Ugarte · Presidente constitucional.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1981,
+        "endYear": 1990,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/pinochet.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/resenas_biograficas/wiki/Augusto_Pinochet_Ugarte",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Serie oficial separada de comparative survival.xlsx; no sustituye ni modifica el archivo canónico anterior.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "pres-chl-oficial-patricio-aylwin",
+    "countryCode": "CHL",
+    "presidentName": "Patricio Aylwin Azócar",
+    "startDate": "1990-03-11",
+    "endDate": "1994-03-11",
+    "durationDays": 1461,
+    "party": null,
+    "coalition": null,
+    "interruptionStatus": "completed",
+    "periodType": "constitutional",
+    "institutionalNote": "Denominación y fechas explícitas en fuente oficial; partido y coalición no se completan por inferencia.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Período documentado de Patricio Aylwin Azócar.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1990,
+        "endYear": 1994,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/congress_modern.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/congreso_nacional/historia?periodo=1990-2026",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Serie oficial separada de comparative survival.xlsx; no sustituye ni modifica el archivo canónico anterior.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "pres-chl-oficial-eduardo-frei-ruiz-tagle",
+    "countryCode": "CHL",
+    "presidentName": "Eduardo Frei Ruiz-Tagle",
+    "startDate": "1994-03-11",
+    "endDate": "2000-03-11",
+    "durationDays": 2192,
+    "party": null,
+    "coalition": null,
+    "interruptionStatus": "completed",
+    "periodType": "constitutional",
+    "institutionalNote": "Denominación y fechas explícitas en fuente oficial; partido y coalición no se completan por inferencia.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Período documentado de Eduardo Frei Ruiz-Tagle.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1994,
+        "endYear": 2000,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/presidents.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/presidentes_de_la_republica/index.html",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Serie oficial separada de comparative survival.xlsx; no sustituye ni modifica el archivo canónico anterior.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "pres-chl-oficial-ricardo-lagos",
+    "countryCode": "CHL",
+    "presidentName": "Ricardo Lagos Escobar",
+    "startDate": "2000-03-11",
+    "endDate": "2006-03-11",
+    "durationDays": 2191,
+    "party": null,
+    "coalition": null,
+    "interruptionStatus": "completed",
+    "periodType": "constitutional",
+    "institutionalNote": "Denominación y fechas explícitas en fuente oficial; partido y coalición no se completan por inferencia.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Período documentado de Ricardo Lagos Escobar.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2006,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/presidents.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/presidentes_de_la_republica/index.html",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Serie oficial separada de comparative survival.xlsx; no sustituye ni modifica el archivo canónico anterior.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "pres-chl-oficial-michelle-bachelet-1",
+    "countryCode": "CHL",
+    "presidentName": "Michelle Bachelet Jeria · primer gobierno",
+    "startDate": "2006-03-11",
+    "endDate": "2010-03-11",
+    "durationDays": 1461,
+    "party": null,
+    "coalition": null,
+    "interruptionStatus": "completed",
+    "periodType": "constitutional",
+    "institutionalNote": "Denominación y fechas explícitas en fuente oficial; partido y coalición no se completan por inferencia.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Período documentado de Michelle Bachelet Jeria · primer gobierno.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 2006,
+        "endYear": 2010,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/congress_modern.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/congreso_nacional/historia?periodo=1990-2026",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Serie oficial separada de comparative survival.xlsx; no sustituye ni modifica el archivo canónico anterior.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "pres-chl-oficial-sebastian-pinera-1",
+    "countryCode": "CHL",
+    "presidentName": "Sebastián Piñera Echenique · primer gobierno",
+    "startDate": "2010-03-11",
+    "endDate": "2014-03-11",
+    "durationDays": 1461,
+    "party": null,
+    "coalition": null,
+    "interruptionStatus": "completed",
+    "periodType": "constitutional",
+    "institutionalNote": "Denominación y fechas explícitas en fuente oficial; partido y coalición no se completan por inferencia.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Período documentado de Sebastián Piñera Echenique · primer gobierno.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 2010,
+        "endYear": 2014,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/congress_modern.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/congreso_nacional/historia?periodo=1990-2026",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Serie oficial separada de comparative survival.xlsx; no sustituye ni modifica el archivo canónico anterior.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "pres-chl-oficial-michelle-bachelet-2",
+    "countryCode": "CHL",
+    "presidentName": "Michelle Bachelet Jeria · segundo gobierno",
+    "startDate": "2014-03-11",
+    "endDate": "2018-03-11",
+    "durationDays": 1461,
+    "party": null,
+    "coalition": null,
+    "interruptionStatus": "completed",
+    "periodType": "constitutional",
+    "institutionalNote": "Denominación y fechas explícitas en fuente oficial; partido y coalición no se completan por inferencia.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Período documentado de Michelle Bachelet Jeria · segundo gobierno.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 2014,
+        "endYear": 2018,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/congress_modern.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/congreso_nacional/historia?periodo=1990-2026",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Serie oficial separada de comparative survival.xlsx; no sustituye ni modifica el archivo canónico anterior.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "pres-chl-oficial-sebastian-pinera-2",
+    "countryCode": "CHL",
+    "presidentName": "Sebastián Piñera Echenique · segundo gobierno",
+    "startDate": "2018-03-11",
+    "endDate": "2022-03-11",
+    "durationDays": 1461,
+    "party": null,
+    "coalition": null,
+    "interruptionStatus": "completed",
+    "periodType": "constitutional",
+    "institutionalNote": "Denominación y fechas explícitas en fuente oficial; partido y coalición no se completan por inferencia.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Período documentado de Sebastián Piñera Echenique · segundo gobierno.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 2018,
+        "endYear": 2022,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/presidents.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/presidentes_de_la_republica/index.html",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Serie oficial separada de comparative survival.xlsx; no sustituye ni modifica el archivo canónico anterior.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "pres-chl-oficial-gabriel-boric",
+    "countryCode": "CHL",
+    "presidentName": "Gabriel Boric Font",
+    "startDate": "2022-03-11",
+    "endDate": "2026-03-11",
+    "durationDays": 1461,
+    "party": null,
+    "coalition": null,
+    "interruptionStatus": "completed",
+    "periodType": "constitutional",
+    "institutionalNote": "Denominación y fechas explícitas en fuente oficial; partido y coalición no se completan por inferencia.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Período documentado de Gabriel Boric Font.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 2022,
+        "endYear": 2026,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/presidents.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/presidentes_de_la_republica/index.html",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Serie oficial separada de comparative survival.xlsx; no sustituye ni modifica el archivo canónico anterior.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "pres-chl-oficial-jose-antonio-kast",
+    "countryCode": "CHL",
+    "presidentName": "José Antonio Kast Rist",
+    "startDate": "2026-03-11",
+    "endDate": null,
+    "durationDays": 235,
+    "party": null,
+    "coalition": null,
+    "interruptionStatus": "unknown",
+    "periodType": "constitutional",
+    "institutionalNote": "Denominación y fechas explícitas en fuente oficial; partido y coalición no se completan por inferencia.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Período documentado de José Antonio Kast Rist.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 2026,
+        "endYear": 2026,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/kast.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Jos%C3%A9_Antonio_Kast_Adriasola",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Serie oficial separada de comparative survival.xlsx; no sustituye ni modifica el archivo canónico anterior.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  }
+]

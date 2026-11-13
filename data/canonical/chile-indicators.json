@@ -1,0 +1,371 @@
+[
+  {
+    "id": "gdp-total-constant-2015-usd",
+    "domain": "economy",
+    "theme": "Actividad económica",
+    "variant": "USD constantes de 2015",
+    "family": "Economía",
+    "name": "PIB total real",
+    "shortName": "PIB total real",
+    "kind": "continuous",
+    "unit": "miles de millones de USD constantes de 2015",
+    "definition": "Producto interno bruto a precios constantes de 2015, expresado en dólares estadounidenses; la normalización solo cambia la escala de presentación.",
+    "originalVariable": "NY.GDP.MKTP.KD",
+    "sourceIds": [
+      "world-bank-wdi-chile-fase05"
+    ],
+    "mapCompatible": false,
+    "methodology": {
+      "id": "wdi-ny.gdp.mktp.kd"
+    }
+  },
+  {
+    "id": "gdp-growth-annual",
+    "domain": "economy",
+    "theme": "Actividad económica",
+    "variant": "Tasa anual · PIB real",
+    "family": "Economía",
+    "name": "Crecimiento del PIB",
+    "shortName": "Crecimiento del PIB",
+    "kind": "continuous",
+    "unit": "% anual",
+    "definition": "Tasa de crecimiento anual del PIB a precios constantes, calculada por la fuente en moneda local constante.",
+    "originalVariable": "NY.GDP.MKTP.KD.ZG",
+    "sourceIds": [
+      "world-bank-wdi-chile-fase05"
+    ],
+    "mapCompatible": false,
+    "methodology": {
+      "id": "wdi-ny.gdp.mktp.kd.zg"
+    }
+  },
+  {
+    "id": "inflation-cpi-annual",
+    "domain": "economy",
+    "theme": "Precios",
+    "variant": "Variación anual del IPC",
+    "family": "Economía",
+    "name": "Inflación IPC",
+    "shortName": "Inflación IPC",
+    "kind": "continuous",
+    "unit": "% anual",
+    "definition": "Variación porcentual anual del índice de precios al consumidor, según el promedio anual publicado por WDI.",
+    "originalVariable": "FP.CPI.TOTL.ZG",
+    "sourceIds": [
+      "world-bank-wdi-chile-fase05"
+    ],
+    "mapCompatible": false,
+    "methodology": {
+      "id": "wdi-fp.cpi.totl.zg"
+    }
+  },
+  {
+    "id": "unemployment-ilo-modeled",
+    "domain": "economy",
+    "theme": "Trabajo",
+    "variant": "Estimación modelada OIT · % de la fuerza laboral",
+    "family": "Economía",
+    "name": "Desempleo · OIT modelado",
+    "shortName": "Desempleo · OIT modelado",
+    "kind": "continuous",
+    "unit": "% de la fuerza laboral",
+    "definition": "Personas desempleadas como porcentaje de la fuerza laboral; estimación modelada de la OIT armonizada por WDI.",
+    "originalVariable": "SL.UEM.TOTL.ZS",
+    "sourceIds": [
+      "world-bank-wdi-chile-fase05"
+    ],
+    "mapCompatible": false,
+    "methodology": {
+      "id": "wdi-sl.uem.totl.zs"
+    }
+  },
+  {
+    "id": "official-exchange-rate",
+    "domain": "economy",
+    "theme": "Precios y tipo de cambio",
+    "variant": "Promedio anual · moneda local por USD",
+    "family": "Economía",
+    "name": "Tipo de cambio oficial",
+    "shortName": "Tipo de cambio oficial",
+    "kind": "continuous",
+    "unit": "CLP por USD, promedio anual",
+    "definition": "Tipo de cambio oficial promedio anual: unidades de moneda local por dólar estadounidense.",
+    "originalVariable": "PA.NUS.FCRF",
+    "sourceIds": [
+      "world-bank-wdi-chile-fase05"
+    ],
+    "mapCompatible": false,
+    "methodology": {
+      "id": "wdi-pa.nus.fcrf"
+    }
+  },
+  {
+    "id": "lending-interest-rate",
+    "domain": "economy",
+    "theme": "Tasas de interés",
+    "variant": "Tasa bancaria activa",
+    "family": "Economía",
+    "name": "Tasa de interés activa",
+    "shortName": "Tasa de interés activa",
+    "kind": "continuous",
+    "unit": "% anual",
+    "definition": "Tasa que cobran los bancos por préstamos a clientes preferentes, según la definición y cobertura de WDI.",
+    "originalVariable": "FR.INR.LEND",
+    "sourceIds": [
+      "world-bank-wdi-chile-fase05"
+    ],
+    "mapCompatible": false,
+    "methodology": {
+      "id": "wdi-fr.inr.lend"
+    }
+  },
+  {
+    "id": "gdp-agriculture-share",
+    "domain": "economy",
+    "theme": "Composición del PIB por actividad",
+    "variant": "Valor agregado · % del PIB",
+    "family": "Economía",
+    "name": "PIB · agricultura",
+    "shortName": "PIB · agricultura",
+    "kind": "continuous",
+    "unit": "% del PIB",
+    "definition": "Valor agregado de agricultura, silvicultura y pesca como porcentaje del PIB.",
+    "originalVariable": "NV.AGR.TOTL.ZS",
+    "sourceIds": [
+      "world-bank-wdi-chile-fase05"
+    ],
+    "mapCompatible": false,
+    "methodology": {
+      "id": "wdi-nv.agr.totl.zs"
+    }
+  },
+  {
+    "id": "gdp-industry-share",
+    "domain": "economy",
+    "theme": "Composición del PIB por actividad",
+    "variant": "Valor agregado · % del PIB",
+    "family": "Economía",
+    "name": "PIB · industria",
+    "shortName": "PIB · industria",
+    "kind": "continuous",
+    "unit": "% del PIB",
+    "definition": "Valor agregado de la industria, incluida la construcción, como porcentaje del PIB.",
+    "originalVariable": "NV.IND.TOTL.ZS",
+    "sourceIds": [
+      "world-bank-wdi-chile-fase05"
+    ],
+    "mapCompatible": false,
+    "methodology": {
+      "id": "wdi-nv.ind.totl.zs"
+    }
+  },
+  {
+    "id": "gdp-services-share",
+    "domain": "economy",
+    "theme": "Composición del PIB por actividad",
+    "variant": "Valor agregado · % del PIB",
+    "family": "Economía",
+    "name": "PIB · servicios",
+    "shortName": "PIB · servicios",
+    "kind": "continuous",
+    "unit": "% del PIB",
+    "definition": "Valor agregado de los servicios como porcentaje del PIB.",
+    "originalVariable": "NV.SRV.TOTL.ZS",
+    "sourceIds": [
+      "world-bank-wdi-chile-fase05"
+    ],
+    "mapCompatible": false,
+    "methodology": {
+      "id": "wdi-nv.srv.totl.zs"
+    }
+  },
+  {
+    "id": "gini-index",
+    "domain": "society",
+    "theme": "Distribución de ingresos",
+    "variant": "Desigualdad de ingreso o consumo según encuesta",
+    "family": "Sociedad, demografía y condiciones de vida",
+    "name": "Índice de Gini",
+    "shortName": "Índice de Gini",
+    "kind": "continuous",
+    "unit": "índice de 0 a 100",
+    "definition": "Índice de Gini de la distribución del ingreso o consumo; cero representa igualdad perfecta y cien desigualdad perfecta.",
+    "originalVariable": "SI.POV.GINI",
+    "sourceIds": [
+      "world-bank-wdi-chile-fase05"
+    ],
+    "mapCompatible": false,
+    "methodology": {
+      "id": "wdi-si.pov.gini"
+    }
+  },
+  {
+    "id": "labor-force-participation-rate",
+    "domain": "society",
+    "theme": "Ocupación y actividad",
+    "variant": "Estimación modelada OIT · 15 años o más",
+    "family": "Sociedad, demografía y condiciones de vida",
+    "name": "Participación laboral",
+    "shortName": "Participación laboral",
+    "kind": "continuous",
+    "unit": "% de la población de 15 años o más",
+    "definition": "Proporción de la población de 15 años o más que participa económicamente; estimación modelada de la OIT.",
+    "originalVariable": "SL.TLF.CACT.ZS",
+    "sourceIds": [
+      "world-bank-wdi-chile-fase05"
+    ],
+    "mapCompatible": false,
+    "methodology": {
+      "id": "wdi-sl.tlf.cact.zs"
+    }
+  },
+  {
+    "id": "employment-agriculture-share",
+    "domain": "society",
+    "theme": "Composición laboral",
+    "variant": "Estimación modelada OIT · % del empleo",
+    "family": "Sociedad, demografía y condiciones de vida",
+    "name": "Empleo · agricultura",
+    "shortName": "Empleo · agricultura",
+    "kind": "continuous",
+    "unit": "% del empleo total",
+    "definition": "Empleo en agricultura como porcentaje del empleo total; estimación modelada de la OIT.",
+    "originalVariable": "SL.AGR.EMPL.ZS",
+    "sourceIds": [
+      "world-bank-wdi-chile-fase05"
+    ],
+    "mapCompatible": false,
+    "methodology": {
+      "id": "wdi-ilo-modeled-employment-agriculture",
+      "compositionGroup": "employment",
+      "compositionTolerance": 0.2,
+      "comparabilityNotes": "Los tres componentes comparten la estimación modelada OIT y se validan como composición del empleo total."
+    }
+  },
+  {
+    "id": "employment-industry-share",
+    "domain": "society",
+    "theme": "Composición laboral",
+    "variant": "Estimación modelada OIT · % del empleo",
+    "family": "Sociedad, demografía y condiciones de vida",
+    "name": "Empleo · industria",
+    "shortName": "Empleo · industria",
+    "kind": "continuous",
+    "unit": "% del empleo total",
+    "definition": "Empleo en industria como porcentaje del empleo total; estimación modelada de la OIT.",
+    "originalVariable": "SL.IND.EMPL.ZS",
+    "sourceIds": [
+      "world-bank-wdi-chile-fase05"
+    ],
+    "mapCompatible": false,
+    "methodology": {
+      "id": "wdi-ilo-modeled-employment-industry",
+      "compositionGroup": "employment",
+      "compositionTolerance": 0.2,
+      "comparabilityNotes": "Los tres componentes comparten la estimación modelada OIT y se validan como composición del empleo total."
+    }
+  },
+  {
+    "id": "employment-services-share",
+    "domain": "society",
+    "theme": "Composición laboral",
+    "variant": "Estimación modelada OIT · % del empleo",
+    "family": "Sociedad, demografía y condiciones de vida",
+    "name": "Empleo · servicios",
+    "shortName": "Empleo · servicios",
+    "kind": "continuous",
+    "unit": "% del empleo total",
+    "definition": "Empleo en servicios como porcentaje del empleo total; estimación modelada de la OIT.",
+    "originalVariable": "SL.SRV.EMPL.ZS",
+    "sourceIds": [
+      "world-bank-wdi-chile-fase05"
+    ],
+    "mapCompatible": false,
+    "methodology": {
+      "id": "wdi-ilo-modeled-employment-services",
+      "compositionGroup": "employment",
+      "compositionTolerance": 0.2,
+      "comparabilityNotes": "Los tres componentes comparten la estimación modelada OIT y se validan como composición del empleo total."
+    }
+  },
+  {
+    "id": "electricity-access",
+    "domain": "society",
+    "theme": "Servicios básicos",
+    "variant": "% de la población",
+    "family": "Sociedad, demografía y condiciones de vida",
+    "name": "Acceso a electricidad",
+    "shortName": "Acceso a electricidad",
+    "kind": "continuous",
+    "unit": "% de la población",
+    "definition": "Porcentaje de la población con acceso a electricidad, según la base WDI y sus fuentes de origen.",
+    "originalVariable": "EG.ELC.ACCS.ZS",
+    "sourceIds": [
+      "world-bank-wdi-chile-fase05"
+    ],
+    "mapCompatible": false,
+    "methodology": {
+      "id": "wdi-eg.elc.accs.zs"
+    }
+  },
+  {
+    "id": "government-expense-share-gdp",
+    "domain": "economy",
+    "theme": "Presupuesto público",
+    "variant": "Gasto · % del PIB",
+    "family": "Economía",
+    "name": "Gasto público",
+    "shortName": "Gasto público",
+    "kind": "continuous",
+    "unit": "% del PIB",
+    "definition": "Gasto del gobierno como porcentaje del PIB según la variable GC.XPN.TOTL.GD.ZS; el alcance institucional exacto se conserva en la ficha oficial.",
+    "originalVariable": "GC.XPN.TOTL.GD.ZS",
+    "sourceIds": [
+      "world-bank-wdi-chile-fase05"
+    ],
+    "mapCompatible": false,
+    "methodology": {
+      "id": "wdi-gc.xpn.totl.gd.zs"
+    }
+  },
+  {
+    "id": "government-revenue-share-gdp",
+    "domain": "economy",
+    "theme": "Presupuesto público",
+    "variant": "Ingresos excluyendo donaciones · % del PIB",
+    "family": "Economía",
+    "name": "Ingresos públicos sin donaciones",
+    "shortName": "Ingresos públicos sin donaciones",
+    "kind": "continuous",
+    "unit": "% del PIB",
+    "definition": "Ingresos públicos excluyendo donaciones como porcentaje del PIB, según WDI.",
+    "originalVariable": "GC.REV.XGRT.GD.ZS",
+    "sourceIds": [
+      "world-bank-wdi-chile-fase05"
+    ],
+    "mapCompatible": false,
+    "methodology": {
+      "id": "wdi-gc.rev.xgrt.gd.zs"
+    }
+  },
+  {
+    "id": "central-government-debt-share-gdp",
+    "domain": "economy",
+    "theme": "Deuda pública",
+    "variant": "Gobierno central · % del PIB",
+    "family": "Economía",
+    "name": "Deuda del gobierno central",
+    "shortName": "Deuda del gobierno central",
+    "kind": "continuous",
+    "unit": "% del PIB",
+    "definition": "Deuda bruta del gobierno central como porcentaje del PIB; no representa necesariamente la deuda del gobierno general o del sector público.",
+    "originalVariable": "GC.DOD.TOTL.GD.ZS",
+    "sourceIds": [
+      "world-bank-wdi-chile-fase05"
+    ],
+    "mapCompatible": false,
+    "methodology": {
+      "id": "wdi-gc.dod.totl.gd.zs"
+    }
+  }
+]

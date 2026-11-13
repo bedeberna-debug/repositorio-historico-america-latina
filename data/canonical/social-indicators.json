@@ -1,0 +1,207 @@
+[
+  {
+    "id": "total-population",
+    "domain": "society",
+    "theme": "Población",
+    "variant": "Estimación de mitad de año",
+    "family": "Sociedad, demografía y condiciones de vida",
+    "name": "Población total",
+    "shortName": "Población total",
+    "kind": "continuous",
+    "unit": "millones de personas",
+    "definition": "Población total según la definición de facto, que cuenta a todos los residentes con independencia de su situación legal o ciudadanía; estimaciones de mitad de año.",
+    "originalVariable": "SP.POP.TOTL",
+    "sourceIds": [
+      "world-bank-wdi"
+    ],
+    "mapCompatible": false,
+    "methodology": {
+      "id": "wdi-sp-pop-totl-midyear"
+    }
+  },
+  {
+    "id": "population-age-0-14",
+    "domain": "society",
+    "theme": "Composición de la población",
+    "variant": "Participación sobre población total",
+    "family": "Sociedad, demografía y condiciones de vida",
+    "name": "Población de 0 a 14 años",
+    "shortName": "Población de 0 a 14 años",
+    "kind": "continuous",
+    "unit": "% de la población total",
+    "definition": "Población de 0 a 14 años como porcentaje de la población total, según la definición de facto de población.",
+    "originalVariable": "SP.POP.0014.TO.ZS",
+    "sourceIds": [
+      "world-bank-wdi"
+    ],
+    "mapCompatible": false,
+    "methodology": {
+      "id": "wdi-wpp-age-0-14-share",
+      "compositionGroup": "age",
+      "compositionTolerance": 0.2
+    }
+  },
+  {
+    "id": "population-age-15-64",
+    "domain": "society",
+    "theme": "Composición de la población",
+    "variant": "Participación sobre población total",
+    "family": "Sociedad, demografía y condiciones de vida",
+    "name": "Población de 15 a 64 años",
+    "shortName": "Población de 15 a 64 años",
+    "kind": "continuous",
+    "unit": "% de la población total",
+    "definition": "Población de 15 a 64 años como porcentaje de la población total, según la definición de facto de población.",
+    "originalVariable": "SP.POP.1564.TO.ZS",
+    "sourceIds": [
+      "world-bank-wdi"
+    ],
+    "mapCompatible": false,
+    "methodology": {
+      "id": "wdi-wpp-age-15-64-share",
+      "compositionGroup": "age",
+      "compositionTolerance": 0.2
+    }
+  },
+  {
+    "id": "population-age-65-plus",
+    "domain": "society",
+    "theme": "Composición de la población",
+    "variant": "Participación sobre población total",
+    "family": "Sociedad, demografía y condiciones de vida",
+    "name": "Población de 65 años o más",
+    "shortName": "Población de 65 años o más",
+    "kind": "continuous",
+    "unit": "% de la población total",
+    "definition": "Población de 65 años o más como porcentaje de la población total, según la definición de facto de población.",
+    "originalVariable": "SP.POP.65UP.TO.ZS",
+    "sourceIds": [
+      "world-bank-wdi"
+    ],
+    "mapCompatible": false,
+    "methodology": {
+      "id": "wdi-wpp-age-65-plus-share",
+      "compositionGroup": "age",
+      "compositionTolerance": 0.2
+    }
+  },
+  {
+    "id": "urban-population-share",
+    "domain": "society",
+    "theme": "Composición de la población",
+    "variant": "Definiciones urbanas nacionales armonizadas por ONU",
+    "family": "Sociedad, demografía y condiciones de vida",
+    "name": "Población urbana",
+    "shortName": "Población urbana",
+    "kind": "continuous",
+    "unit": "% de la población total",
+    "definition": "Población que vive en áreas urbanas definidas por las oficinas nacionales de estadística; datos recopilados y suavizados por la División de Población de la ONU.",
+    "originalVariable": "SP.URB.TOTL.IN.ZS",
+    "sourceIds": [
+      "world-bank-wdi"
+    ],
+    "mapCompatible": false,
+    "methodology": {
+      "id": "wdi-wup-urban-share",
+      "compositionGroup": "residence",
+      "compositionTolerance": 0.2,
+      "comparabilityNotes": "Las áreas urbanas se definen según criterios de las oficinas estadísticas nacionales."
+    }
+  },
+  {
+    "id": "rural-population-share",
+    "domain": "society",
+    "theme": "Composición de la población",
+    "variant": "Residuo entre población total y urbana",
+    "family": "Sociedad, demografía y condiciones de vida",
+    "name": "Población rural",
+    "shortName": "Población rural",
+    "kind": "continuous",
+    "unit": "% de la población total",
+    "definition": "Población que vive en áreas rurales según definiciones de las oficinas nacionales de estadística; se calcula como diferencia entre población total y urbana.",
+    "originalVariable": "SP.RUR.TOTL.ZS",
+    "sourceIds": [
+      "world-bank-wdi"
+    ],
+    "mapCompatible": false,
+    "methodology": {
+      "id": "wdi-wup-rural-residual-share",
+      "compositionGroup": "residence",
+      "compositionTolerance": 0.2,
+      "comparabilityNotes": "Componente residual de la población urbana; comparte las definiciones territoriales nacionales."
+    }
+  },
+  {
+    "id": "poverty-national-headcount",
+    "domain": "society",
+    "theme": "Pobreza",
+    "variant": "Incidencia · línea nacional",
+    "family": "Sociedad, demografía y condiciones de vida",
+    "name": "Pobreza · línea nacional",
+    "shortName": "Pobreza · línea nacional",
+    "kind": "continuous",
+    "unit": "% de la población",
+    "definition": "Porcentaje de la población que vive por debajo de la línea o líneas nacionales de pobreza; estimaciones basadas en subgrupos de encuestas de hogares ponderados por población.",
+    "originalVariable": "SI.POV.NAHC",
+    "sourceIds": [
+      "world-bank-wdi"
+    ],
+    "mapCompatible": false,
+    "methodology": {
+      "id": "wdi-pip-national-headcount",
+      "lineType": "national",
+      "povertyLine": null,
+      "monetaryUnit": null,
+      "referenceYear": null,
+      "measure": "incidence",
+      "comparabilityNotes": "No comparar directamente las líneas nacionales entre países ni empalmarlas con líneas internacionales. Los años sin encuesta permanecen sin dato."
+    }
+  },
+  {
+    "id": "poverty-international-3-2021ppp",
+    "domain": "society",
+    "theme": "Pobreza",
+    "variant": "Incidencia · línea internacional USD 3,00 · PPA 2021",
+    "family": "Sociedad, demografía y condiciones de vida",
+    "name": "Pobreza · USD 3,00 PPA 2021",
+    "shortName": "Pobreza · USD 3,00 PPA 2021",
+    "kind": "continuous",
+    "unit": "% de la población",
+    "definition": "Porcentaje de la población que vive con menos de USD 3,00 por día a precios ajustados por paridad de poder adquisitivo de 2021.",
+    "originalVariable": "SI.POV.DDAY",
+    "sourceIds": [
+      "world-bank-wdi"
+    ],
+    "mapCompatible": false,
+    "methodology": {
+      "id": "wdi-pip-international-3-2021ppp",
+      "lineType": "international",
+      "povertyLine": 3.0,
+      "monetaryUnit": "USD por persona y día, PPA",
+      "referenceYear": 2021,
+      "measure": "incidence",
+      "comparabilityNotes": "No combinar con líneas nacionales ni con líneas internacionales de otras versiones de PPA. Los años sin encuesta permanecen sin dato."
+    }
+  },
+  {
+    "id": "adult-literacy-rate",
+    "domain": "society",
+    "theme": "Educación",
+    "variant": "Personas de 15 años o más · UNESCO-UIS",
+    "family": "Sociedad, demografía y condiciones de vida",
+    "name": "Alfabetización adulta",
+    "shortName": "Alfabetización adulta",
+    "kind": "continuous",
+    "unit": "% de personas de 15 años o más",
+    "definition": "Porcentaje de personas de 15 años o más que pueden leer y escribir, comprendiendo una afirmación breve y sencilla sobre su vida cotidiana.",
+    "originalVariable": "SE.ADT.LITR.ZS",
+    "sourceIds": [
+      "world-bank-wdi"
+    ],
+    "mapCompatible": false,
+    "methodology": {
+      "id": "unesco-uis-adult-literacy-15-plus",
+      "comparabilityNotes": "La cobertura depende de censos o encuestas disponibles; no se interpola entre años."
+    }
+  }
+]

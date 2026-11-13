@@ -1,0 +1,36 @@
+[
+  {
+    "id": "judicial-chl-supreme-court-reform-1957",
+    "countryCode": "CHL",
+    "institutionId": "supreme-court",
+    "institutionName": "Corte Suprema de Chile",
+    "changeType": "competence_change",
+    "date": "1957-09-30",
+    "description": "La reforma constitucional Ley 12.548 incorporó el reclamo ante la Corte Suprema, actuando como jurado, contra la cancelación de la carta de nacionalización.",
+    "provenance": {
+      "sourceId": "bcn-historia-constitucional",
+      "datasetVersionId": "bcn-historia-constitucional-2026-11-01",
+      "originalVariable": "Historia de la ley · artículo 10 · PDF",
+      "definition": "Cambio puntual de competencias de la Corte Suprema por la Ley 12.548 de 1957.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1957,
+        "endYear": 1957,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/judicial_reform.pdf",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/obtienearchivo?id=recursoslegales/10221.3/422/1/HLArt10CPR.pdf",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Primera cobertura judicial mínima. No se infiere número de integrantes ni persistencia posterior sin otra fuente.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "name": "repositorio-historico-america-latina",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "prepare:geo": "node scripts/prepare-geography.mjs",
+    "import:data": "python scripts/import_data.py",
+    "import:social": "python scripts/import_social_data.py",
+    "import:chile": "python scripts/import_chile_phase05.py",
+    "import:chile:documentary": "python scripts/import_chile_documentary.py",
+    "check:browser": "npm run build && node scripts/browser-check.mjs && node scripts/browser-check-phase06.mjs && node scripts/browser-check-phase06b.mjs"
+  },
+  "dependencies": {
+    "d3-geo": "^3.1.1",
+    "lucide-react": "^0.468.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "topojson-client": "^3.1.0",
+    "write-excel-file": "^4.1.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.1.0",
+    "@testing-library/user-event": "^14.5.2",
+    "@types/d3-geo": "^3.1.0",
+    "@types/node": "^22.10.2",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@types/topojson-client": "^3.1.5",
+    "@vitejs/plugin-react": "^6.1.2",
+    "jsdom": "^30.1.3",
+    "read-excel-file": "^9.3.14",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.5",
+    "vitest": "^5.0.5",
+    "world-atlas": "^2.0.2"
+  }
+}

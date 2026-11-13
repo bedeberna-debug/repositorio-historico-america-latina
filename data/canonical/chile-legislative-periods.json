@@ -1,0 +1,1520 @@
+[
+  {
+    "id": "leg-chl-upper-absent-1973-1990",
+    "countryCode": "CHL",
+    "chamber": "upper",
+    "startDate": "1973-09-11",
+    "endDate": "1990-03-11",
+    "termYears": null,
+    "renewal": "not_applicable",
+    "segments": [
+      {
+        "id": "leg-chl-upper-absent-segment",
+        "startDate": "1973-09-11",
+        "endDate": "1990-03-11",
+        "relation": "congress_absent_or_dissolved",
+        "majorityCriterion": null,
+        "measuredAt": null,
+        "provenance": {
+          "sourceId": "bcn-historia-politica",
+          "datasetVersionId": "bcn-historia-politica-2026-11-01",
+          "originalVariable": "Contenido documental HTML",
+          "definition": "Congreso Nacional disuelto; la Junta Militar ejerció la función legislativa en su reemplazo.",
+          "unit": "fechas ISO 8601 y descripción documental",
+          "coverage": {
+            "startYear": 1973,
+            "endYear": 1990,
+            "territorialLevel": "national"
+          },
+          "transformations": [
+            "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+          ],
+          "verificationStatus": "verified",
+          "sourceFile": "data/raw/chile-oficial/congress_absent.html",
+          "sourceSheet": null,
+          "sourceRow": 1,
+          "url": "https://www.bcn.cl/historiapolitica/congreso_nacional/historia/index.html?periodo=1973-1990",
+          "accessDate": "2026-11-01",
+          "methodologyId": "curaduria-documental-chile-fase05",
+          "methodologyVariant": "Fuente oficial y fechas explícitas",
+          "notes": "Estado institucional documentado, no dato faltante ni mayoría política.",
+          "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+        }
+      }
+    ],
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Congreso Nacional disuelto; la Junta Militar ejerció la función legislativa en su reemplazo.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1973,
+        "endYear": 1990,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/congress_absent.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/congreso_nacional/historia/index.html?periodo=1973-1990",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Estado institucional documentado, no dato faltante ni mayoría política.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "leg-chl-upper-1990-1994",
+    "countryCode": "CHL",
+    "chamber": "upper",
+    "startDate": "1990-03-11",
+    "endDate": "1994-03-10",
+    "termYears": 8,
+    "renewal": "partial",
+    "segments": [
+      {
+        "id": "leg-chl-upper-1990-unknown",
+        "startDate": "1990-03-11",
+        "endDate": "1994-03-10",
+        "relation": "unknown",
+        "majorityCriterion": null,
+        "measuredAt": null,
+        "provenance": {
+          "sourceId": "bcn-historia-politica",
+          "datasetVersionId": "bcn-historia-politica-2026-11-01",
+          "originalVariable": "Contenido documental HTML",
+          "definition": "Período legislativo 1990–1994; la cámara conserva temporalidad propia.",
+          "unit": "fechas ISO 8601 y descripción documental",
+          "coverage": {
+            "startYear": 1990,
+            "endYear": 1994,
+            "territorialLevel": "national"
+          },
+          "transformations": [
+            "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+          ],
+          "verificationStatus": "verified",
+          "sourceFile": "data/raw/chile-oficial/congress_modern.html",
+          "sourceSheet": null,
+          "sourceRow": 1,
+          "url": "https://www.bcn.cl/historiapolitica/congreso_nacional/historia?periodo=1990-2026",
+          "accessDate": "2026-11-01",
+          "methodologyId": "curaduria-documental-chile-fase05",
+          "methodologyVariant": "Fuente oficial y fechas explícitas",
+          "notes": "Senadores: mandatos de ocho años con renovación parcial. Diputados: mandatos de cuatro años. No se carga correlación de fuerzas sin una medición documentada.",
+          "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+        }
+      }
+    ],
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Período legislativo 1990–1994; la cámara conserva temporalidad propia.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1990,
+        "endYear": 1994,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/congress_modern.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/congreso_nacional/historia?periodo=1990-2026",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Senadores: mandatos de ocho años con renovación parcial. Diputados: mandatos de cuatro años. No se carga correlación de fuerzas sin una medición documentada.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "leg-chl-upper-1994-1998",
+    "countryCode": "CHL",
+    "chamber": "upper",
+    "startDate": "1994-03-11",
+    "endDate": "1998-03-10",
+    "termYears": 8,
+    "renewal": "partial",
+    "segments": [
+      {
+        "id": "leg-chl-upper-1994-unknown",
+        "startDate": "1994-03-11",
+        "endDate": "1998-03-10",
+        "relation": "unknown",
+        "majorityCriterion": null,
+        "measuredAt": null,
+        "provenance": {
+          "sourceId": "bcn-historia-politica",
+          "datasetVersionId": "bcn-historia-politica-2026-11-01",
+          "originalVariable": "Contenido documental HTML",
+          "definition": "Período legislativo 1994–1998; la cámara conserva temporalidad propia.",
+          "unit": "fechas ISO 8601 y descripción documental",
+          "coverage": {
+            "startYear": 1994,
+            "endYear": 1998,
+            "territorialLevel": "national"
+          },
+          "transformations": [
+            "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+          ],
+          "verificationStatus": "verified",
+          "sourceFile": "data/raw/chile-oficial/congress_modern.html",
+          "sourceSheet": null,
+          "sourceRow": 1,
+          "url": "https://www.bcn.cl/historiapolitica/congreso_nacional/historia?periodo=1990-2026",
+          "accessDate": "2026-11-01",
+          "methodologyId": "curaduria-documental-chile-fase05",
+          "methodologyVariant": "Fuente oficial y fechas explícitas",
+          "notes": "Senadores: mandatos de ocho años con renovación parcial. Diputados: mandatos de cuatro años. No se carga correlación de fuerzas sin una medición documentada.",
+          "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+        }
+      }
+    ],
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Período legislativo 1994–1998; la cámara conserva temporalidad propia.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1994,
+        "endYear": 1998,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/congress_modern.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/congreso_nacional/historia?periodo=1990-2026",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Senadores: mandatos de ocho años con renovación parcial. Diputados: mandatos de cuatro años. No se carga correlación de fuerzas sin una medición documentada.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "leg-chl-upper-1998-2002",
+    "countryCode": "CHL",
+    "chamber": "upper",
+    "startDate": "1998-03-11",
+    "endDate": "2002-03-10",
+    "termYears": 8,
+    "renewal": "partial",
+    "segments": [
+      {
+        "id": "leg-chl-upper-1998-unknown",
+        "startDate": "1998-03-11",
+        "endDate": "2002-03-10",
+        "relation": "unknown",
+        "majorityCriterion": null,
+        "measuredAt": null,
+        "provenance": {
+          "sourceId": "bcn-historia-politica",
+          "datasetVersionId": "bcn-historia-politica-2026-11-01",
+          "originalVariable": "Contenido documental HTML",
+          "definition": "Período legislativo 1998–2002; la cámara conserva temporalidad propia.",
+          "unit": "fechas ISO 8601 y descripción documental",
+          "coverage": {
+            "startYear": 1998,
+            "endYear": 2002,
+            "territorialLevel": "national"
+          },
+          "transformations": [
+            "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+          ],
+          "verificationStatus": "verified",
+          "sourceFile": "data/raw/chile-oficial/congress_modern.html",
+          "sourceSheet": null,
+          "sourceRow": 1,
+          "url": "https://www.bcn.cl/historiapolitica/congreso_nacional/historia?periodo=1990-2026",
+          "accessDate": "2026-11-01",
+          "methodologyId": "curaduria-documental-chile-fase05",
+          "methodologyVariant": "Fuente oficial y fechas explícitas",
+          "notes": "Senadores: mandatos de ocho años con renovación parcial. Diputados: mandatos de cuatro años. No se carga correlación de fuerzas sin una medición documentada.",
+          "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+        }
+      }
+    ],
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Período legislativo 1998–2002; la cámara conserva temporalidad propia.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1998,
+        "endYear": 2002,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/congress_modern.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/congreso_nacional/historia?periodo=1990-2026",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Senadores: mandatos de ocho años con renovación parcial. Diputados: mandatos de cuatro años. No se carga correlación de fuerzas sin una medición documentada.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "leg-chl-upper-2002-2006",
+    "countryCode": "CHL",
+    "chamber": "upper",
+    "startDate": "2002-03-11",
+    "endDate": "2006-03-10",
+    "termYears": 8,
+    "renewal": "partial",
+    "segments": [
+      {
+        "id": "leg-chl-upper-2002-unknown",
+        "startDate": "2002-03-11",
+        "endDate": "2006-03-10",
+        "relation": "unknown",
+        "majorityCriterion": null,
+        "measuredAt": null,
+        "provenance": {
+          "sourceId": "bcn-historia-politica",
+          "datasetVersionId": "bcn-historia-politica-2026-11-01",
+          "originalVariable": "Contenido documental HTML",
+          "definition": "Período legislativo 2002–2006; la cámara conserva temporalidad propia.",
+          "unit": "fechas ISO 8601 y descripción documental",
+          "coverage": {
+            "startYear": 2002,
+            "endYear": 2006,
+            "territorialLevel": "national"
+          },
+          "transformations": [
+            "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+          ],
+          "verificationStatus": "verified",
+          "sourceFile": "data/raw/chile-oficial/congress_modern.html",
+          "sourceSheet": null,
+          "sourceRow": 1,
+          "url": "https://www.bcn.cl/historiapolitica/congreso_nacional/historia?periodo=1990-2026",
+          "accessDate": "2026-11-01",
+          "methodologyId": "curaduria-documental-chile-fase05",
+          "methodologyVariant": "Fuente oficial y fechas explícitas",
+          "notes": "Senadores: mandatos de ocho años con renovación parcial. Diputados: mandatos de cuatro años. No se carga correlación de fuerzas sin una medición documentada.",
+          "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+        }
+      }
+    ],
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Período legislativo 2002–2006; la cámara conserva temporalidad propia.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 2002,
+        "endYear": 2006,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/congress_modern.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/congreso_nacional/historia?periodo=1990-2026",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Senadores: mandatos de ocho años con renovación parcial. Diputados: mandatos de cuatro años. No se carga correlación de fuerzas sin una medición documentada.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "leg-chl-upper-2006-2010",
+    "countryCode": "CHL",
+    "chamber": "upper",
+    "startDate": "2006-03-11",
+    "endDate": "2010-03-10",
+    "termYears": 8,
+    "renewal": "partial",
+    "segments": [
+      {
+        "id": "leg-chl-upper-2006-unknown",
+        "startDate": "2006-03-11",
+        "endDate": "2010-03-10",
+        "relation": "unknown",
+        "majorityCriterion": null,
+        "measuredAt": null,
+        "provenance": {
+          "sourceId": "bcn-historia-politica",
+          "datasetVersionId": "bcn-historia-politica-2026-11-01",
+          "originalVariable": "Contenido documental HTML",
+          "definition": "Período legislativo 2006–2010; la cámara conserva temporalidad propia.",
+          "unit": "fechas ISO 8601 y descripción documental",
+          "coverage": {
+            "startYear": 2006,
+            "endYear": 2010,
+            "territorialLevel": "national"
+          },
+          "transformations": [
+            "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+          ],
+          "verificationStatus": "verified",
+          "sourceFile": "data/raw/chile-oficial/congress_modern.html",
+          "sourceSheet": null,
+          "sourceRow": 1,
+          "url": "https://www.bcn.cl/historiapolitica/congreso_nacional/historia?periodo=1990-2026",
+          "accessDate": "2026-11-01",
+          "methodologyId": "curaduria-documental-chile-fase05",
+          "methodologyVariant": "Fuente oficial y fechas explícitas",
+          "notes": "Senadores: mandatos de ocho años con renovación parcial. Diputados: mandatos de cuatro años. No se carga correlación de fuerzas sin una medición documentada.",
+          "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+        }
+      }
+    ],
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Período legislativo 2006–2010; la cámara conserva temporalidad propia.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 2006,
+        "endYear": 2010,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/congress_modern.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/congreso_nacional/historia?periodo=1990-2026",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Senadores: mandatos de ocho años con renovación parcial. Diputados: mandatos de cuatro años. No se carga correlación de fuerzas sin una medición documentada.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "leg-chl-upper-2010-2014",
+    "countryCode": "CHL",
+    "chamber": "upper",
+    "startDate": "2010-03-11",
+    "endDate": "2014-03-10",
+    "termYears": 8,
+    "renewal": "partial",
+    "segments": [
+      {
+        "id": "leg-chl-upper-2010-unknown",
+        "startDate": "2010-03-11",
+        "endDate": "2014-03-10",
+        "relation": "unknown",
+        "majorityCriterion": null,
+        "measuredAt": null,
+        "provenance": {
+          "sourceId": "bcn-historia-politica",
+          "datasetVersionId": "bcn-historia-politica-2026-11-01",
+          "originalVariable": "Contenido documental HTML",
+          "definition": "Período legislativo 2010–2014; la cámara conserva temporalidad propia.",
+          "unit": "fechas ISO 8601 y descripción documental",
+          "coverage": {
+            "startYear": 2010,
+            "endYear": 2014,
+            "territorialLevel": "national"
+          },
+          "transformations": [
+            "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+          ],
+          "verificationStatus": "verified",
+          "sourceFile": "data/raw/chile-oficial/congress_modern.html",
+          "sourceSheet": null,
+          "sourceRow": 1,
+          "url": "https://www.bcn.cl/historiapolitica/congreso_nacional/historia?periodo=1990-2026",
+          "accessDate": "2026-11-01",
+          "methodologyId": "curaduria-documental-chile-fase05",
+          "methodologyVariant": "Fuente oficial y fechas explícitas",
+          "notes": "Senadores: mandatos de ocho años con renovación parcial. Diputados: mandatos de cuatro años. No se carga correlación de fuerzas sin una medición documentada.",
+          "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+        }
+      }
+    ],
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Período legislativo 2010–2014; la cámara conserva temporalidad propia.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 2010,
+        "endYear": 2014,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/congress_modern.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/congreso_nacional/historia?periodo=1990-2026",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Senadores: mandatos de ocho años con renovación parcial. Diputados: mandatos de cuatro años. No se carga correlación de fuerzas sin una medición documentada.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "leg-chl-upper-2014-2018",
+    "countryCode": "CHL",
+    "chamber": "upper",
+    "startDate": "2014-03-11",
+    "endDate": "2018-03-10",
+    "termYears": 8,
+    "renewal": "partial",
+    "segments": [
+      {
+        "id": "leg-chl-upper-2014-unknown",
+        "startDate": "2014-03-11",
+        "endDate": "2018-03-10",
+        "relation": "unknown",
+        "majorityCriterion": null,
+        "measuredAt": null,
+        "provenance": {
+          "sourceId": "bcn-historia-politica",
+          "datasetVersionId": "bcn-historia-politica-2026-11-01",
+          "originalVariable": "Contenido documental HTML",
+          "definition": "Período legislativo 2014–2018; la cámara conserva temporalidad propia.",
+          "unit": "fechas ISO 8601 y descripción documental",
+          "coverage": {
+            "startYear": 2014,
+            "endYear": 2018,
+            "territorialLevel": "national"
+          },
+          "transformations": [
+            "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+          ],
+          "verificationStatus": "verified",
+          "sourceFile": "data/raw/chile-oficial/congress_modern.html",
+          "sourceSheet": null,
+          "sourceRow": 1,
+          "url": "https://www.bcn.cl/historiapolitica/congreso_nacional/historia?periodo=1990-2026",
+          "accessDate": "2026-11-01",
+          "methodologyId": "curaduria-documental-chile-fase05",
+          "methodologyVariant": "Fuente oficial y fechas explícitas",
+          "notes": "Senadores: mandatos de ocho años con renovación parcial. Diputados: mandatos de cuatro años. No se carga correlación de fuerzas sin una medición documentada.",
+          "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+        }
+      }
+    ],
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Período legislativo 2014–2018; la cámara conserva temporalidad propia.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 2014,
+        "endYear": 2018,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/congress_modern.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/congreso_nacional/historia?periodo=1990-2026",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Senadores: mandatos de ocho años con renovación parcial. Diputados: mandatos de cuatro años. No se carga correlación de fuerzas sin una medición documentada.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "leg-chl-upper-2018-2022",
+    "countryCode": "CHL",
+    "chamber": "upper",
+    "startDate": "2018-03-11",
+    "endDate": "2022-03-10",
+    "termYears": 8,
+    "renewal": "partial",
+    "segments": [
+      {
+        "id": "leg-chl-upper-2018-unknown",
+        "startDate": "2018-03-11",
+        "endDate": "2022-03-10",
+        "relation": "unknown",
+        "majorityCriterion": null,
+        "measuredAt": null,
+        "provenance": {
+          "sourceId": "bcn-historia-politica",
+          "datasetVersionId": "bcn-historia-politica-2026-11-01",
+          "originalVariable": "Contenido documental HTML",
+          "definition": "Período legislativo 2018–2022; la cámara conserva temporalidad propia.",
+          "unit": "fechas ISO 8601 y descripción documental",
+          "coverage": {
+            "startYear": 2018,
+            "endYear": 2022,
+            "territorialLevel": "national"
+          },
+          "transformations": [
+            "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+          ],
+          "verificationStatus": "verified",
+          "sourceFile": "data/raw/chile-oficial/coloma.html",
+          "sourceSheet": null,
+          "sourceRow": 1,
+          "url": "https://www.bcn.cl/historiapolitica/resenas_biograficas/wiki/Juan_Antonio_Coloma_Correa",
+          "accessDate": "2026-11-01",
+          "methodologyId": "curaduria-documental-chile-fase05",
+          "methodologyVariant": "Fuente oficial y fechas explícitas",
+          "notes": "Senadores: mandatos de ocho años con renovación parcial. Diputados: mandatos de cuatro años. No se carga correlación de fuerzas sin una medición documentada.",
+          "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+        }
+      }
+    ],
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Período legislativo 2018–2022; la cámara conserva temporalidad propia.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 2018,
+        "endYear": 2022,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/coloma.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/resenas_biograficas/wiki/Juan_Antonio_Coloma_Correa",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Senadores: mandatos de ocho años con renovación parcial. Diputados: mandatos de cuatro años. No se carga correlación de fuerzas sin una medición documentada.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "leg-chl-upper-2022-2026",
+    "countryCode": "CHL",
+    "chamber": "upper",
+    "startDate": "2022-03-11",
+    "endDate": "2026-03-10",
+    "termYears": 8,
+    "renewal": "partial",
+    "segments": [
+      {
+        "id": "leg-chl-upper-2022-unknown",
+        "startDate": "2022-03-11",
+        "endDate": "2026-03-10",
+        "relation": "unknown",
+        "majorityCriterion": null,
+        "measuredAt": null,
+        "provenance": {
+          "sourceId": "bcn-historia-politica",
+          "datasetVersionId": "bcn-historia-politica-2026-11-01",
+          "originalVariable": "Contenido documental HTML",
+          "definition": "Período legislativo 2022–2026; la cámara conserva temporalidad propia.",
+          "unit": "fechas ISO 8601 y descripción documental",
+          "coverage": {
+            "startYear": 2022,
+            "endYear": 2026,
+            "territorialLevel": "national"
+          },
+          "transformations": [
+            "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+          ],
+          "verificationStatus": "verified",
+          "sourceFile": "data/raw/chile-oficial/keitel.html",
+          "sourceSheet": null,
+          "sourceRow": 1,
+          "url": "https://www.bcn.cl/historiapolitica/resenas_biograficas/wiki/Sebasti%C3%A1n_Keitel_Bianchi",
+          "accessDate": "2026-11-01",
+          "methodologyId": "curaduria-documental-chile-fase05",
+          "methodologyVariant": "Fuente oficial y fechas explícitas",
+          "notes": "Senadores: mandatos de ocho años con renovación parcial. Diputados: mandatos de cuatro años. No se carga correlación de fuerzas sin una medición documentada.",
+          "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+        }
+      }
+    ],
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Período legislativo 2022–2026; la cámara conserva temporalidad propia.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 2022,
+        "endYear": 2026,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/keitel.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/resenas_biograficas/wiki/Sebasti%C3%A1n_Keitel_Bianchi",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Senadores: mandatos de ocho años con renovación parcial. Diputados: mandatos de cuatro años. No se carga correlación de fuerzas sin una medición documentada.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "leg-chl-upper-2026-2030",
+    "countryCode": "CHL",
+    "chamber": "upper",
+    "startDate": "2026-03-11",
+    "endDate": "2030-03-10",
+    "termYears": 8,
+    "renewal": "partial",
+    "segments": [
+      {
+        "id": "leg-chl-upper-2026-unknown",
+        "startDate": "2026-03-11",
+        "endDate": "2030-03-10",
+        "relation": "unknown",
+        "majorityCriterion": null,
+        "measuredAt": null,
+        "provenance": {
+          "sourceId": "bcn-historia-politica",
+          "datasetVersionId": "bcn-historia-politica-2026-11-01",
+          "originalVariable": "Contenido documental HTML",
+          "definition": "Período legislativo 2026–2030; la cámara conserva temporalidad propia.",
+          "unit": "fechas ISO 8601 y descripción documental",
+          "coverage": {
+            "startYear": 2026,
+            "endYear": 2030,
+            "territorialLevel": "national"
+          },
+          "transformations": [
+            "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+          ],
+          "verificationStatus": "verified",
+          "sourceFile": "data/raw/chile-oficial/lee.html",
+          "sourceSheet": null,
+          "sourceRow": 1,
+          "url": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Enrique_Lee_Flores",
+          "accessDate": "2026-11-01",
+          "methodologyId": "curaduria-documental-chile-fase05",
+          "methodologyVariant": "Fuente oficial y fechas explícitas",
+          "notes": "Senadores: mandatos de ocho años con renovación parcial. Diputados: mandatos de cuatro años. No se carga correlación de fuerzas sin una medición documentada.",
+          "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+        }
+      }
+    ],
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Período legislativo 2026–2030; la cámara conserva temporalidad propia.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 2026,
+        "endYear": 2030,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/lee.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Enrique_Lee_Flores",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Senadores: mandatos de ocho años con renovación parcial. Diputados: mandatos de cuatro años. No se carga correlación de fuerzas sin una medición documentada.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "leg-chl-lower-absent-1973-1990",
+    "countryCode": "CHL",
+    "chamber": "lower",
+    "startDate": "1973-09-11",
+    "endDate": "1990-03-11",
+    "termYears": null,
+    "renewal": "not_applicable",
+    "segments": [
+      {
+        "id": "leg-chl-lower-absent-segment",
+        "startDate": "1973-09-11",
+        "endDate": "1990-03-11",
+        "relation": "congress_absent_or_dissolved",
+        "majorityCriterion": null,
+        "measuredAt": null,
+        "provenance": {
+          "sourceId": "bcn-historia-politica",
+          "datasetVersionId": "bcn-historia-politica-2026-11-01",
+          "originalVariable": "Contenido documental HTML",
+          "definition": "Congreso Nacional disuelto; la Junta Militar ejerció la función legislativa en su reemplazo.",
+          "unit": "fechas ISO 8601 y descripción documental",
+          "coverage": {
+            "startYear": 1973,
+            "endYear": 1990,
+            "territorialLevel": "national"
+          },
+          "transformations": [
+            "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+          ],
+          "verificationStatus": "verified",
+          "sourceFile": "data/raw/chile-oficial/congress_absent.html",
+          "sourceSheet": null,
+          "sourceRow": 1,
+          "url": "https://www.bcn.cl/historiapolitica/congreso_nacional/historia/index.html?periodo=1973-1990",
+          "accessDate": "2026-11-01",
+          "methodologyId": "curaduria-documental-chile-fase05",
+          "methodologyVariant": "Fuente oficial y fechas explícitas",
+          "notes": "Estado institucional documentado, no dato faltante ni mayoría política.",
+          "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+        }
+      }
+    ],
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Congreso Nacional disuelto; la Junta Militar ejerció la función legislativa en su reemplazo.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1973,
+        "endYear": 1990,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/congress_absent.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/congreso_nacional/historia/index.html?periodo=1973-1990",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Estado institucional documentado, no dato faltante ni mayoría política.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "leg-chl-lower-1990-1994",
+    "countryCode": "CHL",
+    "chamber": "lower",
+    "startDate": "1990-03-11",
+    "endDate": "1994-03-10",
+    "termYears": 4,
+    "renewal": "full",
+    "segments": [
+      {
+        "id": "leg-chl-lower-1990-unknown",
+        "startDate": "1990-03-11",
+        "endDate": "1994-03-10",
+        "relation": "unknown",
+        "majorityCriterion": null,
+        "measuredAt": null,
+        "provenance": {
+          "sourceId": "bcn-historia-politica",
+          "datasetVersionId": "bcn-historia-politica-2026-11-01",
+          "originalVariable": "Contenido documental HTML",
+          "definition": "Período legislativo 1990–1994; la cámara conserva temporalidad propia.",
+          "unit": "fechas ISO 8601 y descripción documental",
+          "coverage": {
+            "startYear": 1990,
+            "endYear": 1994,
+            "territorialLevel": "national"
+          },
+          "transformations": [
+            "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+          ],
+          "verificationStatus": "verified",
+          "sourceFile": "data/raw/chile-oficial/congress_modern.html",
+          "sourceSheet": null,
+          "sourceRow": 1,
+          "url": "https://www.bcn.cl/historiapolitica/congreso_nacional/historia?periodo=1990-2026",
+          "accessDate": "2026-11-01",
+          "methodologyId": "curaduria-documental-chile-fase05",
+          "methodologyVariant": "Fuente oficial y fechas explícitas",
+          "notes": "Senadores: mandatos de ocho años con renovación parcial. Diputados: mandatos de cuatro años. No se carga correlación de fuerzas sin una medición documentada.",
+          "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+        }
+      }
+    ],
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Período legislativo 1990–1994; la cámara conserva temporalidad propia.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1990,
+        "endYear": 1994,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/congress_modern.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/congreso_nacional/historia?periodo=1990-2026",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Senadores: mandatos de ocho años con renovación parcial. Diputados: mandatos de cuatro años. No se carga correlación de fuerzas sin una medición documentada.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "leg-chl-lower-1994-1998",
+    "countryCode": "CHL",
+    "chamber": "lower",
+    "startDate": "1994-03-11",
+    "endDate": "1998-03-10",
+    "termYears": 4,
+    "renewal": "full",
+    "segments": [
+      {
+        "id": "leg-chl-lower-1994-unknown",
+        "startDate": "1994-03-11",
+        "endDate": "1998-03-10",
+        "relation": "unknown",
+        "majorityCriterion": null,
+        "measuredAt": null,
+        "provenance": {
+          "sourceId": "bcn-historia-politica",
+          "datasetVersionId": "bcn-historia-politica-2026-11-01",
+          "originalVariable": "Contenido documental HTML",
+          "definition": "Período legislativo 1994–1998; la cámara conserva temporalidad propia.",
+          "unit": "fechas ISO 8601 y descripción documental",
+          "coverage": {
+            "startYear": 1994,
+            "endYear": 1998,
+            "territorialLevel": "national"
+          },
+          "transformations": [
+            "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+          ],
+          "verificationStatus": "verified",
+          "sourceFile": "data/raw/chile-oficial/congress_modern.html",
+          "sourceSheet": null,
+          "sourceRow": 1,
+          "url": "https://www.bcn.cl/historiapolitica/congreso_nacional/historia?periodo=1990-2026",
+          "accessDate": "2026-11-01",
+          "methodologyId": "curaduria-documental-chile-fase05",
+          "methodologyVariant": "Fuente oficial y fechas explícitas",
+          "notes": "Senadores: mandatos de ocho años con renovación parcial. Diputados: mandatos de cuatro años. No se carga correlación de fuerzas sin una medición documentada.",
+          "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+        }
+      }
+    ],
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Período legislativo 1994–1998; la cámara conserva temporalidad propia.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1994,
+        "endYear": 1998,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/congress_modern.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/congreso_nacional/historia?periodo=1990-2026",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Senadores: mandatos de ocho años con renovación parcial. Diputados: mandatos de cuatro años. No se carga correlación de fuerzas sin una medición documentada.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "leg-chl-lower-1998-2002",
+    "countryCode": "CHL",
+    "chamber": "lower",
+    "startDate": "1998-03-11",
+    "endDate": "2002-03-10",
+    "termYears": 4,
+    "renewal": "full",
+    "segments": [
+      {
+        "id": "leg-chl-lower-1998-unknown",
+        "startDate": "1998-03-11",
+        "endDate": "2002-03-10",
+        "relation": "unknown",
+        "majorityCriterion": null,
+        "measuredAt": null,
+        "provenance": {
+          "sourceId": "bcn-historia-politica",
+          "datasetVersionId": "bcn-historia-politica-2026-11-01",
+          "originalVariable": "Contenido documental HTML",
+          "definition": "Período legislativo 1998–2002; la cámara conserva temporalidad propia.",
+          "unit": "fechas ISO 8601 y descripción documental",
+          "coverage": {
+            "startYear": 1998,
+            "endYear": 2002,
+            "territorialLevel": "national"
+          },
+          "transformations": [
+            "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+          ],
+          "verificationStatus": "verified",
+          "sourceFile": "data/raw/chile-oficial/congress_modern.html",
+          "sourceSheet": null,
+          "sourceRow": 1,
+          "url": "https://www.bcn.cl/historiapolitica/congreso_nacional/historia?periodo=1990-2026",
+          "accessDate": "2026-11-01",
+          "methodologyId": "curaduria-documental-chile-fase05",
+          "methodologyVariant": "Fuente oficial y fechas explícitas",
+          "notes": "Senadores: mandatos de ocho años con renovación parcial. Diputados: mandatos de cuatro años. No se carga correlación de fuerzas sin una medición documentada.",
+          "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+        }
+      }
+    ],
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Período legislativo 1998–2002; la cámara conserva temporalidad propia.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1998,
+        "endYear": 2002,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/congress_modern.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/congreso_nacional/historia?periodo=1990-2026",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Senadores: mandatos de ocho años con renovación parcial. Diputados: mandatos de cuatro años. No se carga correlación de fuerzas sin una medición documentada.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "leg-chl-lower-2002-2006",
+    "countryCode": "CHL",
+    "chamber": "lower",
+    "startDate": "2002-03-11",
+    "endDate": "2006-03-10",
+    "termYears": 4,
+    "renewal": "full",
+    "segments": [
+      {
+        "id": "leg-chl-lower-2002-unknown",
+        "startDate": "2002-03-11",
+        "endDate": "2006-03-10",
+        "relation": "unknown",
+        "majorityCriterion": null,
+        "measuredAt": null,
+        "provenance": {
+          "sourceId": "bcn-historia-politica",
+          "datasetVersionId": "bcn-historia-politica-2026-11-01",
+          "originalVariable": "Contenido documental HTML",
+          "definition": "Período legislativo 2002–2006; la cámara conserva temporalidad propia.",
+          "unit": "fechas ISO 8601 y descripción documental",
+          "coverage": {
+            "startYear": 2002,
+            "endYear": 2006,
+            "territorialLevel": "national"
+          },
+          "transformations": [
+            "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+          ],
+          "verificationStatus": "verified",
+          "sourceFile": "data/raw/chile-oficial/congress_modern.html",
+          "sourceSheet": null,
+          "sourceRow": 1,
+          "url": "https://www.bcn.cl/historiapolitica/congreso_nacional/historia?periodo=1990-2026",
+          "accessDate": "2026-11-01",
+          "methodologyId": "curaduria-documental-chile-fase05",
+          "methodologyVariant": "Fuente oficial y fechas explícitas",
+          "notes": "Senadores: mandatos de ocho años con renovación parcial. Diputados: mandatos de cuatro años. No se carga correlación de fuerzas sin una medición documentada.",
+          "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+        }
+      }
+    ],
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Período legislativo 2002–2006; la cámara conserva temporalidad propia.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 2002,
+        "endYear": 2006,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/congress_modern.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/congreso_nacional/historia?periodo=1990-2026",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Senadores: mandatos de ocho años con renovación parcial. Diputados: mandatos de cuatro años. No se carga correlación de fuerzas sin una medición documentada.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "leg-chl-lower-2006-2010",
+    "countryCode": "CHL",
+    "chamber": "lower",
+    "startDate": "2006-03-11",
+    "endDate": "2010-03-10",
+    "termYears": 4,
+    "renewal": "full",
+    "segments": [
+      {
+        "id": "leg-chl-lower-2006-unknown",
+        "startDate": "2006-03-11",
+        "endDate": "2010-03-10",
+        "relation": "unknown",
+        "majorityCriterion": null,
+        "measuredAt": null,
+        "provenance": {
+          "sourceId": "bcn-historia-politica",
+          "datasetVersionId": "bcn-historia-politica-2026-11-01",
+          "originalVariable": "Contenido documental HTML",
+          "definition": "Período legislativo 2006–2010; la cámara conserva temporalidad propia.",
+          "unit": "fechas ISO 8601 y descripción documental",
+          "coverage": {
+            "startYear": 2006,
+            "endYear": 2010,
+            "territorialLevel": "national"
+          },
+          "transformations": [
+            "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+          ],
+          "verificationStatus": "verified",
+          "sourceFile": "data/raw/chile-oficial/congress_modern.html",
+          "sourceSheet": null,
+          "sourceRow": 1,
+          "url": "https://www.bcn.cl/historiapolitica/congreso_nacional/historia?periodo=1990-2026",
+          "accessDate": "2026-11-01",
+          "methodologyId": "curaduria-documental-chile-fase05",
+          "methodologyVariant": "Fuente oficial y fechas explícitas",
+          "notes": "Senadores: mandatos de ocho años con renovación parcial. Diputados: mandatos de cuatro años. No se carga correlación de fuerzas sin una medición documentada.",
+          "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+        }
+      }
+    ],
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Período legislativo 2006–2010; la cámara conserva temporalidad propia.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 2006,
+        "endYear": 2010,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/congress_modern.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/congreso_nacional/historia?periodo=1990-2026",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Senadores: mandatos de ocho años con renovación parcial. Diputados: mandatos de cuatro años. No se carga correlación de fuerzas sin una medición documentada.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "leg-chl-lower-2010-2014",
+    "countryCode": "CHL",
+    "chamber": "lower",
+    "startDate": "2010-03-11",
+    "endDate": "2014-03-10",
+    "termYears": 4,
+    "renewal": "full",
+    "segments": [
+      {
+        "id": "leg-chl-lower-2010-unknown",
+        "startDate": "2010-03-11",
+        "endDate": "2014-03-10",
+        "relation": "unknown",
+        "majorityCriterion": null,
+        "measuredAt": null,
+        "provenance": {
+          "sourceId": "bcn-historia-politica",
+          "datasetVersionId": "bcn-historia-politica-2026-11-01",
+          "originalVariable": "Contenido documental HTML",
+          "definition": "Período legislativo 2010–2014; la cámara conserva temporalidad propia.",
+          "unit": "fechas ISO 8601 y descripción documental",
+          "coverage": {
+            "startYear": 2010,
+            "endYear": 2014,
+            "territorialLevel": "national"
+          },
+          "transformations": [
+            "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+          ],
+          "verificationStatus": "verified",
+          "sourceFile": "data/raw/chile-oficial/congress_modern.html",
+          "sourceSheet": null,
+          "sourceRow": 1,
+          "url": "https://www.bcn.cl/historiapolitica/congreso_nacional/historia?periodo=1990-2026",
+          "accessDate": "2026-11-01",
+          "methodologyId": "curaduria-documental-chile-fase05",
+          "methodologyVariant": "Fuente oficial y fechas explícitas",
+          "notes": "Senadores: mandatos de ocho años con renovación parcial. Diputados: mandatos de cuatro años. No se carga correlación de fuerzas sin una medición documentada.",
+          "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+        }
+      }
+    ],
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Período legislativo 2010–2014; la cámara conserva temporalidad propia.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 2010,
+        "endYear": 2014,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/congress_modern.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/congreso_nacional/historia?periodo=1990-2026",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Senadores: mandatos de ocho años con renovación parcial. Diputados: mandatos de cuatro años. No se carga correlación de fuerzas sin una medición documentada.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "leg-chl-lower-2014-2018",
+    "countryCode": "CHL",
+    "chamber": "lower",
+    "startDate": "2014-03-11",
+    "endDate": "2018-03-10",
+    "termYears": 4,
+    "renewal": "full",
+    "segments": [
+      {
+        "id": "leg-chl-lower-2014-unknown",
+        "startDate": "2014-03-11",
+        "endDate": "2018-03-10",
+        "relation": "unknown",
+        "majorityCriterion": null,
+        "measuredAt": null,
+        "provenance": {
+          "sourceId": "bcn-historia-politica",
+          "datasetVersionId": "bcn-historia-politica-2026-11-01",
+          "originalVariable": "Contenido documental HTML",
+          "definition": "Período legislativo 2014–2018; la cámara conserva temporalidad propia.",
+          "unit": "fechas ISO 8601 y descripción documental",
+          "coverage": {
+            "startYear": 2014,
+            "endYear": 2018,
+            "territorialLevel": "national"
+          },
+          "transformations": [
+            "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+          ],
+          "verificationStatus": "verified",
+          "sourceFile": "data/raw/chile-oficial/congress_modern.html",
+          "sourceSheet": null,
+          "sourceRow": 1,
+          "url": "https://www.bcn.cl/historiapolitica/congreso_nacional/historia?periodo=1990-2026",
+          "accessDate": "2026-11-01",
+          "methodologyId": "curaduria-documental-chile-fase05",
+          "methodologyVariant": "Fuente oficial y fechas explícitas",
+          "notes": "Senadores: mandatos de ocho años con renovación parcial. Diputados: mandatos de cuatro años. No se carga correlación de fuerzas sin una medición documentada.",
+          "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+        }
+      }
+    ],
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Período legislativo 2014–2018; la cámara conserva temporalidad propia.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 2014,
+        "endYear": 2018,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/congress_modern.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/congreso_nacional/historia?periodo=1990-2026",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Senadores: mandatos de ocho años con renovación parcial. Diputados: mandatos de cuatro años. No se carga correlación de fuerzas sin una medición documentada.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "leg-chl-lower-2018-2022",
+    "countryCode": "CHL",
+    "chamber": "lower",
+    "startDate": "2018-03-11",
+    "endDate": "2022-03-10",
+    "termYears": 4,
+    "renewal": "full",
+    "segments": [
+      {
+        "id": "leg-chl-lower-2018-unknown",
+        "startDate": "2018-03-11",
+        "endDate": "2022-03-10",
+        "relation": "unknown",
+        "majorityCriterion": null,
+        "measuredAt": null,
+        "provenance": {
+          "sourceId": "bcn-historia-politica",
+          "datasetVersionId": "bcn-historia-politica-2026-11-01",
+          "originalVariable": "Contenido documental HTML",
+          "definition": "Período legislativo 2018–2022; la cámara conserva temporalidad propia.",
+          "unit": "fechas ISO 8601 y descripción documental",
+          "coverage": {
+            "startYear": 2018,
+            "endYear": 2022,
+            "territorialLevel": "national"
+          },
+          "transformations": [
+            "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+          ],
+          "verificationStatus": "verified",
+          "sourceFile": "data/raw/chile-oficial/winter.html",
+          "sourceSheet": null,
+          "sourceRow": 1,
+          "url": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Gonzalo_Rodolfo_Winter_Etcheberry",
+          "accessDate": "2026-11-01",
+          "methodologyId": "curaduria-documental-chile-fase05",
+          "methodologyVariant": "Fuente oficial y fechas explícitas",
+          "notes": "Senadores: mandatos de ocho años con renovación parcial. Diputados: mandatos de cuatro años. No se carga correlación de fuerzas sin una medición documentada.",
+          "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+        }
+      }
+    ],
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Período legislativo 2018–2022; la cámara conserva temporalidad propia.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 2018,
+        "endYear": 2022,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/winter.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Gonzalo_Rodolfo_Winter_Etcheberry",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Senadores: mandatos de ocho años con renovación parcial. Diputados: mandatos de cuatro años. No se carga correlación de fuerzas sin una medición documentada.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "leg-chl-lower-2022-2026",
+    "countryCode": "CHL",
+    "chamber": "lower",
+    "startDate": "2022-03-11",
+    "endDate": "2026-03-10",
+    "termYears": 4,
+    "renewal": "full",
+    "segments": [
+      {
+        "id": "leg-chl-lower-2022-unknown",
+        "startDate": "2022-03-11",
+        "endDate": "2026-03-10",
+        "relation": "unknown",
+        "majorityCriterion": null,
+        "measuredAt": null,
+        "provenance": {
+          "sourceId": "bcn-historia-politica",
+          "datasetVersionId": "bcn-historia-politica-2026-11-01",
+          "originalVariable": "Contenido documental HTML",
+          "definition": "Período legislativo 2022–2026; la cámara conserva temporalidad propia.",
+          "unit": "fechas ISO 8601 y descripción documental",
+          "coverage": {
+            "startYear": 2022,
+            "endYear": 2026,
+            "territorialLevel": "national"
+          },
+          "transformations": [
+            "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+          ],
+          "verificationStatus": "verified",
+          "sourceFile": "data/raw/chile-oficial/winter.html",
+          "sourceSheet": null,
+          "sourceRow": 1,
+          "url": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Gonzalo_Rodolfo_Winter_Etcheberry",
+          "accessDate": "2026-11-01",
+          "methodologyId": "curaduria-documental-chile-fase05",
+          "methodologyVariant": "Fuente oficial y fechas explícitas",
+          "notes": "Senadores: mandatos de ocho años con renovación parcial. Diputados: mandatos de cuatro años. No se carga correlación de fuerzas sin una medición documentada.",
+          "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+        }
+      }
+    ],
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Período legislativo 2022–2026; la cámara conserva temporalidad propia.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 2022,
+        "endYear": 2026,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/winter.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Gonzalo_Rodolfo_Winter_Etcheberry",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Senadores: mandatos de ocho años con renovación parcial. Diputados: mandatos de cuatro años. No se carga correlación de fuerzas sin una medición documentada.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "leg-chl-lower-2026-2030",
+    "countryCode": "CHL",
+    "chamber": "lower",
+    "startDate": "2026-03-11",
+    "endDate": "2030-03-10",
+    "termYears": 4,
+    "renewal": "full",
+    "segments": [
+      {
+        "id": "leg-chl-lower-2026-unknown",
+        "startDate": "2026-03-11",
+        "endDate": "2030-03-10",
+        "relation": "unknown",
+        "majorityCriterion": null,
+        "measuredAt": null,
+        "provenance": {
+          "sourceId": "bcn-historia-politica",
+          "datasetVersionId": "bcn-historia-politica-2026-11-01",
+          "originalVariable": "Contenido documental HTML",
+          "definition": "Período legislativo 2026–2030; la cámara conserva temporalidad propia.",
+          "unit": "fechas ISO 8601 y descripción documental",
+          "coverage": {
+            "startYear": 2026,
+            "endYear": 2030,
+            "territorialLevel": "national"
+          },
+          "transformations": [
+            "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+          ],
+          "verificationStatus": "verified",
+          "sourceFile": "data/raw/chile-oficial/winter.html",
+          "sourceSheet": null,
+          "sourceRow": 1,
+          "url": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Gonzalo_Rodolfo_Winter_Etcheberry",
+          "accessDate": "2026-11-01",
+          "methodologyId": "curaduria-documental-chile-fase05",
+          "methodologyVariant": "Fuente oficial y fechas explícitas",
+          "notes": "Senadores: mandatos de ocho años con renovación parcial. Diputados: mandatos de cuatro años. No se carga correlación de fuerzas sin una medición documentada.",
+          "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+        }
+      }
+    ],
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Período legislativo 2026–2030; la cámara conserva temporalidad propia.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 2026,
+        "endYear": 2030,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/winter.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Gonzalo_Rodolfo_Winter_Etcheberry",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Senadores: mandatos de ocho años con renovación parcial. Diputados: mandatos de cuatro años. No se carga correlación de fuerzas sin una medición documentada.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  }
+]

@@ -1,0 +1,1652 @@
+[
+  {
+    "id": "event-chl-election-1952",
+    "sourceRecordId": "curated-chl-election-1952",
+    "countryCode": "CHL",
+    "kind": "election",
+    "eventType": "Elección presidencial",
+    "temporalType": "exact",
+    "year": 1952,
+    "startDate": "1952-09-04",
+    "endDate": "1952-09-04",
+    "name": "Elección presidencial de 1952",
+    "description": "Elección presidencial celebrada el 4 de septiembre de 1952.",
+    "domains": [
+      "institutions"
+    ],
+    "actors": [],
+    "governmentId": null,
+    "confidence": "fecha y descripción explícitas en fuente oficial",
+    "relatedEventIds": [],
+    "verificationStatus": "verified",
+    "uncertaintyNotes": "Sin incertidumbre adicional registrada; la selección no implica exhaustividad.",
+    "inclusionReason": "Hito institucional, electoral o normativo con fecha explícita en fuente oficial y utilidad para la lectura temporal del módulo.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Elección presidencial celebrada el 4 de septiembre de 1952.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1952,
+        "endYear": 1952,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/elections_early.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/elecciones/index.html?periodo=1925-",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Registro documental curado; no se infiere gobierno, actor ni resultado no declarado en la fuente.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "event-chl-election-1953",
+    "sourceRecordId": "curated-chl-election-1953",
+    "countryCode": "CHL",
+    "kind": "election",
+    "eventType": "Elecciones parlamentarias",
+    "temporalType": "exact",
+    "year": 1953,
+    "startDate": "1953-03-01",
+    "endDate": "1953-03-01",
+    "name": "Elecciones parlamentarias de 1953",
+    "description": "Elecciones parlamentarias celebradas el 1 de marzo de 1953.",
+    "domains": [
+      "institutions"
+    ],
+    "actors": [],
+    "governmentId": null,
+    "confidence": "fecha y descripción explícitas en fuente oficial",
+    "relatedEventIds": [],
+    "verificationStatus": "verified",
+    "uncertaintyNotes": "Sin incertidumbre adicional registrada; la selección no implica exhaustividad.",
+    "inclusionReason": "Hito institucional, electoral o normativo con fecha explícita en fuente oficial y utilidad para la lectura temporal del módulo.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Elecciones parlamentarias celebradas el 1 de marzo de 1953.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1953,
+        "endYear": 1953,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/elections_early.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/elecciones/index.html?periodo=1925-",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Registro documental curado; no se infiere gobierno, actor ni resultado no declarado en la fuente.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "event-chl-election-1957",
+    "sourceRecordId": "curated-chl-election-1957",
+    "countryCode": "CHL",
+    "kind": "election",
+    "eventType": "Elecciones parlamentarias",
+    "temporalType": "exact",
+    "year": 1957,
+    "startDate": "1957-03-03",
+    "endDate": "1957-03-03",
+    "name": "Elecciones parlamentarias de 1957",
+    "description": "Elecciones parlamentarias celebradas el 3 de marzo de 1957.",
+    "domains": [
+      "institutions"
+    ],
+    "actors": [],
+    "governmentId": null,
+    "confidence": "fecha y descripción explícitas en fuente oficial",
+    "relatedEventIds": [],
+    "verificationStatus": "verified",
+    "uncertaintyNotes": "Sin incertidumbre adicional registrada; la selección no implica exhaustividad.",
+    "inclusionReason": "Hito institucional, electoral o normativo con fecha explícita en fuente oficial y utilidad para la lectura temporal del módulo.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Elecciones parlamentarias celebradas el 3 de marzo de 1957.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1957,
+        "endYear": 1957,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/elections_early.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/elecciones/index.html?periodo=1925-",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Registro documental curado; no se infiere gobierno, actor ni resultado no declarado en la fuente.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "event-chl-election-1958",
+    "sourceRecordId": "curated-chl-election-1958",
+    "countryCode": "CHL",
+    "kind": "election",
+    "eventType": "Elección presidencial",
+    "temporalType": "exact",
+    "year": 1958,
+    "startDate": "1958-09-04",
+    "endDate": "1958-09-04",
+    "name": "Elección presidencial de 1958",
+    "description": "Elección presidencial celebrada el 4 de septiembre de 1958.",
+    "domains": [
+      "institutions"
+    ],
+    "actors": [],
+    "governmentId": null,
+    "confidence": "fecha y descripción explícitas en fuente oficial",
+    "relatedEventIds": [],
+    "verificationStatus": "verified",
+    "uncertaintyNotes": "Sin incertidumbre adicional registrada; la selección no implica exhaustividad.",
+    "inclusionReason": "Hito institucional, electoral o normativo con fecha explícita en fuente oficial y utilidad para la lectura temporal del módulo.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Elección presidencial celebrada el 4 de septiembre de 1958.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1958,
+        "endYear": 1958,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/elections_early.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/elecciones/index.html?periodo=1925-",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Registro documental curado; no se infiere gobierno, actor ni resultado no declarado en la fuente.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "event-chl-election-1961",
+    "sourceRecordId": "curated-chl-election-1961",
+    "countryCode": "CHL",
+    "kind": "election",
+    "eventType": "Elecciones parlamentarias",
+    "temporalType": "exact",
+    "year": 1961,
+    "startDate": "1961-03-05",
+    "endDate": "1961-03-05",
+    "name": "Elecciones parlamentarias de 1961",
+    "description": "Elecciones parlamentarias celebradas el 5 de marzo de 1961.",
+    "domains": [
+      "institutions"
+    ],
+    "actors": [],
+    "governmentId": null,
+    "confidence": "fecha y descripción explícitas en fuente oficial",
+    "relatedEventIds": [],
+    "verificationStatus": "verified",
+    "uncertaintyNotes": "Sin incertidumbre adicional registrada; la selección no implica exhaustividad.",
+    "inclusionReason": "Hito institucional, electoral o normativo con fecha explícita en fuente oficial y utilidad para la lectura temporal del módulo.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Elecciones parlamentarias celebradas el 5 de marzo de 1961.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1961,
+        "endYear": 1961,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/elections_early.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/elecciones/index.html?periodo=1925-",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Registro documental curado; no se infiere gobierno, actor ni resultado no declarado en la fuente.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "event-chl-agrarian-reform-1962",
+    "sourceRecordId": "curated-chl-agrarian-reform-1962",
+    "countryCode": "CHL",
+    "kind": "reform",
+    "eventType": "Reforma agraria",
+    "temporalType": "exact",
+    "year": 1962,
+    "startDate": "1962-11-27",
+    "endDate": "1962-11-27",
+    "name": "Ley 15.020 de Reforma Agraria",
+    "description": "Primera Ley de Reforma Agraria del período, dictada el 27 de noviembre de 1962.",
+    "domains": [
+      "institutions"
+    ],
+    "actors": [
+      "Congreso Nacional",
+      "Gobierno de Jorge Alessandri Rodríguez"
+    ],
+    "governmentId": "jorge-alessandri",
+    "confidence": "fecha y descripción explícitas en fuente oficial",
+    "relatedEventIds": [],
+    "verificationStatus": "verified",
+    "uncertaintyNotes": "Sin incertidumbre adicional registrada; la selección no implica exhaustividad.",
+    "inclusionReason": "Hito institucional, electoral o normativo con fecha explícita en fuente oficial y utilidad para la lectura temporal del módulo.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Primera Ley de Reforma Agraria del período, dictada el 27 de noviembre de 1962.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1962,
+        "endYear": 1962,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/congress_1925.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/congreso_nacional/historia?periodo=1925-1973",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Registro documental curado; no se infiere gobierno, actor ni resultado no declarado en la fuente.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "event-chl-election-1964",
+    "sourceRecordId": "curated-chl-election-1964",
+    "countryCode": "CHL",
+    "kind": "election",
+    "eventType": "Elección presidencial",
+    "temporalType": "exact",
+    "year": 1964,
+    "startDate": "1964-09-04",
+    "endDate": "1964-09-04",
+    "name": "Elección presidencial de 1964",
+    "description": "Elección presidencial celebrada el 4 de septiembre de 1964.",
+    "domains": [
+      "institutions"
+    ],
+    "actors": [],
+    "governmentId": null,
+    "confidence": "fecha y descripción explícitas en fuente oficial",
+    "relatedEventIds": [],
+    "verificationStatus": "verified",
+    "uncertaintyNotes": "Sin incertidumbre adicional registrada; la selección no implica exhaustividad.",
+    "inclusionReason": "Hito institucional, electoral o normativo con fecha explícita en fuente oficial y utilidad para la lectura temporal del módulo.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Elección presidencial celebrada el 4 de septiembre de 1964.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1964,
+        "endYear": 1964,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/elections_early.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/elecciones/index.html?periodo=1925-",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Registro documental curado; no se infiere gobierno, actor ni resultado no declarado en la fuente.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "event-chl-election-1965",
+    "sourceRecordId": "curated-chl-election-1965",
+    "countryCode": "CHL",
+    "kind": "election",
+    "eventType": "Elecciones parlamentarias",
+    "temporalType": "exact",
+    "year": 1965,
+    "startDate": "1965-03-07",
+    "endDate": "1965-03-07",
+    "name": "Elecciones parlamentarias de 1965",
+    "description": "Elecciones parlamentarias celebradas el 7 de marzo de 1965.",
+    "domains": [
+      "institutions"
+    ],
+    "actors": [],
+    "governmentId": null,
+    "confidence": "fecha y descripción explícitas en fuente oficial",
+    "relatedEventIds": [],
+    "verificationStatus": "verified",
+    "uncertaintyNotes": "Sin incertidumbre adicional registrada; la selección no implica exhaustividad.",
+    "inclusionReason": "Hito institucional, electoral o normativo con fecha explícita en fuente oficial y utilidad para la lectura temporal del módulo.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Elecciones parlamentarias celebradas el 7 de marzo de 1965.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1965,
+        "endYear": 1965,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/elections_early.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/elecciones/index.html?periodo=1925-",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Registro documental curado; no se infiere gobierno, actor ni resultado no declarado en la fuente.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "event-chl-election-1969",
+    "sourceRecordId": "curated-chl-election-1969",
+    "countryCode": "CHL",
+    "kind": "election",
+    "eventType": "Elecciones parlamentarias",
+    "temporalType": "exact",
+    "year": 1969,
+    "startDate": "1969-03-02",
+    "endDate": "1969-03-02",
+    "name": "Elecciones parlamentarias de 1969",
+    "description": "Elecciones parlamentarias celebradas el 2 de marzo de 1969.",
+    "domains": [
+      "institutions"
+    ],
+    "actors": [],
+    "governmentId": null,
+    "confidence": "fecha y descripción explícitas en fuente oficial",
+    "relatedEventIds": [],
+    "verificationStatus": "verified",
+    "uncertaintyNotes": "Sin incertidumbre adicional registrada; la selección no implica exhaustividad.",
+    "inclusionReason": "Hito institucional, electoral o normativo con fecha explícita en fuente oficial y utilidad para la lectura temporal del módulo.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Elecciones parlamentarias celebradas el 2 de marzo de 1969.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1969,
+        "endYear": 1969,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/elections_early.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/elecciones/index.html?periodo=1925-",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Registro documental curado; no se infiere gobierno, actor ni resultado no declarado en la fuente.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "event-chl-election-1970",
+    "sourceRecordId": "curated-chl-election-1970",
+    "countryCode": "CHL",
+    "kind": "election",
+    "eventType": "Elección presidencial",
+    "temporalType": "exact",
+    "year": 1970,
+    "startDate": "1970-09-04",
+    "endDate": "1970-09-04",
+    "name": "Elección presidencial de 1970",
+    "description": "Elección presidencial celebrada el 4 de septiembre de 1970.",
+    "domains": [
+      "institutions"
+    ],
+    "actors": [],
+    "governmentId": null,
+    "confidence": "fecha y descripción explícitas en fuente oficial",
+    "relatedEventIds": [],
+    "verificationStatus": "verified",
+    "uncertaintyNotes": "Sin incertidumbre adicional registrada; la selección no implica exhaustividad.",
+    "inclusionReason": "Hito institucional, electoral o normativo con fecha explícita en fuente oficial y utilidad para la lectura temporal del módulo.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Elección presidencial celebrada el 4 de septiembre de 1970.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1970,
+        "endYear": 1970,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/elections_early.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/elecciones/index.html?periodo=1925-",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Registro documental curado; no se infiere gobierno, actor ni resultado no declarado en la fuente.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "event-chl-copper-nationalization-1971",
+    "sourceRecordId": "curated-chl-copper-nationalization-1971",
+    "countryCode": "CHL",
+    "kind": "constitution",
+    "eventType": "Reforma constitucional · Ley 17.450",
+    "temporalType": "exact",
+    "year": 1971,
+    "startDate": "1971-07-11",
+    "endDate": "1971-07-11",
+    "name": "Nacionalización de la Gran Minería del Cobre",
+    "description": "El Congreso aprobó la reforma constitucional que nacionalizó los yacimientos de la Gran Minería del Cobre.",
+    "domains": [
+      "institutions",
+      "economy"
+    ],
+    "actors": [
+      "Congreso Nacional",
+      "Gobierno de Salvador Allende"
+    ],
+    "governmentId": "salvador-allende",
+    "confidence": "fecha y descripción explícitas en fuente oficial",
+    "relatedEventIds": [],
+    "verificationStatus": "verified",
+    "uncertaintyNotes": "Sin incertidumbre adicional registrada; la selección no implica exhaustividad.",
+    "inclusionReason": "Hito institucional, electoral o normativo con fecha explícita en fuente oficial y utilidad para la lectura temporal del módulo.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "El Congreso aprobó la reforma constitucional que nacionalizó los yacimientos de la Gran Minería del Cobre.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1971,
+        "endYear": 1971,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/congress_1925.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/congreso_nacional/historia?periodo=1925-1973",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Registro documental curado; no se infiere gobierno, actor ni resultado no declarado en la fuente.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "event-chl-election-1973",
+    "sourceRecordId": "curated-chl-election-1973",
+    "countryCode": "CHL",
+    "kind": "election",
+    "eventType": "Elecciones parlamentarias",
+    "temporalType": "exact",
+    "year": 1973,
+    "startDate": "1973-03-04",
+    "endDate": "1973-03-04",
+    "name": "Elecciones parlamentarias de 1973",
+    "description": "Elecciones parlamentarias celebradas el 4 de marzo de 1973.",
+    "domains": [
+      "institutions"
+    ],
+    "actors": [],
+    "governmentId": null,
+    "confidence": "fecha y descripción explícitas en fuente oficial",
+    "relatedEventIds": [],
+    "verificationStatus": "verified",
+    "uncertaintyNotes": "Sin incertidumbre adicional registrada; la selección no implica exhaustividad.",
+    "inclusionReason": "Hito institucional, electoral o normativo con fecha explícita en fuente oficial y utilidad para la lectura temporal del módulo.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Elecciones parlamentarias celebradas el 4 de marzo de 1973.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1973,
+        "endYear": 1973,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/elections_early.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/elecciones/index.html?periodo=1925-",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Registro documental curado; no se infiere gobierno, actor ni resultado no declarado en la fuente.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "event-chl-coup-1973",
+    "sourceRecordId": "curated-chl-coup-1973",
+    "countryCode": "CHL",
+    "kind": "institutional_conflict",
+    "eventType": "Golpe de Estado",
+    "temporalType": "exact",
+    "year": 1973,
+    "startDate": "1973-09-11",
+    "endDate": "1973-09-11",
+    "name": "Golpe de Estado e interrupción del gobierno de Salvador Allende",
+    "description": "Las Fuerzas Armadas y de Orden llevaron a cabo un golpe de Estado que interrumpió el gobierno constitucional y el funcionamiento del Congreso.",
+    "domains": [
+      "institutions"
+    ],
+    "actors": [
+      "Fuerzas Armadas y de Orden",
+      "Gobierno de Salvador Allende"
+    ],
+    "governmentId": "salvador-allende",
+    "confidence": "fecha y descripción explícitas en fuente oficial",
+    "relatedEventIds": [],
+    "verificationStatus": "verified",
+    "uncertaintyNotes": "Sin incertidumbre adicional registrada; la selección no implica exhaustividad.",
+    "inclusionReason": "Hito institucional, electoral o normativo con fecha explícita en fuente oficial y utilidad para la lectura temporal del módulo.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Las Fuerzas Armadas y de Orden llevaron a cabo un golpe de Estado que interrumpió el gobierno constitucional y el funcionamiento del Congreso.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1973,
+        "endYear": 1973,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/congress_1925.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/congreso_nacional/historia?periodo=1925-1973",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Registro documental curado; no se infiere gobierno, actor ni resultado no declarado en la fuente.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "event-chl-constitution-1980",
+    "sourceRecordId": "curated-chl-constitution-1980",
+    "countryCode": "CHL",
+    "kind": "constitution",
+    "eventType": "Plebiscito constitucional",
+    "temporalType": "exact",
+    "year": 1980,
+    "startDate": "1980-09-11",
+    "endDate": "1980-09-11",
+    "name": "Plebiscito de la Constitución Política de 1980",
+    "description": "Plebiscito que aprobó una nueva Constitución Política durante el régimen militar.",
+    "domains": [
+      "institutions"
+    ],
+    "actors": [],
+    "governmentId": null,
+    "confidence": "fecha y descripción explícitas en fuente oficial",
+    "relatedEventIds": [],
+    "verificationStatus": "verified",
+    "uncertaintyNotes": "Sin incertidumbre adicional registrada; la selección no implica exhaustividad.",
+    "inclusionReason": "Hito institucional, electoral o normativo con fecha explícita en fuente oficial y utilidad para la lectura temporal del módulo.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Plebiscito que aprobó una nueva Constitución Política durante el régimen militar.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1980,
+        "endYear": 1980,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/elections_dictatorship.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/elecciones/index.html?periodo=1973-1990",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Registro documental curado; no se infiere gobierno, actor ni resultado no declarado en la fuente.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "event-chl-tricel-1985",
+    "sourceRecordId": "curated-chl-tricel-1985",
+    "countryCode": "CHL",
+    "kind": "reform",
+    "eventType": "Reforma institucional electoral",
+    "temporalType": "exact",
+    "year": 1985,
+    "startDate": "1985-11-15",
+    "endDate": "1985-11-15",
+    "name": "Ley 18.460 · Tribunal Calificador de Elecciones",
+    "description": "La Ley 18.460 restableció el Tribunal Calificador de Elecciones.",
+    "domains": [
+      "institutions"
+    ],
+    "actors": [],
+    "governmentId": null,
+    "confidence": "fecha y descripción explícitas en fuente oficial",
+    "relatedEventIds": [],
+    "verificationStatus": "verified",
+    "uncertaintyNotes": "Sin incertidumbre adicional registrada; la selección no implica exhaustividad.",
+    "inclusionReason": "Hito institucional, electoral o normativo con fecha explícita en fuente oficial y utilidad para la lectura temporal del módulo.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "La Ley 18.460 restableció el Tribunal Calificador de Elecciones.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1985,
+        "endYear": 1985,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/elections_modern.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/elecciones/index.html?periodo",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Registro documental curado; no se infiere gobierno, actor ni resultado no declarado en la fuente.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "event-chl-servel-1986",
+    "sourceRecordId": "curated-chl-servel-1986",
+    "countryCode": "CHL",
+    "kind": "reform",
+    "eventType": "Reforma institucional electoral",
+    "temporalType": "exact",
+    "year": 1986,
+    "startDate": "1986-10-01",
+    "endDate": "1986-10-01",
+    "name": "Ley 18.556 · creación del Servicio Electoral",
+    "description": "La Ley 18.556 estableció el sistema electoral y creó el Servicio Electoral.",
+    "domains": [
+      "institutions"
+    ],
+    "actors": [],
+    "governmentId": null,
+    "confidence": "fecha y descripción explícitas en fuente oficial",
+    "relatedEventIds": [],
+    "verificationStatus": "verified",
+    "uncertaintyNotes": "Sin incertidumbre adicional registrada; la selección no implica exhaustividad.",
+    "inclusionReason": "Hito institucional, electoral o normativo con fecha explícita en fuente oficial y utilidad para la lectura temporal del módulo.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "La Ley 18.556 estableció el sistema electoral y creó el Servicio Electoral.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1986,
+        "endYear": 1986,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/elections_dictatorship.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/elecciones/index.html?periodo=1973-1990",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Registro documental curado; no se infiere gobierno, actor ni resultado no declarado en la fuente.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "event-chl-elections-law-1988",
+    "sourceRecordId": "curated-chl-elections-law-1988",
+    "countryCode": "CHL",
+    "kind": "reform",
+    "eventType": "Reforma electoral",
+    "temporalType": "exact",
+    "year": 1988,
+    "startDate": "1988-05-06",
+    "endDate": "1988-05-06",
+    "name": "Ley 18.700 de Votaciones Populares y Escrutinios",
+    "description": "Publicación de la ley orgánica constitucional sobre votaciones populares y escrutinios.",
+    "domains": [
+      "institutions"
+    ],
+    "actors": [],
+    "governmentId": null,
+    "confidence": "fecha y descripción explícitas en fuente oficial",
+    "relatedEventIds": [],
+    "verificationStatus": "verified",
+    "uncertaintyNotes": "Sin incertidumbre adicional registrada; la selección no implica exhaustividad.",
+    "inclusionReason": "Hito institucional, electoral o normativo con fecha explícita en fuente oficial y utilidad para la lectura temporal del módulo.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Publicación de la ley orgánica constitucional sobre votaciones populares y escrutinios.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1988,
+        "endYear": 1988,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/elections_dictatorship.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/elecciones/index.html?periodo=1973-1990",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Registro documental curado; no se infiere gobierno, actor ni resultado no declarado en la fuente.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "event-chl-plebiscite-1988",
+    "sourceRecordId": "curated-chl-plebiscite-1988",
+    "countryCode": "CHL",
+    "kind": "election",
+    "eventType": "Plebiscito",
+    "temporalType": "exact",
+    "year": 1988,
+    "startDate": "1988-10-05",
+    "endDate": "1988-10-05",
+    "name": "Plebiscito nacional de 1988",
+    "description": "La ciudadanía rechazó la continuidad de Augusto Pinochet por ocho años más, abriendo el itinerario de transición.",
+    "domains": [
+      "institutions"
+    ],
+    "actors": [
+      "Ciudadanía",
+      "Régimen militar"
+    ],
+    "governmentId": null,
+    "confidence": "fecha y descripción explícitas en fuente oficial",
+    "relatedEventIds": [],
+    "verificationStatus": "verified",
+    "uncertaintyNotes": "Sin incertidumbre adicional registrada; la selección no implica exhaustividad.",
+    "inclusionReason": "Hito institucional, electoral o normativo con fecha explícita en fuente oficial y utilidad para la lectura temporal del módulo.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "La ciudadanía rechazó la continuidad de Augusto Pinochet por ocho años más, abriendo el itinerario de transición.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1988,
+        "endYear": 1988,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/elections_dictatorship.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/elecciones/index.html?periodo=1973-1990",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Registro documental curado; no se infiere gobierno, actor ni resultado no declarado en la fuente.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "event-chl-binominal-1989",
+    "sourceRecordId": "curated-chl-binominal-1989",
+    "countryCode": "CHL",
+    "kind": "reform",
+    "eventType": "Reforma electoral",
+    "temporalType": "exact",
+    "year": 1989,
+    "startDate": "1989-05-26",
+    "endDate": "1989-05-26",
+    "name": "Ley 18.799 · sistema electoral binominal",
+    "description": "La Ley 18.799 creó el sistema electoral binominal.",
+    "domains": [
+      "institutions"
+    ],
+    "actors": [],
+    "governmentId": null,
+    "confidence": "fecha y descripción explícitas en fuente oficial",
+    "relatedEventIds": [],
+    "verificationStatus": "verified",
+    "uncertaintyNotes": "Sin incertidumbre adicional registrada; la selección no implica exhaustividad.",
+    "inclusionReason": "Hito institucional, electoral o normativo con fecha explícita en fuente oficial y utilidad para la lectura temporal del módulo.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "La Ley 18.799 creó el sistema electoral binominal.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1989,
+        "endYear": 1989,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/elections_dictatorship.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/elecciones/index.html?periodo=1973-1990",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Registro documental curado; no se infiere gobierno, actor ni resultado no declarado en la fuente.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "event-chl-plebiscite-1989",
+    "sourceRecordId": "curated-chl-plebiscite-1989",
+    "countryCode": "CHL",
+    "kind": "constitution",
+    "eventType": "Plebiscito de reforma constitucional",
+    "temporalType": "exact",
+    "year": 1989,
+    "startDate": "1989-07-30",
+    "endDate": "1989-07-30",
+    "name": "Plebiscito de reformas constitucionales de 1989",
+    "description": "Plebiscito que aprobó cincuenta y cuatro reformas constitucionales.",
+    "domains": [
+      "institutions"
+    ],
+    "actors": [],
+    "governmentId": null,
+    "confidence": "fecha y descripción explícitas en fuente oficial",
+    "relatedEventIds": [],
+    "verificationStatus": "verified",
+    "uncertaintyNotes": "Sin incertidumbre adicional registrada; la selección no implica exhaustividad.",
+    "inclusionReason": "Hito institucional, electoral o normativo con fecha explícita en fuente oficial y utilidad para la lectura temporal del módulo.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Plebiscito que aprobó cincuenta y cuatro reformas constitucionales.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1989,
+        "endYear": 1989,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/elections_dictatorship.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/elecciones/index.html?periodo=1973-1990",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Registro documental curado; no se infiere gobierno, actor ni resultado no declarado en la fuente.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "event-chl-elections-1989",
+    "sourceRecordId": "curated-chl-elections-1989",
+    "countryCode": "CHL",
+    "kind": "election",
+    "eventType": "Elecciones generales",
+    "temporalType": "exact",
+    "year": 1989,
+    "startDate": "1989-12-14",
+    "endDate": "1989-12-14",
+    "name": "Elecciones presidenciales y parlamentarias de 1989",
+    "description": "Elecciones presidenciales y parlamentarias celebradas el 14 de diciembre de 1989.",
+    "domains": [
+      "institutions"
+    ],
+    "actors": [],
+    "governmentId": null,
+    "confidence": "fecha y descripción explícitas en fuente oficial",
+    "relatedEventIds": [],
+    "verificationStatus": "verified",
+    "uncertaintyNotes": "Sin incertidumbre adicional registrada; la selección no implica exhaustividad.",
+    "inclusionReason": "Hito institucional, electoral o normativo con fecha explícita en fuente oficial y utilidad para la lectura temporal del módulo.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Elecciones presidenciales y parlamentarias celebradas el 14 de diciembre de 1989.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1989,
+        "endYear": 1989,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/elections_dictatorship.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/elecciones/index.html?periodo=1973-1990",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Registro documental curado; no se infiere gobierno, actor ni resultado no declarado en la fuente.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "event-chl-congress-return-1990",
+    "sourceRecordId": "curated-chl-congress-return-1990",
+    "countryCode": "CHL",
+    "kind": "succession",
+    "eventType": "Transición y reinstalación institucional",
+    "temporalType": "exact",
+    "year": 1990,
+    "startDate": "1990-03-11",
+    "endDate": "1990-03-11",
+    "name": "Traspaso de mando y reinstalación del Congreso Nacional",
+    "description": "Patricio Aylwin asumió la presidencia y el Congreso Nacional retomó sus actividades legislativas en reemplazo de la Junta Militar.",
+    "domains": [
+      "institutions"
+    ],
+    "actors": [
+      "Patricio Aylwin Azócar",
+      "Congreso Nacional"
+    ],
+    "governmentId": null,
+    "confidence": "fecha y descripción explícitas en fuente oficial",
+    "relatedEventIds": [],
+    "verificationStatus": "verified",
+    "uncertaintyNotes": "Sin incertidumbre adicional registrada; la selección no implica exhaustividad.",
+    "inclusionReason": "Hito institucional, electoral o normativo con fecha explícita en fuente oficial y utilidad para la lectura temporal del módulo.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Patricio Aylwin asumió la presidencia y el Congreso Nacional retomó sus actividades legislativas en reemplazo de la Junta Militar.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1990,
+        "endYear": 1990,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/congress_modern.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/congreso_nacional/historia?periodo=1990-2026",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Registro documental curado; no se infiere gobierno, actor ni resultado no declarado en la fuente.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "event-chl-elections-1993",
+    "sourceRecordId": "curated-chl-elections-1993",
+    "countryCode": "CHL",
+    "kind": "election",
+    "eventType": "Elecciones parlamentarias",
+    "temporalType": "exact",
+    "year": 1993,
+    "startDate": "1993-12-11",
+    "endDate": "1993-12-11",
+    "name": "Elecciones parlamentarias de 1993",
+    "description": "Elecciones parlamentarias celebradas el 11 de diciembre de 1993.",
+    "domains": [
+      "institutions"
+    ],
+    "actors": [],
+    "governmentId": null,
+    "confidence": "fecha y descripción explícitas en fuente oficial",
+    "relatedEventIds": [],
+    "verificationStatus": "verified",
+    "uncertaintyNotes": "Sin incertidumbre adicional registrada; la selección no implica exhaustividad.",
+    "inclusionReason": "Hito institucional, electoral o normativo con fecha explícita en fuente oficial y utilidad para la lectura temporal del módulo.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Elecciones parlamentarias celebradas el 11 de diciembre de 1993.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1993,
+        "endYear": 1993,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/elections_modern.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/elecciones/index.html?periodo",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Registro documental curado; no se infiere gobierno, actor ni resultado no declarado en la fuente.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "event-chl-election-1999",
+    "sourceRecordId": "curated-chl-election-1999",
+    "countryCode": "CHL",
+    "kind": "election",
+    "eventType": "Elección presidencial",
+    "temporalType": "exact",
+    "year": 1999,
+    "startDate": "1999-12-12",
+    "endDate": "1999-12-12",
+    "name": "Elección presidencial de 1999–2000",
+    "description": "Primera fecha de la elección presidencial de 1999–2000 registrada por BCN.",
+    "domains": [
+      "institutions"
+    ],
+    "actors": [],
+    "governmentId": null,
+    "confidence": "fecha y descripción explícitas en fuente oficial",
+    "relatedEventIds": [],
+    "verificationStatus": "verified",
+    "uncertaintyNotes": "El nombre conserva el ciclo 1999–2000; el nodo usa la primera fecha explícita y no agrega la segunda vuelta como si fuera el mismo día.",
+    "inclusionReason": "Hito institucional, electoral o normativo con fecha explícita en fuente oficial y utilidad para la lectura temporal del módulo.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Primera fecha de la elección presidencial de 1999–2000 registrada por BCN.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 1999,
+        "endYear": 1999,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/elections_modern.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/elecciones/index.html?periodo",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Registro documental curado; no se infiere gobierno, actor ni resultado no declarado en la fuente.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "event-chl-constitutional-reform-2005",
+    "sourceRecordId": "curated-chl-constitutional-reform-2005",
+    "countryCode": "CHL",
+    "kind": "constitution",
+    "eventType": "Reforma constitucional",
+    "temporalType": "exact",
+    "year": 2005,
+    "startDate": "2005-08-26",
+    "endDate": "2005-08-26",
+    "name": "Ley 20.050 · reforma constitucional de 2005",
+    "description": "La Ley 20.050 implementó cincuenta y cuatro reformas constitucionales.",
+    "domains": [
+      "institutions"
+    ],
+    "actors": [],
+    "governmentId": null,
+    "confidence": "fecha y descripción explícitas en fuente oficial",
+    "relatedEventIds": [],
+    "verificationStatus": "verified",
+    "uncertaintyNotes": "Sin incertidumbre adicional registrada; la selección no implica exhaustividad.",
+    "inclusionReason": "Hito institucional, electoral o normativo con fecha explícita en fuente oficial y utilidad para la lectura temporal del módulo.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "La Ley 20.050 implementó cincuenta y cuatro reformas constitucionales.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 2005,
+        "endYear": 2005,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/elections_modern.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/elecciones/index.html?periodo",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Registro documental curado; no se infiere gobierno, actor ni resultado no declarado en la fuente.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "event-chl-elections-2005",
+    "sourceRecordId": "curated-chl-elections-2005",
+    "countryCode": "CHL",
+    "kind": "election",
+    "eventType": "Elecciones generales",
+    "temporalType": "exact",
+    "year": 2005,
+    "startDate": "2005-12-11",
+    "endDate": "2005-12-11",
+    "name": "Elecciones presidenciales y parlamentarias de 2005",
+    "description": "Elecciones presidenciales y parlamentarias celebradas el 11 de diciembre de 2005.",
+    "domains": [
+      "institutions"
+    ],
+    "actors": [],
+    "governmentId": null,
+    "confidence": "fecha y descripción explícitas en fuente oficial",
+    "relatedEventIds": [],
+    "verificationStatus": "verified",
+    "uncertaintyNotes": "Sin incertidumbre adicional registrada; la selección no implica exhaustividad.",
+    "inclusionReason": "Hito institucional, electoral o normativo con fecha explícita en fuente oficial y utilidad para la lectura temporal del módulo.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Elecciones presidenciales y parlamentarias celebradas el 11 de diciembre de 2005.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 2005,
+        "endYear": 2005,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/elections_modern.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/elecciones/index.html?periodo",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Registro documental curado; no se infiere gobierno, actor ni resultado no declarado en la fuente.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "event-chl-elections-2013",
+    "sourceRecordId": "curated-chl-elections-2013",
+    "countryCode": "CHL",
+    "kind": "election",
+    "eventType": "Elecciones generales",
+    "temporalType": "exact",
+    "year": 2013,
+    "startDate": "2013-11-17",
+    "endDate": "2013-11-17",
+    "name": "Elecciones presidenciales y parlamentarias de 2013",
+    "description": "Elecciones presidenciales y parlamentarias celebradas el 17 de noviembre de 2013.",
+    "domains": [
+      "institutions"
+    ],
+    "actors": [],
+    "governmentId": null,
+    "confidence": "fecha y descripción explícitas en fuente oficial",
+    "relatedEventIds": [],
+    "verificationStatus": "verified",
+    "uncertaintyNotes": "Sin incertidumbre adicional registrada; la selección no implica exhaustividad.",
+    "inclusionReason": "Hito institucional, electoral o normativo con fecha explícita en fuente oficial y utilidad para la lectura temporal del módulo.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Elecciones presidenciales y parlamentarias celebradas el 17 de noviembre de 2013.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 2013,
+        "endYear": 2013,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/elections_modern.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/elecciones/index.html?periodo",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Registro documental curado; no se infiere gobierno, actor ni resultado no declarado en la fuente.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "event-chl-electoral-reform-2015",
+    "sourceRecordId": "curated-chl-electoral-reform-2015",
+    "countryCode": "CHL",
+    "kind": "reform",
+    "eventType": "Reforma electoral",
+    "temporalType": "exact",
+    "year": 2015,
+    "startDate": "2015-05-05",
+    "endDate": "2015-05-05",
+    "name": "Ley 20.840 · fin del sistema binominal",
+    "description": "La Ley 20.840 sustituyó el sistema binominal por uno proporcional inclusivo y modificó la composición de las cámaras.",
+    "domains": [
+      "institutions"
+    ],
+    "actors": [],
+    "governmentId": null,
+    "confidence": "fecha y descripción explícitas en fuente oficial",
+    "relatedEventIds": [],
+    "verificationStatus": "verified",
+    "uncertaintyNotes": "Sin incertidumbre adicional registrada; la selección no implica exhaustividad.",
+    "inclusionReason": "Hito institucional, electoral o normativo con fecha explícita en fuente oficial y utilidad para la lectura temporal del módulo.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "La Ley 20.840 sustituyó el sistema binominal por uno proporcional inclusivo y modificó la composición de las cámaras.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 2015,
+        "endYear": 2015,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/congress_modern.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/congreso_nacional/historia?periodo=1990-2026",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Registro documental curado; no se infiere gobierno, actor ni resultado no declarado en la fuente.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "event-chl-elections-2017",
+    "sourceRecordId": "curated-chl-elections-2017",
+    "countryCode": "CHL",
+    "kind": "election",
+    "eventType": "Elecciones generales",
+    "temporalType": "exact",
+    "year": 2017,
+    "startDate": "2017-11-19",
+    "endDate": "2017-11-19",
+    "name": "Elecciones presidenciales y parlamentarias de 2017",
+    "description": "Elecciones presidenciales y parlamentarias celebradas el 19 de noviembre de 2017.",
+    "domains": [
+      "institutions"
+    ],
+    "actors": [],
+    "governmentId": null,
+    "confidence": "fecha y descripción explícitas en fuente oficial",
+    "relatedEventIds": [],
+    "verificationStatus": "verified",
+    "uncertaintyNotes": "Sin incertidumbre adicional registrada; la selección no implica exhaustividad.",
+    "inclusionReason": "Hito institucional, electoral o normativo con fecha explícita en fuente oficial y utilidad para la lectura temporal del módulo.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Elecciones presidenciales y parlamentarias celebradas el 19 de noviembre de 2017.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 2017,
+        "endYear": 2017,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/elections_modern.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/elecciones/index.html?periodo",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Registro documental curado; no se infiere gobierno, actor ni resultado no declarado en la fuente.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "event-chl-plebiscite-2020",
+    "sourceRecordId": "curated-chl-plebiscite-2020",
+    "countryCode": "CHL",
+    "kind": "constitution",
+    "eventType": "Plebiscito constitucional",
+    "temporalType": "exact",
+    "year": 2020,
+    "startDate": "2020-10-25",
+    "endDate": "2020-10-25",
+    "name": "Plebiscito constitucional de 2020",
+    "description": "Plebiscito sobre una nueva Constitución Política registrado por la cronología electoral de BCN.",
+    "domains": [
+      "institutions"
+    ],
+    "actors": [],
+    "governmentId": null,
+    "confidence": "fecha y descripción explícitas en fuente oficial",
+    "relatedEventIds": [],
+    "verificationStatus": "verified",
+    "uncertaintyNotes": "Sin incertidumbre adicional registrada; la selección no implica exhaustividad.",
+    "inclusionReason": "Hito institucional, electoral o normativo con fecha explícita en fuente oficial y utilidad para la lectura temporal del módulo.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Plebiscito sobre una nueva Constitución Política registrado por la cronología electoral de BCN.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 2020,
+        "endYear": 2020,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/elections_modern.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/elecciones/index.html?periodo",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Registro documental curado; no se infiere gobierno, actor ni resultado no declarado en la fuente.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "event-chl-elections-2021",
+    "sourceRecordId": "curated-chl-elections-2021",
+    "countryCode": "CHL",
+    "kind": "election",
+    "eventType": "Elecciones generales",
+    "temporalType": "exact",
+    "year": 2021,
+    "startDate": "2021-11-21",
+    "endDate": "2021-11-21",
+    "name": "Elecciones presidenciales y parlamentarias de 2021",
+    "description": "Elecciones presidenciales y parlamentarias celebradas el 21 de noviembre de 2021.",
+    "domains": [
+      "institutions"
+    ],
+    "actors": [],
+    "governmentId": null,
+    "confidence": "fecha y descripción explícitas en fuente oficial",
+    "relatedEventIds": [],
+    "verificationStatus": "verified",
+    "uncertaintyNotes": "Sin incertidumbre adicional registrada; la selección no implica exhaustividad.",
+    "inclusionReason": "Hito institucional, electoral o normativo con fecha explícita en fuente oficial y utilidad para la lectura temporal del módulo.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Elecciones presidenciales y parlamentarias celebradas el 21 de noviembre de 2021.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 2021,
+        "endYear": 2021,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/elections_modern.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/elecciones/index.html?periodo",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Registro documental curado; no se infiere gobierno, actor ni resultado no declarado en la fuente.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "event-chl-plebiscite-2022",
+    "sourceRecordId": "curated-chl-plebiscite-2022",
+    "countryCode": "CHL",
+    "kind": "constitution",
+    "eventType": "Plebiscito constitucional",
+    "temporalType": "exact",
+    "year": 2022,
+    "startDate": "2022-09-04",
+    "endDate": "2022-09-04",
+    "name": "Plebiscito constitucional de salida de 2022",
+    "description": "Plebiscito que rechazó la propuesta de nueva Constitución, según la cronología de BCN.",
+    "domains": [
+      "institutions"
+    ],
+    "actors": [],
+    "governmentId": null,
+    "confidence": "fecha y descripción explícitas en fuente oficial",
+    "relatedEventIds": [],
+    "verificationStatus": "verified",
+    "uncertaintyNotes": "Sin incertidumbre adicional registrada; la selección no implica exhaustividad.",
+    "inclusionReason": "Hito institucional, electoral o normativo con fecha explícita en fuente oficial y utilidad para la lectura temporal del módulo.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Plebiscito que rechazó la propuesta de nueva Constitución, según la cronología de BCN.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 2022,
+        "endYear": 2022,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/elections_modern.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/elecciones/index.html?periodo",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Registro documental curado; no se infiere gobierno, actor ni resultado no declarado en la fuente.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "event-chl-elections-2025",
+    "sourceRecordId": "curated-chl-elections-2025",
+    "countryCode": "CHL",
+    "kind": "election",
+    "eventType": "Elecciones generales",
+    "temporalType": "exact",
+    "year": 2025,
+    "startDate": "2025-11-16",
+    "endDate": "2025-11-16",
+    "name": "Elecciones presidenciales y parlamentarias de 2025",
+    "description": "Elecciones parlamentarias del 16 de noviembre de 2025 documentadas en reseñas BCN; se registra el inicio del ciclo electoral sin agregar resultados no incluidos en la página.",
+    "domains": [
+      "institutions"
+    ],
+    "actors": [],
+    "governmentId": null,
+    "confidence": "fecha y descripción explícitas en fuente oficial",
+    "relatedEventIds": [],
+    "verificationStatus": "verified",
+    "uncertaintyNotes": "Sin incertidumbre adicional registrada; la selección no implica exhaustividad.",
+    "inclusionReason": "Hito institucional, electoral o normativo con fecha explícita en fuente oficial y utilidad para la lectura temporal del módulo.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "Elecciones parlamentarias del 16 de noviembre de 2025 documentadas en reseñas BCN; se registra el inicio del ciclo electoral sin agregar resultados no incluidos en la página.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 2025,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/kast.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Jos%C3%A9_Antonio_Kast_Adriasola",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Registro documental curado; no se infiere gobierno, actor ni resultado no declarado en la fuente.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  },
+  {
+    "id": "event-chl-succession-2026",
+    "sourceRecordId": "curated-chl-succession-2026",
+    "countryCode": "CHL",
+    "kind": "succession",
+    "eventType": "Traspaso presidencial",
+    "temporalType": "exact",
+    "year": 2026,
+    "startDate": "2026-03-11",
+    "endDate": "2026-03-11",
+    "name": "Inicio de la presidencia de José Antonio Kast",
+    "description": "José Antonio Kast Rist asumió la presidencia de la República el 11 de marzo de 2026.",
+    "domains": [
+      "institutions"
+    ],
+    "actors": [
+      "José Antonio Kast Rist"
+    ],
+    "governmentId": "jose-antonio-kast",
+    "confidence": "fecha y descripción explícitas en fuente oficial",
+    "relatedEventIds": [],
+    "verificationStatus": "verified",
+    "uncertaintyNotes": "Sin incertidumbre adicional registrada; la selección no implica exhaustividad.",
+    "inclusionReason": "Hito institucional, electoral o normativo con fecha explícita en fuente oficial y utilidad para la lectura temporal del módulo.",
+    "provenance": {
+      "sourceId": "bcn-historia-politica",
+      "datasetVersionId": "bcn-historia-politica-2026-11-01",
+      "originalVariable": "Contenido documental HTML",
+      "definition": "José Antonio Kast Rist asumió la presidencia de la República el 11 de marzo de 2026.",
+      "unit": "fechas ISO 8601 y descripción documental",
+      "coverage": {
+        "startYear": 2026,
+        "endYear": 2026,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Transcripción curada de fechas y atributos explícitos; sin inferencia por proximidad temporal."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "data/raw/chile-oficial/kast.html",
+      "sourceSheet": null,
+      "sourceRow": 1,
+      "url": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Jos%C3%A9_Antonio_Kast_Adriasola",
+      "accessDate": "2026-11-01",
+      "methodologyId": "curaduria-documental-chile-fase05",
+      "methodologyVariant": "Fuente oficial y fechas explícitas",
+      "notes": "Registro documental curado; no se infiere gobierno, actor ni resultado no declarado en la fuente.",
+      "verificationNote": "Revisión documental y cotejo contra instantánea oficial; no constituye validación metodológica independiente de toda la fuente."
+    }
+  }
+]

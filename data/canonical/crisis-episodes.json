@@ -1,0 +1,262 @@
+[
+  {
+    "id": "crisis-arg-2001-12-01",
+    "countryCode": "ARG",
+    "crisisType": "Vertical",
+    "startDate": "2001-12-01",
+    "endDate": "2002-03-05",
+    "peakDate": "2002-01-02",
+    "durationDays": 94,
+    "durationToPeakDays": 32.0,
+    "description": "Renuncia de De la Rúa tras protestas masivas, huelgas y colapso de la coalición.",
+    "actors": {
+      "horizontal": "Congreso; coalición gobernante; actores de sucesión interina",
+      "vertical": "Manifestantes; CGT; piqueteros; fuerzas opositoras",
+      "target": "Ejecutivo"
+    },
+    "mechanisms": {
+      "RU": 1.0,
+      "HPG": 1.0,
+      "CP": 0.0,
+      "ILR": 0.0,
+      "CC": 0.0,
+      "FJ": 0.0,
+      "MI": 0.0,
+      "IC": 0.0,
+      "D": 1.0
+    },
+    "presidentialInterruption": "yes",
+    "presidentialExit": "yes",
+    "notes": "Renuncia de De la Rúa tras protestas masivas, huelgas y colapso de la coalición.",
+    "confidence": "alta",
+    "justifications": {
+      "start": "Corralito, anunciado por televisión el sábado 1 de diciembre por el ministro de Economía, Domingo Cavallo, y formalizado mediante el Decreto 1570/2001.",
+      "end": "asunción de Eduardo Duhalde",
+      "peak": "Renuncia de De la Rúa tras represión con decenas de muertos (\"Argentinazo\").",
+      "peakNote": null
+    },
+    "originalValues": {
+      "pres_fail": "Yes",
+      "salida": 1,
+      "edited": 0.0,
+      "total_events": 2.0
+    },
+    "provenance": {
+      "sourceId": "rcp-crisis",
+      "datasetVersionId": "rcp-crisis-v6-local",
+      "originalVariable": "año; pais; tipo; inicio; termino; fecha_peak; duración_crisis; actores; mecanismos; pres_fail; salida; notes; pivote_confianza",
+      "definition": "Episodio de crisis con dimensiones vertical u horizontal según la hoja crisis y su codebook.",
+      "unit": "fechas ISO 8601; duración en días",
+      "coverage": {
+        "startYear": 2001,
+        "endYear": 2002,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Fechas convertidas a ISO 8601; episodios independientes aunque compartan año.",
+        "Campos de actores, mecanismos, salida, notas y confianza conservados sin imputación."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "Base_Final_RCP_v6.xlsx",
+      "sourceSheet": "crisis",
+      "sourceRow": 2,
+      "notes": "El codebook usa nombres distintos de varias columnas efectivas; la correspondencia se documenta en el informe de importación.",
+      "verificationNote": "Cotejado automatizadamente contra la fila original; no constituye validación externa de la fuente."
+    }
+  },
+  {
+    "id": "crisis-arg-2002-06-26",
+    "countryCode": "ARG",
+    "crisisType": "Vertical",
+    "startDate": "2002-06-26",
+    "endDate": "2002-10-22",
+    "peakDate": "2002-06-26",
+    "durationDays": 118,
+    "durationToPeakDays": 0.0,
+    "description": "Presión sostenida por salida anticipada y renovación política; cierre mediante elecciones anticipadas.",
+    "actors": {
+      "horizontal": "Congreso; élites partidarias; autoridades electorales",
+      "vertical": "Piqueteros; manifestantes antiestablishment; sociedad civil",
+      "target": "Ejecutivo"
+    },
+    "mechanisms": {
+      "RU": 0.0,
+      "HPG": 0.0,
+      "CP": 1.0,
+      "ILR": 0.0,
+      "CC": 0.0,
+      "FJ": 0.0,
+      "MI": 0.0,
+      "IC": 0.0,
+      "D": 1.0
+    },
+    "presidentialInterruption": "yes",
+    "presidentialExit": "yes",
+    "notes": "Presión sostenida por salida anticipada y renovación política; cierre mediante elecciones anticipadas.",
+    "confidence": "alta",
+    "justifications": {
+      "start": "Masacre de Avellaneda (Kosteki y Santillán); forzó a Duhalde a adelantar las elecciones.",
+      "end": "Duhalde presentó en el Congreso su renuncia al cargo a partir del 25 de mayo",
+      "peak": "Masacre de Avellaneda (Kosteki y Santillán); forzó a Duhalde a adelantar las elecciones.",
+      "peakNote": null
+    },
+    "originalValues": {
+      "pres_fail": "Yes",
+      "salida": 1,
+      "edited": 0.0,
+      "total_events": 1.0
+    },
+    "provenance": {
+      "sourceId": "rcp-crisis",
+      "datasetVersionId": "rcp-crisis-v6-local",
+      "originalVariable": "año; pais; tipo; inicio; termino; fecha_peak; duración_crisis; actores; mecanismos; pres_fail; salida; notes; pivote_confianza",
+      "definition": "Episodio de crisis con dimensiones vertical u horizontal según la hoja crisis y su codebook.",
+      "unit": "fechas ISO 8601; duración en días",
+      "coverage": {
+        "startYear": 2001,
+        "endYear": 2002,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Fechas convertidas a ISO 8601; episodios independientes aunque compartan año.",
+        "Campos de actores, mecanismos, salida, notas y confianza conservados sin imputación."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "Base_Final_RCP_v6.xlsx",
+      "sourceSheet": "crisis",
+      "sourceRow": 3,
+      "notes": "El codebook usa nombres distintos de varias columnas efectivas; la correspondencia se documenta en el informe de importación.",
+      "verificationNote": "Cotejado automatizadamente contra la fila original; no constituye validación externa de la fuente."
+    }
+  },
+  {
+    "id": "crisis-chl-2019-10-18",
+    "countryCode": "CHL",
+    "crisisType": "Vertical",
+    "startDate": "2019-10-18",
+    "endDate": "2019-12-19",
+    "peakDate": "2019-10-25",
+    "durationDays": 62,
+    "durationToPeakDays": 7.0,
+    "description": "Estallido social con demanda de renuncia de Piñera en sectores de la movilización y proceso constitucional.",
+    "actors": {
+      "horizontal": "Congreso; fuerzas armadas; funcionarios del gabinete",
+      "vertical": "Estudiantes; sindicatos; Unidad Social; manifestantes masivos",
+      "target": "Ejecutivo"
+    },
+    "mechanisms": {
+      "RU": 0.0,
+      "HPG": 1.0,
+      "CP": 1.0,
+      "ILR": 1.0,
+      "CC": 0.0,
+      "FJ": 0.0,
+      "MI": 1.0,
+      "IC": 0.0,
+      "D": 1.0
+    },
+    "presidentialInterruption": "no",
+    "presidentialExit": "no",
+    "notes": "Estallido social con demanda de renuncia de Piñera en sectores de la movilización y proceso constitucional.",
+    "confidence": "alta",
+    "justifications": {
+      "start": "inicio de las movilizaciones masivas que luego aumentaron dramáticamente",
+      "end": "rechazo al juicio político y descenso dramático de las movilizaciones",
+      "peak": "Marcha más grande de la historia de Chile (~1,2 millones en Santiago).",
+      "peakNote": null
+    },
+    "originalValues": {
+      "pres_fail": "No",
+      "salida": 0,
+      "edited": 1.0,
+      "total_events": 4.0
+    },
+    "provenance": {
+      "sourceId": "rcp-crisis",
+      "datasetVersionId": "rcp-crisis-v6-local",
+      "originalVariable": "año; pais; tipo; inicio; termino; fecha_peak; duración_crisis; actores; mecanismos; pres_fail; salida; notes; pivote_confianza",
+      "definition": "Episodio de crisis con dimensiones vertical u horizontal según la hoja crisis y su codebook.",
+      "unit": "fechas ISO 8601; duración en días",
+      "coverage": {
+        "startYear": 2019,
+        "endYear": 2021,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Fechas convertidas a ISO 8601; episodios independientes aunque compartan año.",
+        "Campos de actores, mecanismos, salida, notas y confianza conservados sin imputación."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "Base_Final_RCP_v6.xlsx",
+      "sourceSheet": "crisis",
+      "sourceRow": 15,
+      "notes": "El codebook usa nombres distintos de varias columnas efectivas; la correspondencia se documenta en el informe de importación.",
+      "verificationNote": "Cotejado automatizadamente contra la fila original; no constituye validación externa de la fuente."
+    }
+  },
+  {
+    "id": "crisis-chl-2021-10-13",
+    "countryCode": "CHL",
+    "crisisType": "Horizontal",
+    "startDate": "2021-10-13",
+    "endDate": "2021-11-16",
+    "peakDate": "2021-11-09",
+    "durationDays": 34,
+    "durationToPeakDays": 27.0,
+    "description": "Acusación constitucional contra Piñera aprobada en Cámara y rechazada en Senado.",
+    "actors": {
+      "horizontal": "Cámara de Diputados; Senado; partidos opositores",
+      "vertical": "Manifestantes del aniversario; movilización mapuche",
+      "target": "Ejecutivo"
+    },
+    "mechanisms": {
+      "RU": 0.0,
+      "HPG": 0.0,
+      "CP": 0.0,
+      "ILR": 1.0,
+      "CC": 0.0,
+      "FJ": 0.0,
+      "MI": 0.0,
+      "IC": 0.0,
+      "D": 1.0
+    },
+    "presidentialInterruption": "no",
+    "presidentialExit": "no",
+    "notes": "Acusación constitucional contra Piñera aprobada en Cámara y rechazada en Senado.",
+    "confidence": "alta",
+    "justifications": {
+      "start": "presentación de juicio político en contra de piñera",
+      "end": "El Senado rechaza la acusación constitucional contra Piñera por Pandora Papers.",
+      "peak": "Cámra aprueba la acusación constitucional contra Piñera por Pandora Papers.",
+      "peakNote": null
+    },
+    "originalValues": {
+      "pres_fail": "No",
+      "salida": 0,
+      "edited": 1.0,
+      "total_events": 1.0
+    },
+    "provenance": {
+      "sourceId": "rcp-crisis",
+      "datasetVersionId": "rcp-crisis-v6-local",
+      "originalVariable": "año; pais; tipo; inicio; termino; fecha_peak; duración_crisis; actores; mecanismos; pres_fail; salida; notes; pivote_confianza",
+      "definition": "Episodio de crisis con dimensiones vertical u horizontal según la hoja crisis y su codebook.",
+      "unit": "fechas ISO 8601; duración en días",
+      "coverage": {
+        "startYear": 2019,
+        "endYear": 2021,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Fechas convertidas a ISO 8601; episodios independientes aunque compartan año.",
+        "Campos de actores, mecanismos, salida, notas y confianza conservados sin imputación."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "Base_Final_RCP_v6.xlsx",
+      "sourceSheet": "crisis",
+      "sourceRow": 16,
+      "notes": "El codebook usa nombres distintos de varias columnas efectivas; la correspondencia se documenta en el informe de importación.",
+      "verificationNote": "Cotejado automatizadamente contra la fila original; no constituye validación externa de la fuente."
+    }
+  }
+]

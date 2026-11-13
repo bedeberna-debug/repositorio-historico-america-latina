@@ -1,0 +1,68 @@
+[
+  {
+    "id": "bcn-historia-politica",
+    "institution": "Biblioteca del Congreso Nacional de Chile",
+    "title": "Historia Política de Chile",
+    "url": "https://www.bcn.cl/historiapolitica/",
+    "bibliographicReference": "Biblioteca del Congreso Nacional de Chile. Historia Política de Chile. Consulta y archivo local: 2026-11-01.",
+    "metadataNote": "Instantáneas oficiales conservadas por página cuando el servidor lo permite; los derechos y condiciones de uso permanecen sujetos a los términos institucionales. La revisión documental no equivale a validación externa exhaustiva.",
+    "versions": [
+      {
+        "id": "bcn-historia-politica-2026-11-01",
+        "datasetName": "Historia Política de Chile",
+        "version": "Instantánea 2026-11-01",
+        "publicationDate": null,
+        "accessDate": "2026-11-01",
+        "license": "Contenido institucional; consultar condiciones de uso del organismo",
+        "status": "imported",
+        "sourceFile": "data\\raw\\chile-oficial\\presidents.html",
+        "sourceSheet": null,
+        "sha256": "0b6dbbf232c855c5abe43c651c8aa4a63c296e4572b960e3ad0f8ce09d0029ce"
+      }
+    ]
+  },
+  {
+    "id": "bcn-historia-constitucional",
+    "institution": "Biblioteca del Congreso Nacional de Chile",
+    "title": "Historia de la Constitución Política · colección de historias de leyes",
+    "url": "https://www.bcn.cl/obtienearchivo?id=recursoslegales/10221.3/422/1/HLArt10CPR.pdf",
+    "bibliographicReference": "Biblioteca del Congreso Nacional de Chile. Historia de la Constitución Política · colección de historias de leyes. Consulta y archivo local: 2026-11-01.",
+    "metadataNote": "Instantáneas oficiales conservadas por página cuando el servidor lo permite; los derechos y condiciones de uso permanecen sujetos a los términos institucionales. La revisión documental no equivale a validación externa exhaustiva.",
+    "versions": [
+      {
+        "id": "bcn-historia-constitucional-2026-11-01",
+        "datasetName": "Historia de la Constitución Política · colección de historias de leyes",
+        "version": "Instantánea 2026-11-01",
+        "publicationDate": null,
+        "accessDate": "2026-11-01",
+        "license": "Contenido institucional; consultar condiciones de uso del organismo",
+        "status": "imported",
+        "sourceFile": "data\\raw\\chile-oficial\\judicial_reform.pdf",
+        "sourceSheet": null,
+        "sha256": "695e170faa9d3accca94b7e8f30591b33544819930ace2e6beadb9c7b449d8da"
+      }
+    ]
+  },
+  {
+    "id": "poder-judicial-chile",
+    "institution": "Poder Judicial de Chile",
+    "title": "Historia del Poder Judicial",
+    "url": "https://www.pjud.cl/post/historia-del-poder-judicial",
+    "bibliographicReference": "Poder Judicial de Chile. Historia del Poder Judicial. Consulta y archivo local: 2026-11-01.",
+    "metadataNote": "Instantáneas oficiales conservadas por página cuando el servidor lo permite; los derechos y condiciones de uso permanecen sujetos a los términos institucionales. La revisión documental no equivale a validación externa exhaustiva.",
+    "versions": [
+      {
+        "id": "poder-judicial-chile-2026-11-01",
+        "datasetName": "Historia del Poder Judicial",
+        "version": "Instantánea 2026-11-01",
+        "publicationDate": null,
+        "accessDate": "2026-11-01",
+        "license": "Contenido institucional; consultar condiciones de uso del organismo",
+        "status": "imported",
+        "sourceFile": null,
+        "sourceSheet": null,
+        "sha256": null
+      }
+    ]
+  }
+]

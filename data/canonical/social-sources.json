@@ -1,0 +1,120 @@
+[
+  {
+    "id": "world-bank-wdi",
+    "institution": "Banco Mundial",
+    "title": "World Development Indicators (WDI)",
+    "url": "https://data.worldbank.org/indicator",
+    "bibliographicReference": "Banco Mundial, World Development Indicators, API v2. Acceso: 2026-10-31. Las actualizaciones y variables originales se registran por indicador.",
+    "metadataNote": "Fichas oficiales y respuestas JSON conservadas por indicador. Licencia predeterminada de datos abiertos producidos por el Banco Mundial: CC BY 4.0, sujeta a los términos adicionales de https://datacatalog.worldbank.org/public-licenses. Las organizaciones de origen figuran en cada ficha oficial.",
+    "versions": [
+      {
+        "id": "wdi-total-population-2026-10-08",
+        "datasetName": "WDI · SP.POP.TOTL",
+        "version": "Actualización WDI 2026-10-08",
+        "publicationDate": null,
+        "accessDate": "2026-10-31",
+        "license": "CC BY 4.0 (con términos adicionales del catálogo del Banco Mundial)",
+        "status": "imported",
+        "sourceFile": "data\\raw\\world-bank\\SP.POP.TOTL-ARG-CHL.json",
+        "sourceSheet": null,
+        "sha256": "65d5f7600641d66bd2f74217a1769262c34e913d8549a2fcf41bca065f7ad2fc"
+      },
+      {
+        "id": "wdi-population-age-0-14-2026-10-08",
+        "datasetName": "WDI · SP.POP.0014.TO.ZS",
+        "version": "Actualización WDI 2026-10-08",
+        "publicationDate": null,
+        "accessDate": "2026-10-31",
+        "license": "CC BY 4.0 (con términos adicionales del catálogo del Banco Mundial)",
+        "status": "imported",
+        "sourceFile": "data\\raw\\world-bank\\SP.POP.0014.TO.ZS-ARG-CHL.json",
+        "sourceSheet": null,
+        "sha256": "6af47a850915b623f653ac147e8223d17c723dfe6536c5428752497783279979"
+      },
+      {
+        "id": "wdi-population-age-15-64-2026-10-08",
+        "datasetName": "WDI · SP.POP.1564.TO.ZS",
+        "version": "Actualización WDI 2026-10-08",
+        "publicationDate": null,
+        "accessDate": "2026-10-31",
+        "license": "CC BY 4.0 (con términos adicionales del catálogo del Banco Mundial)",
+        "status": "imported",
+        "sourceFile": "data\\raw\\world-bank\\SP.POP.1564.TO.ZS-ARG-CHL.json",
+        "sourceSheet": null,
+        "sha256": "fc42125c78b64631f8b3b85df4c12922a573ec1b169d13c9f67a73561273a3a5"
+      },
+      {
+        "id": "wdi-population-age-65-plus-2026-10-08",
+        "datasetName": "WDI · SP.POP.65UP.TO.ZS",
+        "version": "Actualización WDI 2026-10-08",
+        "publicationDate": null,
+        "accessDate": "2026-10-31",
+        "license": "CC BY 4.0 (con términos adicionales del catálogo del Banco Mundial)",
+        "status": "imported",
+        "sourceFile": "data\\raw\\world-bank\\SP.POP.65UP.TO.ZS-ARG-CHL.json",
+        "sourceSheet": null,
+        "sha256": "9e3e178ec8d83aed4154317ed7e17034f666af1021252fd47d42816631af29ba"
+      },
+      {
+        "id": "wdi-urban-population-share-2026-10-08",
+        "datasetName": "WDI · SP.URB.TOTL.IN.ZS",
+        "version": "Actualización WDI 2026-10-08",
+        "publicationDate": null,
+        "accessDate": "2026-10-31",
+        "license": "CC BY 4.0 (con términos adicionales del catálogo del Banco Mundial)",
+        "status": "imported",
+        "sourceFile": "data\\raw\\world-bank\\SP.URB.TOTL.IN.ZS-ARG-CHL.json",
+        "sourceSheet": null,
+        "sha256": "d31ecf761ff62603f6bea9c011a9ffe9f07dc87ee581f01d3eb433411143f182"
+      },
+      {
+        "id": "wdi-rural-population-share-2026-10-08",
+        "datasetName": "WDI · SP.RUR.TOTL.ZS",
+        "version": "Actualización WDI 2026-10-08",
+        "publicationDate": null,
+        "accessDate": "2026-10-31",
+        "license": "CC BY 4.0 (con términos adicionales del catálogo del Banco Mundial)",
+        "status": "imported",
+        "sourceFile": "data\\raw\\world-bank\\SP.RUR.TOTL.ZS-ARG-CHL.json",
+        "sourceSheet": null,
+        "sha256": "eaceb566410cfdc95dd61baba18c70dee5dae935fd8577e534410ec0d45ddfb8"
+      },
+      {
+        "id": "wdi-poverty-national-headcount-2026-10-08",
+        "datasetName": "WDI · SI.POV.NAHC",
+        "version": "Actualización WDI 2026-10-08",
+        "publicationDate": null,
+        "accessDate": "2026-10-31",
+        "license": "CC BY 4.0 (con términos adicionales del catálogo del Banco Mundial)",
+        "status": "imported",
+        "sourceFile": "data\\raw\\world-bank\\SI.POV.NAHC-ARG-CHL.json",
+        "sourceSheet": null,
+        "sha256": "57972fa28f58a54dd24fdccc1d8c4c4fa3c0b0f46554b170d82303d5f01a8bc2"
+      },
+      {
+        "id": "wdi-poverty-international-3-2021ppp-2026-10-08",
+        "datasetName": "WDI · SI.POV.DDAY",
+        "version": "Actualización WDI 2026-10-08",
+        "publicationDate": null,
+        "accessDate": "2026-10-31",
+        "license": "CC BY 4.0 (con términos adicionales del catálogo del Banco Mundial)",
+        "status": "imported",
+        "sourceFile": "data\\raw\\world-bank\\SI.POV.DDAY-ARG-CHL.json",
+        "sourceSheet": null,
+        "sha256": "17a45e1a792bff965fef6af4d893043791712c83a8cd97d999dd3b4cb2b2d779"
+      },
+      {
+        "id": "wdi-adult-literacy-rate-2026-10-08",
+        "datasetName": "WDI · SE.ADT.LITR.ZS",
+        "version": "Actualización WDI 2026-10-08",
+        "publicationDate": null,
+        "accessDate": "2026-10-31",
+        "license": "CC BY 4.0 (con términos adicionales del catálogo del Banco Mundial)",
+        "status": "imported",
+        "sourceFile": "data\\raw\\world-bank\\SE.ADT.LITR.ZS-ARG-CHL.json",
+        "sourceSheet": null,
+        "sha256": "5b3f1c0fb91d35d2012698886a92a2ffa3426e07a2b5cc87a400c5a83875253f"
+      }
+    ]
+  }
+]

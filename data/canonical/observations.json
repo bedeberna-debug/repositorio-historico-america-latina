@@ -1,0 +1,4880 @@
+[
+  {
+    "id": "obs-arg-gdp-per-capita-ppp-2021-2000",
+    "countryCode": "ARG",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2000,
+    "originalValue": 22281.38142999575,
+    "normalizedValue": 22281.38142999575,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 2,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes.",
+      "verificationNote": "Cotejado automatizadamente contra la fila original; no constituye validación externa de la fuente."
+    }
+  },
+  {
+    "id": "obs-arg-gdp-per-capita-ppp-2021-2001",
+    "countryCode": "ARG",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2001,
+    "originalValue": 21066.45812904325,
+    "normalizedValue": 21066.45812904325,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 3,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-arg-gdp-per-capita-ppp-2021-2002",
+    "countryCode": "ARG",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2002,
+    "originalValue": 18571.70204712742,
+    "normalizedValue": 18571.70204712742,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 4,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-arg-gdp-per-capita-ppp-2021-2003",
+    "countryCode": "ARG",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2003,
+    "originalValue": 20005.13851134646,
+    "normalizedValue": 20005.13851134646,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 5,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-arg-gdp-per-capita-ppp-2021-2004",
+    "countryCode": "ARG",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2004,
+    "originalValue": 21591.44939651698,
+    "normalizedValue": 21591.44939651698,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 6,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-arg-gdp-per-capita-ppp-2021-2005",
+    "countryCode": "ARG",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2005,
+    "originalValue": 23262.40757928158,
+    "normalizedValue": 23262.40757928158,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 7,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-arg-gdp-per-capita-ppp-2021-2006",
+    "countryCode": "ARG",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2006,
+    "originalValue": 24877.24939222955,
+    "normalizedValue": 24877.24939222955,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 8,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-arg-gdp-per-capita-ppp-2021-2007",
+    "countryCode": "ARG",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2007,
+    "originalValue": 26850.66459327707,
+    "normalizedValue": 26850.66459327707,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 9,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-arg-gdp-per-capita-ppp-2021-2008",
+    "countryCode": "ARG",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2008,
+    "originalValue": 27658.48534468313,
+    "normalizedValue": 27658.48534468313,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 10,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-arg-gdp-per-capita-ppp-2021-2009",
+    "countryCode": "ARG",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2009,
+    "originalValue": 25747.19768099947,
+    "normalizedValue": 25747.19768099947,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 11,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-arg-gdp-per-capita-ppp-2021-2010",
+    "countryCode": "ARG",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2010,
+    "originalValue": 28056.25702123418,
+    "normalizedValue": 28056.25702123418,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 12,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-arg-gdp-per-capita-ppp-2021-2011",
+    "countryCode": "ARG",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2011,
+    "originalValue": 29425.7593876084,
+    "normalizedValue": 29425.7593876084,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 13,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-arg-gdp-per-capita-ppp-2021-2012",
+    "countryCode": "ARG",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2012,
+    "originalValue": 28825.96668653608,
+    "normalizedValue": 28825.96668653608,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 14,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-arg-gdp-per-capita-ppp-2021-2013",
+    "countryCode": "ARG",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2013,
+    "originalValue": 29227.66018184373,
+    "normalizedValue": 29227.66018184373,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 15,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-arg-gdp-per-capita-ppp-2021-2014",
+    "countryCode": "ARG",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2014,
+    "originalValue": 28200.81525713183,
+    "normalizedValue": 28200.81525713183,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 16,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-arg-gdp-per-capita-ppp-2021-2015",
+    "countryCode": "ARG",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2015,
+    "originalValue": 28669.20613367961,
+    "normalizedValue": 28669.20613367961,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 17,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-arg-gdp-per-capita-ppp-2021-2016",
+    "countryCode": "ARG",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2016,
+    "originalValue": 27802.10572014976,
+    "normalizedValue": 27802.10572014976,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 18,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-arg-gdp-per-capita-ppp-2021-2017",
+    "countryCode": "ARG",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2017,
+    "originalValue": 28334.904184742,
+    "normalizedValue": 28334.904184742,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 19,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-arg-gdp-per-capita-ppp-2021-2018",
+    "countryCode": "ARG",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2018,
+    "originalValue": 27367.11509410798,
+    "normalizedValue": 27367.11509410798,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 20,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-arg-gdp-per-capita-ppp-2021-2019",
+    "countryCode": "ARG",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2019,
+    "originalValue": 26629.55294195005,
+    "normalizedValue": 26629.55294195005,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 21,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-arg-gdp-per-capita-ppp-2021-2020",
+    "countryCode": "ARG",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2020,
+    "originalValue": 23877.09314048554,
+    "normalizedValue": 23877.09314048554,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 22,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-arg-gdp-per-capita-ppp-2021-2021",
+    "countryCode": "ARG",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2021,
+    "originalValue": 26300.27426117504,
+    "normalizedValue": 26300.27426117504,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 23,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-arg-gdp-per-capita-ppp-2021-2022",
+    "countryCode": "ARG",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2022,
+    "originalValue": 27825.0273492567,
+    "normalizedValue": 27825.0273492567,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 24,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-arg-gdp-per-capita-ppp-2021-2023",
+    "countryCode": "ARG",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2023,
+    "originalValue": 27230.39684966819,
+    "normalizedValue": 27230.39684966819,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 25,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-arg-gdp-per-capita-ppp-2021-2024",
+    "countryCode": "ARG",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2024,
+    "originalValue": 26771.96576505708,
+    "normalizedValue": 26771.96576505708,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 26,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-arg-gdp-per-capita-ppp-2021-2025",
+    "countryCode": "ARG",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2025,
+    "originalValue": 27846.59845972391,
+    "normalizedValue": 27846.59845972391,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 27,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-chl-gdp-per-capita-ppp-2021-2000",
+    "countryCode": "CHL",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2000,
+    "originalValue": 17529.42059976924,
+    "normalizedValue": 17529.42059976924,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 80,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-chl-gdp-per-capita-ppp-2021-2001",
+    "countryCode": "CHL",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2001,
+    "originalValue": 17874.53138669378,
+    "normalizedValue": 17874.53138669378,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 81,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-chl-gdp-per-capita-ppp-2021-2002",
+    "countryCode": "CHL",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2002,
+    "originalValue": 18244.51968273147,
+    "normalizedValue": 18244.51968273147,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 82,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-chl-gdp-per-capita-ppp-2021-2003",
+    "countryCode": "CHL",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2003,
+    "originalValue": 18907.34587457551,
+    "normalizedValue": 18907.34587457551,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 83,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-chl-gdp-per-capita-ppp-2021-2004",
+    "countryCode": "CHL",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2004,
+    "originalValue": 19966.70931060948,
+    "normalizedValue": 19966.70931060948,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 84,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-chl-gdp-per-capita-ppp-2021-2005",
+    "countryCode": "CHL",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2005,
+    "originalValue": 20923.479756183,
+    "normalizedValue": 20923.479756183,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 85,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-chl-gdp-per-capita-ppp-2021-2006",
+    "countryCode": "CHL",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2006,
+    "originalValue": 21973.73829143887,
+    "normalizedValue": 21973.73829143887,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 86,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-chl-gdp-per-capita-ppp-2021-2007",
+    "countryCode": "CHL",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2007,
+    "originalValue": 22884.29971088459,
+    "normalizedValue": 22884.29971088459,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 87,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-chl-gdp-per-capita-ppp-2021-2008",
+    "countryCode": "CHL",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2008,
+    "originalValue": 23515.34731782689,
+    "normalizedValue": 23515.34731782689,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 88,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-chl-gdp-per-capita-ppp-2021-2009",
+    "countryCode": "CHL",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2009,
+    "originalValue": 23019.02994540938,
+    "normalizedValue": 23019.02994540938,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 89,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-chl-gdp-per-capita-ppp-2021-2010",
+    "countryCode": "CHL",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2010,
+    "originalValue": 24122.47879243864,
+    "normalizedValue": 24122.47879243864,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 90,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-chl-gdp-per-capita-ppp-2021-2011",
+    "countryCode": "CHL",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2011,
+    "originalValue": 25372.27414807724,
+    "normalizedValue": 25372.27414807724,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 91,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-chl-gdp-per-capita-ppp-2021-2012",
+    "countryCode": "CHL",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2012,
+    "originalValue": 26676.81101540189,
+    "normalizedValue": 26676.81101540189,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 92,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-chl-gdp-per-capita-ppp-2021-2013",
+    "countryCode": "CHL",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2013,
+    "originalValue": 27297.81851453662,
+    "normalizedValue": 27297.81851453662,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 93,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-chl-gdp-per-capita-ppp-2021-2014",
+    "countryCode": "CHL",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2014,
+    "originalValue": 27511.56100304042,
+    "normalizedValue": 27511.56100304042,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 94,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-chl-gdp-per-capita-ppp-2021-2015",
+    "countryCode": "CHL",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2015,
+    "originalValue": 27817.95848480237,
+    "normalizedValue": 27817.95848480237,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 95,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-chl-gdp-per-capita-ppp-2021-2016",
+    "countryCode": "CHL",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2016,
+    "originalValue": 27965.34735268309,
+    "normalizedValue": 27965.34735268309,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 96,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-chl-gdp-per-capita-ppp-2021-2017",
+    "countryCode": "CHL",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2017,
+    "originalValue": 27899.59797770116,
+    "normalizedValue": 27899.59797770116,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 97,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-chl-gdp-per-capita-ppp-2021-2018",
+    "countryCode": "CHL",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2018,
+    "originalValue": 28499.40640004063,
+    "normalizedValue": 28499.40640004063,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 98,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-chl-gdp-per-capita-ppp-2021-2019",
+    "countryCode": "CHL",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2019,
+    "originalValue": 28227.97905075938,
+    "normalizedValue": 28227.97905075938,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 99,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-chl-gdp-per-capita-ppp-2021-2020",
+    "countryCode": "CHL",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2020,
+    "originalValue": 26258.40385532415,
+    "normalizedValue": 26258.40385532415,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 100,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-chl-gdp-per-capita-ppp-2021-2021",
+    "countryCode": "CHL",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2021,
+    "originalValue": 29106.63565220531,
+    "normalizedValue": 29106.63565220531,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 101,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-chl-gdp-per-capita-ppp-2021-2022",
+    "countryCode": "CHL",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2022,
+    "originalValue": 29560.45138057852,
+    "normalizedValue": 29560.45138057852,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 102,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-chl-gdp-per-capita-ppp-2021-2023",
+    "countryCode": "CHL",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2023,
+    "originalValue": 29600.41886131676,
+    "normalizedValue": 29600.41886131676,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 103,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-chl-gdp-per-capita-ppp-2021-2024",
+    "countryCode": "CHL",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2024,
+    "originalValue": 30267.64409199075,
+    "normalizedValue": 30267.64409199075,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 104,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes."
+    }
+  },
+  {
+    "id": "obs-chl-gdp-per-capita-ppp-2021-2025",
+    "countryCode": "CHL",
+    "indicatorId": "gdp-per-capita-ppp-2021",
+    "year": 2025,
+    "originalValue": 30863.42231551688,
+    "normalizedValue": 30863.42231551688,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "course-economic",
+      "datasetVersionId": "course-economic-local",
+      "originalVariable": "GDP_pc_PPP_2021",
+      "definition": "PIB per cápita ajustado por PPA en valores constantes de 2021, según el nombre de variable del archivo.",
+      "unit": "dólares internacionales constantes de 2021",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2025,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 105,
+      "notes": "Observación importada. El CSV no incluye cita bibliográfica, versión ni metadatos institucionales; esos campos permanecen pendientes.",
+      "verificationNote": "Cotejado automatizadamente contra la fila original; no constituye validación externa de la fuente."
+    }
+  },
+  {
+    "id": "obs-arg-electoral-democracy-2000",
+    "countryCode": "ARG",
+    "indicatorId": "electoral-democracy",
+    "year": 2000,
+    "originalValue": 0.833,
+    "normalizedValue": 0.833,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 2,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada.",
+      "verificationNote": "Cotejado automatizadamente contra la fila original; no constituye validación externa de la fuente."
+    }
+  },
+  {
+    "id": "obs-arg-electoral-democracy-2001",
+    "countryCode": "ARG",
+    "indicatorId": "electoral-democracy",
+    "year": 2001,
+    "originalValue": 0.833,
+    "normalizedValue": 0.833,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 3,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-arg-electoral-democracy-2002",
+    "countryCode": "ARG",
+    "indicatorId": "electoral-democracy",
+    "year": 2002,
+    "originalValue": 0.826,
+    "normalizedValue": 0.826,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 4,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-arg-electoral-democracy-2003",
+    "countryCode": "ARG",
+    "indicatorId": "electoral-democracy",
+    "year": 2003,
+    "originalValue": 0.807,
+    "normalizedValue": 0.807,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 5,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-arg-electoral-democracy-2004",
+    "countryCode": "ARG",
+    "indicatorId": "electoral-democracy",
+    "year": 2004,
+    "originalValue": 0.795,
+    "normalizedValue": 0.795,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 6,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-arg-electoral-democracy-2005",
+    "countryCode": "ARG",
+    "indicatorId": "electoral-democracy",
+    "year": 2005,
+    "originalValue": 0.793,
+    "normalizedValue": 0.793,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 7,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-arg-electoral-democracy-2006",
+    "countryCode": "ARG",
+    "indicatorId": "electoral-democracy",
+    "year": 2006,
+    "originalValue": 0.78,
+    "normalizedValue": 0.78,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 8,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-arg-electoral-democracy-2007",
+    "countryCode": "ARG",
+    "indicatorId": "electoral-democracy",
+    "year": 2007,
+    "originalValue": 0.781,
+    "normalizedValue": 0.781,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 9,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-arg-electoral-democracy-2008",
+    "countryCode": "ARG",
+    "indicatorId": "electoral-democracy",
+    "year": 2008,
+    "originalValue": 0.766,
+    "normalizedValue": 0.766,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 10,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-arg-electoral-democracy-2009",
+    "countryCode": "ARG",
+    "indicatorId": "electoral-democracy",
+    "year": 2009,
+    "originalValue": 0.756,
+    "normalizedValue": 0.756,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 11,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-arg-electoral-democracy-2010",
+    "countryCode": "ARG",
+    "indicatorId": "electoral-democracy",
+    "year": 2010,
+    "originalValue": 0.746,
+    "normalizedValue": 0.746,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 12,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-arg-electoral-democracy-2011",
+    "countryCode": "ARG",
+    "indicatorId": "electoral-democracy",
+    "year": 2011,
+    "originalValue": 0.746,
+    "normalizedValue": 0.746,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 13,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-arg-electoral-democracy-2012",
+    "countryCode": "ARG",
+    "indicatorId": "electoral-democracy",
+    "year": 2012,
+    "originalValue": 0.763,
+    "normalizedValue": 0.763,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 14,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-arg-electoral-democracy-2013",
+    "countryCode": "ARG",
+    "indicatorId": "electoral-democracy",
+    "year": 2013,
+    "originalValue": 0.772,
+    "normalizedValue": 0.772,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 15,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-arg-electoral-democracy-2014",
+    "countryCode": "ARG",
+    "indicatorId": "electoral-democracy",
+    "year": 2014,
+    "originalValue": 0.777,
+    "normalizedValue": 0.777,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 16,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-arg-electoral-democracy-2015",
+    "countryCode": "ARG",
+    "indicatorId": "electoral-democracy",
+    "year": 2015,
+    "originalValue": 0.765,
+    "normalizedValue": 0.765,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 17,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-arg-electoral-democracy-2016",
+    "countryCode": "ARG",
+    "indicatorId": "electoral-democracy",
+    "year": 2016,
+    "originalValue": 0.751,
+    "normalizedValue": 0.751,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 18,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-arg-electoral-democracy-2017",
+    "countryCode": "ARG",
+    "indicatorId": "electoral-democracy",
+    "year": 2017,
+    "originalValue": 0.751,
+    "normalizedValue": 0.751,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 19,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-arg-electoral-democracy-2018",
+    "countryCode": "ARG",
+    "indicatorId": "electoral-democracy",
+    "year": 2018,
+    "originalValue": 0.78,
+    "normalizedValue": 0.78,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 20,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-arg-electoral-democracy-2019",
+    "countryCode": "ARG",
+    "indicatorId": "electoral-democracy",
+    "year": 2019,
+    "originalValue": 0.779,
+    "normalizedValue": 0.779,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 21,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-arg-electoral-democracy-2020",
+    "countryCode": "ARG",
+    "indicatorId": "electoral-democracy",
+    "year": 2020,
+    "originalValue": 0.797,
+    "normalizedValue": 0.797,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 22,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-arg-electoral-democracy-2021",
+    "countryCode": "ARG",
+    "indicatorId": "electoral-democracy",
+    "year": 2021,
+    "originalValue": 0.796,
+    "normalizedValue": 0.796,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 23,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-arg-electoral-democracy-2022",
+    "countryCode": "ARG",
+    "indicatorId": "electoral-democracy",
+    "year": 2022,
+    "originalValue": 0.831,
+    "normalizedValue": 0.831,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 24,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-arg-electoral-democracy-2023",
+    "countryCode": "ARG",
+    "indicatorId": "electoral-democracy",
+    "year": 2023,
+    "originalValue": 0.838,
+    "normalizedValue": 0.838,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 25,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-arg-electoral-democracy-2024",
+    "countryCode": "ARG",
+    "indicatorId": "electoral-democracy",
+    "year": 2024,
+    "originalValue": 0.721,
+    "normalizedValue": 0.721,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 26,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-chl-electoral-democracy-2000",
+    "countryCode": "CHL",
+    "indicatorId": "electoral-democracy",
+    "year": 2000,
+    "originalValue": 0.876,
+    "normalizedValue": 0.876,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 80,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-chl-electoral-democracy-2001",
+    "countryCode": "CHL",
+    "indicatorId": "electoral-democracy",
+    "year": 2001,
+    "originalValue": 0.876,
+    "normalizedValue": 0.876,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 81,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-chl-electoral-democracy-2002",
+    "countryCode": "CHL",
+    "indicatorId": "electoral-democracy",
+    "year": 2002,
+    "originalValue": 0.88,
+    "normalizedValue": 0.88,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 82,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-chl-electoral-democracy-2003",
+    "countryCode": "CHL",
+    "indicatorId": "electoral-democracy",
+    "year": 2003,
+    "originalValue": 0.88,
+    "normalizedValue": 0.88,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 83,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-chl-electoral-democracy-2004",
+    "countryCode": "CHL",
+    "indicatorId": "electoral-democracy",
+    "year": 2004,
+    "originalValue": 0.88,
+    "normalizedValue": 0.88,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 84,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-chl-electoral-democracy-2005",
+    "countryCode": "CHL",
+    "indicatorId": "electoral-democracy",
+    "year": 2005,
+    "originalValue": 0.877,
+    "normalizedValue": 0.877,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 85,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-chl-electoral-democracy-2006",
+    "countryCode": "CHL",
+    "indicatorId": "electoral-democracy",
+    "year": 2006,
+    "originalValue": 0.894,
+    "normalizedValue": 0.894,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 86,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-chl-electoral-democracy-2007",
+    "countryCode": "CHL",
+    "indicatorId": "electoral-democracy",
+    "year": 2007,
+    "originalValue": 0.894,
+    "normalizedValue": 0.894,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 87,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-chl-electoral-democracy-2008",
+    "countryCode": "CHL",
+    "indicatorId": "electoral-democracy",
+    "year": 2008,
+    "originalValue": 0.894,
+    "normalizedValue": 0.894,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 88,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-chl-electoral-democracy-2009",
+    "countryCode": "CHL",
+    "indicatorId": "electoral-democracy",
+    "year": 2009,
+    "originalValue": 0.887,
+    "normalizedValue": 0.887,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 89,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-chl-electoral-democracy-2010",
+    "countryCode": "CHL",
+    "indicatorId": "electoral-democracy",
+    "year": 2010,
+    "originalValue": 0.888,
+    "normalizedValue": 0.888,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 90,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-chl-electoral-democracy-2011",
+    "countryCode": "CHL",
+    "indicatorId": "electoral-democracy",
+    "year": 2011,
+    "originalValue": 0.889,
+    "normalizedValue": 0.889,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 91,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-chl-electoral-democracy-2012",
+    "countryCode": "CHL",
+    "indicatorId": "electoral-democracy",
+    "year": 2012,
+    "originalValue": 0.893,
+    "normalizedValue": 0.893,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 92,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-chl-electoral-democracy-2013",
+    "countryCode": "CHL",
+    "indicatorId": "electoral-democracy",
+    "year": 2013,
+    "originalValue": 0.894,
+    "normalizedValue": 0.894,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 93,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-chl-electoral-democracy-2014",
+    "countryCode": "CHL",
+    "indicatorId": "electoral-democracy",
+    "year": 2014,
+    "originalValue": 0.893,
+    "normalizedValue": 0.893,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 94,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-chl-electoral-democracy-2015",
+    "countryCode": "CHL",
+    "indicatorId": "electoral-democracy",
+    "year": 2015,
+    "originalValue": 0.886,
+    "normalizedValue": 0.886,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 95,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-chl-electoral-democracy-2016",
+    "countryCode": "CHL",
+    "indicatorId": "electoral-democracy",
+    "year": 2016,
+    "originalValue": 0.886,
+    "normalizedValue": 0.886,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 96,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-chl-electoral-democracy-2017",
+    "countryCode": "CHL",
+    "indicatorId": "electoral-democracy",
+    "year": 2017,
+    "originalValue": 0.889,
+    "normalizedValue": 0.889,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 97,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-chl-electoral-democracy-2018",
+    "countryCode": "CHL",
+    "indicatorId": "electoral-democracy",
+    "year": 2018,
+    "originalValue": 0.87,
+    "normalizedValue": 0.87,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 98,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-chl-electoral-democracy-2019",
+    "countryCode": "CHL",
+    "indicatorId": "electoral-democracy",
+    "year": 2019,
+    "originalValue": 0.829,
+    "normalizedValue": 0.829,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 99,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-chl-electoral-democracy-2020",
+    "countryCode": "CHL",
+    "indicatorId": "electoral-democracy",
+    "year": 2020,
+    "originalValue": 0.837,
+    "normalizedValue": 0.837,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 100,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-chl-electoral-democracy-2021",
+    "countryCode": "CHL",
+    "indicatorId": "electoral-democracy",
+    "year": 2021,
+    "originalValue": 0.841,
+    "normalizedValue": 0.841,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 101,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-chl-electoral-democracy-2022",
+    "countryCode": "CHL",
+    "indicatorId": "electoral-democracy",
+    "year": 2022,
+    "originalValue": 0.833,
+    "normalizedValue": 0.833,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 102,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-chl-electoral-democracy-2023",
+    "countryCode": "CHL",
+    "indicatorId": "electoral-democracy",
+    "year": 2023,
+    "originalValue": 0.836,
+    "normalizedValue": 0.836,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 103,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada."
+    }
+  },
+  {
+    "id": "obs-chl-electoral-democracy-2024",
+    "countryCode": "CHL",
+    "indicatorId": "electoral-democracy",
+    "year": 2024,
+    "originalValue": 0.845,
+    "normalizedValue": 0.845,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "vdem",
+      "datasetVersionId": "vdem-local-unconfirmed",
+      "originalVariable": "v2x_polyarchy",
+      "definition": "Índice de democracia electoral v2x_polyarchy; versión y documentación metodológica pendientes de confirmación.",
+      "unit": "índice de 0 a 1",
+      "coverage": {
+        "startYear": 2000,
+        "endYear": 2024,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Lectura del valor numérico original; sin cambio de escala, unidad ni cobertura."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 104,
+      "notes": "Observación importada. La fila 2025 existe sin valor y no genera una observación. Versión V-Dem no confirmada.",
+      "verificationNote": "Cotejado automatizadamente contra la fila original; no constituye validación externa de la fuente."
+    }
+  },
+  {
+    "id": "obs-arg-general-strikes-1984",
+    "countryCode": "ARG",
+    "indicatorId": "general-strikes",
+    "year": 1984,
+    "originalValue": 1,
+    "normalizedValue": 1,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1984,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 2,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-arg-general-strikes-1985",
+    "countryCode": "ARG",
+    "indicatorId": "general-strikes",
+    "year": 1985,
+    "originalValue": 1,
+    "normalizedValue": 1,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1984,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 3,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-arg-general-strikes-1986",
+    "countryCode": "ARG",
+    "indicatorId": "general-strikes",
+    "year": 1986,
+    "originalValue": 2,
+    "normalizedValue": 2,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1984,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 4,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-arg-general-strikes-1987",
+    "countryCode": "ARG",
+    "indicatorId": "general-strikes",
+    "year": 1987,
+    "originalValue": 2,
+    "normalizedValue": 2,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1984,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 5,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-arg-general-strikes-1988",
+    "countryCode": "ARG",
+    "indicatorId": "general-strikes",
+    "year": 1988,
+    "originalValue": 2,
+    "normalizedValue": 2,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1984,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 6,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-arg-general-strikes-1989",
+    "countryCode": "ARG",
+    "indicatorId": "general-strikes",
+    "year": 1989,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1984,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 7,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros.",
+      "verificationNote": "Cotejado automatizadamente contra la fila original; no constituye validación externa de la fuente."
+    }
+  },
+  {
+    "id": "obs-arg-general-strikes-1990",
+    "countryCode": "ARG",
+    "indicatorId": "general-strikes",
+    "year": 1990,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1984,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 8,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-arg-general-strikes-1991",
+    "countryCode": "ARG",
+    "indicatorId": "general-strikes",
+    "year": 1991,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1984,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 9,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-arg-general-strikes-1992",
+    "countryCode": "ARG",
+    "indicatorId": "general-strikes",
+    "year": 1992,
+    "originalValue": 1,
+    "normalizedValue": 1,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1984,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 10,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-arg-general-strikes-1993",
+    "countryCode": "ARG",
+    "indicatorId": "general-strikes",
+    "year": 1993,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1984,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 11,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-arg-general-strikes-1994",
+    "countryCode": "ARG",
+    "indicatorId": "general-strikes",
+    "year": 1994,
+    "originalValue": 1,
+    "normalizedValue": 1,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1984,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 12,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-arg-general-strikes-1995",
+    "countryCode": "ARG",
+    "indicatorId": "general-strikes",
+    "year": 1995,
+    "originalValue": 1,
+    "normalizedValue": 1,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1984,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 13,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-arg-general-strikes-1996",
+    "countryCode": "ARG",
+    "indicatorId": "general-strikes",
+    "year": 1996,
+    "originalValue": 2,
+    "normalizedValue": 2,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1984,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 14,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-arg-general-strikes-1997",
+    "countryCode": "ARG",
+    "indicatorId": "general-strikes",
+    "year": 1997,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1984,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 15,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-arg-general-strikes-1998",
+    "countryCode": "ARG",
+    "indicatorId": "general-strikes",
+    "year": 1998,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1984,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 16,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-arg-general-strikes-1999",
+    "countryCode": "ARG",
+    "indicatorId": "general-strikes",
+    "year": 1999,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1984,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 17,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-arg-general-strikes-2000",
+    "countryCode": "ARG",
+    "indicatorId": "general-strikes",
+    "year": 2000,
+    "originalValue": 3,
+    "normalizedValue": 3,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1984,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 18,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-arg-general-strikes-2001",
+    "countryCode": "ARG",
+    "indicatorId": "general-strikes",
+    "year": 2001,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1984,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 19,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-arg-general-strikes-2002",
+    "countryCode": "ARG",
+    "indicatorId": "general-strikes",
+    "year": 2002,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1984,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 20,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-arg-general-strikes-2003",
+    "countryCode": "ARG",
+    "indicatorId": "general-strikes",
+    "year": 2003,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1984,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 21,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-arg-general-strikes-2004",
+    "countryCode": "ARG",
+    "indicatorId": "general-strikes",
+    "year": 2004,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1984,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 22,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-arg-general-strikes-2005",
+    "countryCode": "ARG",
+    "indicatorId": "general-strikes",
+    "year": 2005,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1984,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 23,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-arg-general-strikes-2006",
+    "countryCode": "ARG",
+    "indicatorId": "general-strikes",
+    "year": 2006,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1984,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 24,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-arg-general-strikes-2007",
+    "countryCode": "ARG",
+    "indicatorId": "general-strikes",
+    "year": 2007,
+    "originalValue": 1,
+    "normalizedValue": 1,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1984,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 25,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-arg-general-strikes-2008",
+    "countryCode": "ARG",
+    "indicatorId": "general-strikes",
+    "year": 2008,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1984,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 26,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-arg-general-strikes-2009",
+    "countryCode": "ARG",
+    "indicatorId": "general-strikes",
+    "year": 2009,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1984,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 27,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-arg-general-strikes-2010",
+    "countryCode": "ARG",
+    "indicatorId": "general-strikes",
+    "year": 2010,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1984,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 28,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-arg-general-strikes-2011",
+    "countryCode": "ARG",
+    "indicatorId": "general-strikes",
+    "year": 2011,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1984,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 29,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-arg-general-strikes-2012",
+    "countryCode": "ARG",
+    "indicatorId": "general-strikes",
+    "year": 2012,
+    "originalValue": 1,
+    "normalizedValue": 1,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1984,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 30,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-arg-general-strikes-2013",
+    "countryCode": "ARG",
+    "indicatorId": "general-strikes",
+    "year": 2013,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1984,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 31,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-arg-general-strikes-2014",
+    "countryCode": "ARG",
+    "indicatorId": "general-strikes",
+    "year": 2014,
+    "originalValue": 2,
+    "normalizedValue": 2,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1984,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 32,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-arg-general-strikes-2015",
+    "countryCode": "ARG",
+    "indicatorId": "general-strikes",
+    "year": 2015,
+    "originalValue": 1,
+    "normalizedValue": 1,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1984,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 33,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-arg-general-strikes-2016",
+    "countryCode": "ARG",
+    "indicatorId": "general-strikes",
+    "year": 2016,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1984,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 34,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-arg-general-strikes-2017",
+    "countryCode": "ARG",
+    "indicatorId": "general-strikes",
+    "year": 2017,
+    "originalValue": 2,
+    "normalizedValue": 2,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1984,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 35,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-arg-general-strikes-2018",
+    "countryCode": "ARG",
+    "indicatorId": "general-strikes",
+    "year": 2018,
+    "originalValue": 4,
+    "normalizedValue": 4,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1984,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 36,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-arg-general-strikes-2019",
+    "countryCode": "ARG",
+    "indicatorId": "general-strikes",
+    "year": 2019,
+    "originalValue": 2,
+    "normalizedValue": 2,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1984,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 37,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-chl-general-strikes-1990",
+    "countryCode": "CHL",
+    "indicatorId": "general-strikes",
+    "year": 1990,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1990,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "verified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 110,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros.",
+      "verificationNote": "Cotejado automatizadamente contra la fila original; no constituye validación externa de la fuente."
+    }
+  },
+  {
+    "id": "obs-chl-general-strikes-1991",
+    "countryCode": "CHL",
+    "indicatorId": "general-strikes",
+    "year": 1991,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1990,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 111,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-chl-general-strikes-1992",
+    "countryCode": "CHL",
+    "indicatorId": "general-strikes",
+    "year": 1992,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1990,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 112,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-chl-general-strikes-1993",
+    "countryCode": "CHL",
+    "indicatorId": "general-strikes",
+    "year": 1993,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1990,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 113,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-chl-general-strikes-1994",
+    "countryCode": "CHL",
+    "indicatorId": "general-strikes",
+    "year": 1994,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1990,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 114,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-chl-general-strikes-1995",
+    "countryCode": "CHL",
+    "indicatorId": "general-strikes",
+    "year": 1995,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1990,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 115,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-chl-general-strikes-1996",
+    "countryCode": "CHL",
+    "indicatorId": "general-strikes",
+    "year": 1996,
+    "originalValue": 1,
+    "normalizedValue": 1,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1990,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 116,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-chl-general-strikes-1997",
+    "countryCode": "CHL",
+    "indicatorId": "general-strikes",
+    "year": 1997,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1990,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 117,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-chl-general-strikes-1998",
+    "countryCode": "CHL",
+    "indicatorId": "general-strikes",
+    "year": 1998,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1990,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 118,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-chl-general-strikes-1999",
+    "countryCode": "CHL",
+    "indicatorId": "general-strikes",
+    "year": 1999,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1990,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 119,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-chl-general-strikes-2000",
+    "countryCode": "CHL",
+    "indicatorId": "general-strikes",
+    "year": 2000,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1990,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 120,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-chl-general-strikes-2001",
+    "countryCode": "CHL",
+    "indicatorId": "general-strikes",
+    "year": 2001,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1990,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 121,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-chl-general-strikes-2002",
+    "countryCode": "CHL",
+    "indicatorId": "general-strikes",
+    "year": 2002,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1990,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 122,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-chl-general-strikes-2003",
+    "countryCode": "CHL",
+    "indicatorId": "general-strikes",
+    "year": 2003,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1990,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 123,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-chl-general-strikes-2004",
+    "countryCode": "CHL",
+    "indicatorId": "general-strikes",
+    "year": 2004,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1990,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 124,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-chl-general-strikes-2005",
+    "countryCode": "CHL",
+    "indicatorId": "general-strikes",
+    "year": 2005,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1990,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 125,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-chl-general-strikes-2006",
+    "countryCode": "CHL",
+    "indicatorId": "general-strikes",
+    "year": 2006,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1990,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 126,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-chl-general-strikes-2007",
+    "countryCode": "CHL",
+    "indicatorId": "general-strikes",
+    "year": 2007,
+    "originalValue": 1,
+    "normalizedValue": 1,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1990,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 127,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-chl-general-strikes-2008",
+    "countryCode": "CHL",
+    "indicatorId": "general-strikes",
+    "year": 2008,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1990,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 128,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-chl-general-strikes-2009",
+    "countryCode": "CHL",
+    "indicatorId": "general-strikes",
+    "year": 2009,
+    "originalValue": 1,
+    "normalizedValue": 1,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1990,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 129,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-chl-general-strikes-2010",
+    "countryCode": "CHL",
+    "indicatorId": "general-strikes",
+    "year": 2010,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1990,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 130,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-chl-general-strikes-2011",
+    "countryCode": "CHL",
+    "indicatorId": "general-strikes",
+    "year": 2011,
+    "originalValue": 2,
+    "normalizedValue": 2,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1990,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 131,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-chl-general-strikes-2012",
+    "countryCode": "CHL",
+    "indicatorId": "general-strikes",
+    "year": 2012,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1990,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 132,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-chl-general-strikes-2013",
+    "countryCode": "CHL",
+    "indicatorId": "general-strikes",
+    "year": 2013,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1990,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 133,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-chl-general-strikes-2014",
+    "countryCode": "CHL",
+    "indicatorId": "general-strikes",
+    "year": 2014,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1990,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 134,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-chl-general-strikes-2015",
+    "countryCode": "CHL",
+    "indicatorId": "general-strikes",
+    "year": 2015,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1990,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 135,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-chl-general-strikes-2016",
+    "countryCode": "CHL",
+    "indicatorId": "general-strikes",
+    "year": 2016,
+    "originalValue": 2,
+    "normalizedValue": 2,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1990,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 136,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-chl-general-strikes-2017",
+    "countryCode": "CHL",
+    "indicatorId": "general-strikes",
+    "year": 2017,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1990,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 137,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-chl-general-strikes-2018",
+    "countryCode": "CHL",
+    "indicatorId": "general-strikes",
+    "year": 2018,
+    "originalValue": 0,
+    "normalizedValue": 0,
+    "valueStatus": "zero_events",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1990,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 138,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  },
+  {
+    "id": "obs-chl-general-strikes-2019",
+    "countryCode": "CHL",
+    "indicatorId": "general-strikes",
+    "year": 2019,
+    "originalValue": 3,
+    "normalizedValue": 3,
+    "valueStatus": "available",
+    "provenance": {
+      "sourceId": "martinez-pol-events",
+      "datasetVersionId": "martinez-pol-events-v2",
+      "originalVariable": "strikes",
+      "definition": "Número de huelgas generales nacionales por año organizadas por organizaciones de trabajadores, según README.",
+      "unit": "eventos por año",
+      "coverage": {
+        "startYear": 1990,
+        "endYear": 2019,
+        "territorialLevel": "national"
+      },
+      "transformations": [
+        "Conversión del conteo a entero; el cero se conserva como evento registrado dentro de la cobertura."
+      ],
+      "verificationStatus": "unverified",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 139,
+      "notes": "Observación importada de la hoja DATA. Cero no equivale a ausencia; fuera de cobertura no se generan registros."
+    }
+  }
+]

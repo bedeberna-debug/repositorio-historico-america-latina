@@ -1,0 +1,21 @@
+node_modules/
+**/node_modules/
+dist/
+.vite/
+artifacts/
+entregables/
+materiales_curso/
+data/raw/
+*.log
+*.tsbuildinfo
+.DS_Store
+
+# Notas de conversación y análisis exploratorio local
+/*.txt
+/analizar_cobertura.py
+/inspeccionar_bases.py
+/cobertura_bases.json
+/inventario_bases.json
+/scripts/create_methodological_note.py
+/scripts/create_methodological_note_word.py
+/scripts/create_methodological_note_docx.js

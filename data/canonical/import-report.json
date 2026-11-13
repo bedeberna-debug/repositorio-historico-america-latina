@@ -1,0 +1,163 @@
+{
+  "scope": {
+    "countries": [
+      "ARG",
+      "CHL"
+    ],
+    "indicators": [
+      "electoral-democracy",
+      "gdp-per-capita-ppp-2021",
+      "general-strikes"
+    ],
+    "presidentialPeriods": 17,
+    "crisisEpisodes": 4
+  },
+  "counts": {
+    "observations": 168,
+    "verifiedAgainstOriginalSample": 12,
+    "byIndicator": {
+      "ARG:gdp-per-capita-ppp-2021": {
+        "count": 26,
+        "startYear": 2000,
+        "endYear": 2025
+      },
+      "CHL:gdp-per-capita-ppp-2021": {
+        "count": 26,
+        "startYear": 2000,
+        "endYear": 2025
+      },
+      "ARG:electoral-democracy": {
+        "count": 25,
+        "startYear": 2000,
+        "endYear": 2024
+      },
+      "CHL:electoral-democracy": {
+        "count": 25,
+        "startYear": 2000,
+        "endYear": 2024
+      },
+      "ARG:general-strikes": {
+        "count": 36,
+        "startYear": 1984,
+        "endYear": 2019
+      },
+      "CHL:general-strikes": {
+        "count": 30,
+        "startYear": 1990,
+        "endYear": 2019
+      }
+    }
+  },
+  "sourceHashes": {
+    "variables_economicas.csv": "96abe1041344cac71020b08f75d22cc7ac6ab8a3e35a2440fb8d0b63765fa77f",
+    "variables_vdem.csv": "696a3255a9d3cac32ba2cfc751c8464fdebb7805792c592f2da36881147827db",
+    "CMartinez (2020) Pol Events LatAm.xlsx": "daaf75d0ee4a92792129fb44e1d7a09508cb091ca99851383e4e720872da916f",
+    "comparative survival.xlsx": "28bbb59b48b893e2cee2bf298aea73fce4eba03cade01ebdefa4ee7e5dfab5cf",
+    "Base_Final_RCP_v6.xlsx": "a7b95cfb88d757ed70ea23b706d7fcda915e83f956dce84c4c8e61b4f329b191"
+  },
+  "dictionaryDifferences": [
+    "variables_economicas.csv usa GDP_pc_PPP_2021; la beta preliminar mencionaba NY.GDP.PCAP.PP.KD. Se adopta exclusivamente la columna efectiva.",
+    "Base_Final_RCP_v6.xlsx: el codebook menciona year, country, type, horizontal_actor, vertical_actor, target, exit, flag_review, fecha_pivote y pivote_justificacion; la hoja contiene año, pais, tipo, actor_horizontal, actor_vertical, objetivo, salida, edited, fecha_peak y peak_justificacion.",
+    "comparative survival.xlsx contiene Sheet1 y columnas name/surname separadas; no se incorporan nombres desde Hegemony.dta."
+  ],
+  "sampleChecks": [
+    {
+      "id": "obs-arg-gdp-per-capita-ppp-2021-2000",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 2,
+      "checked": "GDP_pc_PPP_2021=22281.38142999575; year=2000",
+      "result": "coincide"
+    },
+    {
+      "id": "obs-chl-gdp-per-capita-ppp-2021-2025",
+      "sourceFile": "variables_economicas.csv",
+      "sourceSheet": null,
+      "sourceRow": 105,
+      "checked": "GDP_pc_PPP_2021=30863.42231551688; year=2025",
+      "result": "coincide"
+    },
+    {
+      "id": "obs-arg-electoral-democracy-2000",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 2,
+      "checked": "v2x_polyarchy=0.833; year=2000",
+      "result": "coincide"
+    },
+    {
+      "id": "obs-chl-electoral-democracy-2024",
+      "sourceFile": "variables_vdem.csv",
+      "sourceSheet": null,
+      "sourceRow": 104,
+      "checked": "v2x_polyarchy=0.845; year=2024",
+      "result": "coincide"
+    },
+    {
+      "id": "obs-arg-general-strikes-1989",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 7,
+      "checked": "strikes=0; year=1989",
+      "result": "coincide"
+    },
+    {
+      "id": "obs-chl-general-strikes-1990",
+      "sourceFile": "CMartinez (2020) Pol Events LatAm.xlsx",
+      "sourceSheet": "DATA",
+      "sourceRow": 110,
+      "checked": "strikes=0; year=1990",
+      "result": "coincide"
+    },
+    {
+      "id": "pres-arg-3701",
+      "sourceFile": "comparative survival.xlsx",
+      "sourceSheet": "Sheet1",
+      "sourceRow": 428,
+      "checked": "datein=1983-12-10; dateout=1989-07-08; tenure=2037",
+      "result": "coincide"
+    },
+    {
+      "id": "pres-chl-7207",
+      "sourceFile": "comparative survival.xlsx",
+      "sourceSheet": "Sheet1",
+      "sourceRow": 468,
+      "checked": "datein=2018-03-11; dateout=2020-12-31; tenure=1026",
+      "result": "coincide"
+    },
+    {
+      "id": "crisis-arg-2001-12-01",
+      "sourceFile": "Base_Final_RCP_v6.xlsx",
+      "sourceSheet": "crisis",
+      "sourceRow": 2,
+      "checked": "inicio=2001-12-01; termino=2002-03-05; fecha_peak=2002-01-02; duración=94",
+      "result": "coincide"
+    },
+    {
+      "id": "crisis-arg-2002-06-26",
+      "sourceFile": "Base_Final_RCP_v6.xlsx",
+      "sourceSheet": "crisis",
+      "sourceRow": 3,
+      "checked": "inicio=2002-06-26; termino=2002-10-22; fecha_peak=2002-06-26; duración=118",
+      "result": "coincide"
+    },
+    {
+      "id": "crisis-chl-2019-10-18",
+      "sourceFile": "Base_Final_RCP_v6.xlsx",
+      "sourceSheet": "crisis",
+      "sourceRow": 15,
+      "checked": "inicio=2019-10-18; termino=2019-12-19; fecha_peak=2019-10-25; duración=62",
+      "result": "coincide"
+    },
+    {
+      "id": "crisis-chl-2021-10-13",
+      "sourceFile": "Base_Final_RCP_v6.xlsx",
+      "sourceSheet": "crisis",
+      "sourceRow": 16,
+      "checked": "inicio=2021-10-13; termino=2021-11-16; fecha_peak=2021-11-09; duración=34",
+      "result": "coincide"
+    }
+  ],
+  "verificationMeaning": "verified significa que el registro importado coincide con la fila del archivo local. No significa validación externa, bibliográfica ni metodológica de la fuente.",
+  "originalFilesUnmodified": true
+}

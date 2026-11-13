@@ -1,0 +1,775 @@
+{
+  "scope": {
+    "country": "CHL",
+    "period": "1950–2026",
+    "indicators": [
+      "NY.GDP.MKTP.KD",
+      "NY.GDP.MKTP.KD.ZG",
+      "FP.CPI.TOTL.ZG",
+      "SL.UEM.TOTL.ZS",
+      "PA.NUS.FCRF",
+      "FR.INR.LEND",
+      "NV.AGR.TOTL.ZS",
+      "NV.IND.TOTL.ZS",
+      "NV.SRV.TOTL.ZS",
+      "SI.POV.GINI",
+      "SL.TLF.CACT.ZS",
+      "SL.AGR.EMPL.ZS",
+      "SL.IND.EMPL.ZS",
+      "SL.SRV.EMPL.ZS",
+      "EG.ELC.ACCS.ZS",
+      "GC.XPN.TOTL.GD.ZS",
+      "GC.REV.XGRT.GD.ZS",
+      "GC.DOD.TOTL.GD.ZS"
+    ]
+  },
+  "accessDate": "2026-11-01",
+  "counts": {
+    "observations": 823,
+    "verifiedAgainstOriginalSample": 18,
+    "nullYearsOmitted": 365,
+    "byIndicator": {
+      "gdp-total-constant-2015-usd": {
+        "count": 66,
+        "startYear": 1960,
+        "endYear": 2025,
+        "valueOrigin": "observed"
+      },
+      "gdp-growth-annual": {
+        "count": 65,
+        "startYear": 1961,
+        "endYear": 2025,
+        "valueOrigin": "observed"
+      },
+      "inflation-cpi-annual": {
+        "count": 55,
+        "startYear": 1971,
+        "endYear": 2025,
+        "valueOrigin": "observed"
+      },
+      "unemployment-ilo-modeled": {
+        "count": 35,
+        "startYear": 1991,
+        "endYear": 2025,
+        "valueOrigin": "source_estimate"
+      },
+      "official-exchange-rate": {
+        "count": 66,
+        "startYear": 1960,
+        "endYear": 2025,
+        "valueOrigin": "observed"
+      },
+      "lending-interest-rate": {
+        "count": 34,
+        "startYear": 1985,
+        "endYear": 2018,
+        "valueOrigin": "observed"
+      },
+      "gdp-agriculture-share": {
+        "count": 66,
+        "startYear": 1960,
+        "endYear": 2025,
+        "valueOrigin": "observed"
+      },
+      "gdp-industry-share": {
+        "count": 66,
+        "startYear": 1960,
+        "endYear": 2025,
+        "valueOrigin": "observed"
+      },
+      "gdp-services-share": {
+        "count": 66,
+        "startYear": 1960,
+        "endYear": 2025,
+        "valueOrigin": "observed"
+      },
+      "gini-index": {
+        "count": 17,
+        "startYear": 1987,
+        "endYear": 2024,
+        "valueOrigin": "observed"
+      },
+      "labor-force-participation-rate": {
+        "count": 36,
+        "startYear": 1990,
+        "endYear": 2025,
+        "valueOrigin": "source_estimate"
+      },
+      "employment-agriculture-share": {
+        "count": 35,
+        "startYear": 1991,
+        "endYear": 2025,
+        "valueOrigin": "source_estimate"
+      },
+      "employment-industry-share": {
+        "count": 35,
+        "startYear": 1991,
+        "endYear": 2025,
+        "valueOrigin": "source_estimate"
+      },
+      "employment-services-share": {
+        "count": 35,
+        "startYear": 1991,
+        "endYear": 2025,
+        "valueOrigin": "source_estimate"
+      },
+      "electricity-access": {
+        "count": 35,
+        "startYear": 1990,
+        "endYear": 2024,
+        "valueOrigin": "observed"
+      },
+      "government-expense-share-gdp": {
+        "count": 52,
+        "startYear": 1972,
+        "endYear": 2023,
+        "valueOrigin": "observed"
+      },
+      "government-revenue-share-gdp": {
+        "count": 53,
+        "startYear": 1972,
+        "endYear": 2024,
+        "valueOrigin": "observed"
+      },
+      "central-government-debt-share-gdp": {
+        "count": 6,
+        "startYear": 1995,
+        "endYear": 2000,
+        "valueOrigin": "observed"
+      }
+    }
+  },
+  "metadataAudit": [
+    {
+      "indicator": "NY.GDP.MKTP.KD",
+      "metadataUrl": "https://api.worldbank.org/v2/indicator/NY.GDP.MKTP.KD?format=json",
+      "accessDate": "2026-11-01",
+      "officialName": "GDP (constant 2015 US$)",
+      "definitionReviewed": true,
+      "sourceOrganization": "Country official statistics, National Statistical Organizations and/or Central Banks;\nNational Accounts data files, Organisation for Economic Co-operation and Development (OECD);\nStaff estimates, World Bank (WB)",
+      "licenseUrl": "https://datacatalog.worldbank.org/public-licenses"
+    },
+    {
+      "indicator": "NY.GDP.MKTP.KD.ZG",
+      "metadataUrl": "https://api.worldbank.org/v2/indicator/NY.GDP.MKTP.KD.ZG?format=json",
+      "accessDate": "2026-11-01",
+      "officialName": "GDP growth (annual %)",
+      "definitionReviewed": true,
+      "sourceOrganization": "Country official statistics, National Statistical Organizations and/or Central Banks;\nNational Accounts data files, Organisation for Economic Co-operation and Development (OECD);\nStaff estimates, World Bank (WB)",
+      "licenseUrl": "https://datacatalog.worldbank.org/public-licenses"
+    },
+    {
+      "indicator": "FP.CPI.TOTL.ZG",
+      "metadataUrl": "https://api.worldbank.org/v2/indicator/FP.CPI.TOTL.ZG?format=json",
+      "accessDate": "2026-11-01",
+      "officialName": "Inflation, consumer prices (annual %)",
+      "definitionReviewed": true,
+      "sourceOrganization": "International Financial Statistics database, International Monetary Fund (IMF)",
+      "licenseUrl": "https://datacatalog.worldbank.org/public-licenses"
+    },
+    {
+      "indicator": "SL.UEM.TOTL.ZS",
+      "metadataUrl": "https://api.worldbank.org/v2/indicator/SL.UEM.TOTL.ZS?format=json",
+      "accessDate": "2026-11-01",
+      "officialName": "Unemployment, total (% of total labor force) (modeled ILO estimate)",
+      "definitionReviewed": true,
+      "sourceOrganization": "ILO Modelled Estimates database (ILOEST), International Labour Organization (ILO), uri: https://ilostat.ilo.org/data/bulk/, publisher: ILOSTAT, type: external database, date accessed: January 17, 2026",
+      "licenseUrl": "https://datacatalog.worldbank.org/public-licenses"
+    },
+    {
+      "indicator": "PA.NUS.FCRF",
+      "metadataUrl": "https://api.worldbank.org/v2/indicator/PA.NUS.FCRF?format=json",
+      "accessDate": "2026-11-01",
+      "officialName": "Official exchange rate (LCU per US$, period average)",
+      "definitionReviewed": true,
+      "sourceOrganization": "International Financial Statistics database, International Monetary Fund (IMF)",
+      "licenseUrl": "https://datacatalog.worldbank.org/public-licenses"
+    },
+    {
+      "indicator": "FR.INR.LEND",
+      "metadataUrl": "https://api.worldbank.org/v2/indicator/FR.INR.LEND?format=json",
+      "accessDate": "2026-11-01",
+      "officialName": "Lending interest rate (%)",
+      "definitionReviewed": true,
+      "sourceOrganization": "International Financial Statistics database, International Monetary Fund (IMF)",
+      "licenseUrl": "https://datacatalog.worldbank.org/public-licenses"
+    },
+    {
+      "indicator": "NV.AGR.TOTL.ZS",
+      "metadataUrl": "https://api.worldbank.org/v2/indicator/NV.AGR.TOTL.ZS?format=json",
+      "accessDate": "2026-11-01",
+      "officialName": "Agriculture, forestry, and fishing, value added (% of GDP)",
+      "definitionReviewed": true,
+      "sourceOrganization": "Country official statistics, National Statistical Organizations and/or Central Banks;\nNational Accounts data files, Organisation for Economic Co-operation and Development (OECD);\nStaff estimates, World Bank (WB)",
+      "licenseUrl": "https://datacatalog.worldbank.org/public-licenses"
+    },
+    {
+      "indicator": "NV.IND.TOTL.ZS",
+      "metadataUrl": "https://api.worldbank.org/v2/indicator/NV.IND.TOTL.ZS?format=json",
+      "accessDate": "2026-11-01",
+      "officialName": "Industry (including construction), value added (% of GDP)",
+      "definitionReviewed": true,
+      "sourceOrganization": "Country official statistics, National Statistical Offices (NSOs);\nNational Accounts data files, Central Banks;\nStaff estimates, World Bank (WB)",
+      "licenseUrl": "https://datacatalog.worldbank.org/public-licenses"
+    },
+    {
+      "indicator": "NV.SRV.TOTL.ZS",
+      "metadataUrl": "https://api.worldbank.org/v2/indicator/NV.SRV.TOTL.ZS?format=json",
+      "accessDate": "2026-11-01",
+      "officialName": "Services, value added (% of GDP)",
+      "definitionReviewed": true,
+      "sourceOrganization": "Country official statistics, National Statistical Offices (NSOs);\nNational Accounts data files, Central Banks;\nStaff estimates, World Bank (WB)",
+      "licenseUrl": "https://datacatalog.worldbank.org/public-licenses"
+    },
+    {
+      "indicator": "SI.POV.GINI",
+      "metadataUrl": "https://api.worldbank.org/v2/indicator/SI.POV.GINI?format=json",
+      "accessDate": "2026-11-01",
+      "officialName": "Gini index",
+      "definitionReviewed": true,
+      "sourceOrganization": "World Bank, Poverty and Inequality Platform. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database. For more information and methodology, please see http://pip.worldbank.org., World Bank (WB), uri: http://pip.worldbank.org, note: Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database.",
+      "licenseUrl": "https://datacatalog.worldbank.org/public-licenses"
+    },
+    {
+      "indicator": "SL.TLF.CACT.ZS",
+      "metadataUrl": "https://api.worldbank.org/v2/indicator/SL.TLF.CACT.ZS?format=json",
+      "accessDate": "2026-11-01",
+      "officialName": "Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",
+      "definitionReviewed": true,
+      "sourceOrganization": "ILO Modelled Estimates database (ILOEST), International Labour Organization (ILO), uri: https://ilostat.ilo.org/data/bulk/, publisher: ILOSTAT, type: external database, date accessed: January 17, 2026",
+      "licenseUrl": "https://datacatalog.worldbank.org/public-licenses"
+    },
+    {
+      "indicator": "SL.AGR.EMPL.ZS",
+      "metadataUrl": "https://api.worldbank.org/v2/indicator/SL.AGR.EMPL.ZS?format=json",
+      "accessDate": "2026-11-01",
+      "officialName": "Employment in agriculture (% of total employment) (modeled ILO estimate)",
+      "definitionReviewed": true,
+      "sourceOrganization": "ILO Modelled Estimates database (ILOEST), International Labour Organization (ILO), uri: https://ilostat.ilo.org/data/bulk/, publisher: ILOSTAT, type: external database, date accessed: January 17, 2026",
+      "licenseUrl": "https://datacatalog.worldbank.org/public-licenses"
+    },
+    {
+      "indicator": "SL.IND.EMPL.ZS",
+      "metadataUrl": "https://api.worldbank.org/v2/indicator/SL.IND.EMPL.ZS?format=json",
+      "accessDate": "2026-11-01",
+      "officialName": "Employment in industry (% of total employment) (modeled ILO estimate)",
+      "definitionReviewed": true,
+      "sourceOrganization": "ILO Modelled Estimates database (ILOEST), International Labour Organization (ILO), uri: https://ilostat.ilo.org/data/bulk/, publisher: ILOSTAT, type: external database, date accessed: January 17, 2026",
+      "licenseUrl": "https://datacatalog.worldbank.org/public-licenses"
+    },
+    {
+      "indicator": "SL.SRV.EMPL.ZS",
+      "metadataUrl": "https://api.worldbank.org/v2/indicator/SL.SRV.EMPL.ZS?format=json",
+      "accessDate": "2026-11-01",
+      "officialName": "Employment in services (% of total employment) (modeled ILO estimate)",
+      "definitionReviewed": true,
+      "sourceOrganization": "ILO Modelled Estimates database (ILOEST), International Labour Organization (ILO), uri: https://ilostat.ilo.org/data/bulk/, publisher: ILOSTAT, type: external database, date accessed: January 17, 2026",
+      "licenseUrl": "https://datacatalog.worldbank.org/public-licenses"
+    },
+    {
+      "indicator": "EG.ELC.ACCS.ZS",
+      "metadataUrl": "https://api.worldbank.org/v2/indicator/EG.ELC.ACCS.ZS?format=json",
+      "accessDate": "2026-11-01",
+      "officialName": "Access to electricity (% of population)",
+      "definitionReviewed": true,
+      "sourceOrganization": "SDG 7.1.1 Electrification Dataset, World Bank (WB), uri: https://trackingsdg7.esmap.org/downloads, note: Data is downloaded from ESMAP website. Data is released when a new Tracking SDG7 report is released., publisher: World Bank (WB), date accessed: 2024-05-16, date published: 2023",
+      "licenseUrl": "https://datacatalog.worldbank.org/public-licenses"
+    },
+    {
+      "indicator": "GC.XPN.TOTL.GD.ZS",
+      "metadataUrl": "https://api.worldbank.org/v2/indicator/GC.XPN.TOTL.GD.ZS?format=json",
+      "accessDate": "2026-11-01",
+      "officialName": "Expense (% of GDP)",
+      "definitionReviewed": true,
+      "sourceOrganization": "Government Finance Statistics Yearbook and data files, International Monetary Fund (IMF);\nWorld Development Indicators, World Bank (WB);\nNational Accounts data files, Organisation for Economic Co-operation and Development (OECD)",
+      "licenseUrl": "https://datacatalog.worldbank.org/public-licenses"
+    },
+    {
+      "indicator": "GC.REV.XGRT.GD.ZS",
+      "metadataUrl": "https://api.worldbank.org/v2/indicator/GC.REV.XGRT.GD.ZS?format=json",
+      "accessDate": "2026-11-01",
+      "officialName": "Revenue, excluding grants (% of GDP)",
+      "definitionReviewed": true,
+      "sourceOrganization": "Government Finance Statistics Yearbook and data files, International Monetary Fund (IMF)",
+      "licenseUrl": "https://datacatalog.worldbank.org/public-licenses"
+    },
+    {
+      "indicator": "GC.DOD.TOTL.GD.ZS",
+      "metadataUrl": "https://api.worldbank.org/v2/indicator/GC.DOD.TOTL.GD.ZS?format=json",
+      "accessDate": "2026-11-01",
+      "officialName": "Central government debt, total (% of GDP)",
+      "definitionReviewed": true,
+      "sourceOrganization": "Government Finance Statistics Yearbook and data files, International Monetary Fund (IMF)",
+      "licenseUrl": "https://datacatalog.worldbank.org/public-licenses"
+    }
+  ],
+  "rawFiles": {
+    "data\\raw\\world-bank\\chile-fase05\\NY.GDP.MKTP.KD-metadata.json": "bc4bc0ffec1755410f52b1091c6b1f46917c7417977102350d3d1102b4659216",
+    "data\\raw\\world-bank\\chile-fase05\\NY.GDP.MKTP.KD-CHL.json": "8873260b1ac96af9496c0f1d4ea7fad0e0920c2794a15b43c83295bc73f539cd",
+    "data\\raw\\world-bank\\chile-fase05\\NY.GDP.MKTP.KD.ZG-metadata.json": "ed7703d841d4dde2d1cb858f0dd53229fe3e841f72abb17dbc8c950ad20c88ce",
+    "data\\raw\\world-bank\\chile-fase05\\NY.GDP.MKTP.KD.ZG-CHL.json": "88920a62841694e44875984b5701cf25ac158057caece43a6e783b4803cc60b1",
+    "data\\raw\\world-bank\\chile-fase05\\FP.CPI.TOTL.ZG-metadata.json": "df9371a3b6c01e55a3f28991e62e1b1ebbe0cd2a7da94456be9938c7a2962233",
+    "data\\raw\\world-bank\\chile-fase05\\FP.CPI.TOTL.ZG-CHL.json": "366471c9cc60a320ee573cff8220e0ff22a49775a89dc7c45525482ff4ee17be",
+    "data\\raw\\world-bank\\chile-fase05\\SL.UEM.TOTL.ZS-metadata.json": "3ae370ed4bebba092338e94334c35add71490324ee57f1dfe81885dade51f52f",
+    "data\\raw\\world-bank\\chile-fase05\\SL.UEM.TOTL.ZS-CHL.json": "f799c1656a9b1232e7e728f833132d2181dce400c4f957bfb2b55f3f8b8c3228",
+    "data\\raw\\world-bank\\chile-fase05\\PA.NUS.FCRF-metadata.json": "879ac40c1e115d0575c0ac1d26a45b68432303927ea163be9c80e7f47c739b12",
+    "data\\raw\\world-bank\\chile-fase05\\PA.NUS.FCRF-CHL.json": "4881aa629d2bbc533610890f03a7afb1dfadb6120485f086e96d647ae5ae6cd1",
+    "data\\raw\\world-bank\\chile-fase05\\FR.INR.LEND-metadata.json": "5ba11a439eaa6c91ab9fa1ac555c5da4a5a697c1cb0aac1c99342af54dbdb80c",
+    "data\\raw\\world-bank\\chile-fase05\\FR.INR.LEND-CHL.json": "f058060bf1f0677b438fb9d98d152ed8fad134ec502a5d8bdc7c984e31b9eb8d",
+    "data\\raw\\world-bank\\chile-fase05\\NV.AGR.TOTL.ZS-metadata.json": "fe7405bdb44e1600d98e44cc0edb61a4cc77b9d8d2ce534bed46309ac173a117",
+    "data\\raw\\world-bank\\chile-fase05\\NV.AGR.TOTL.ZS-CHL.json": "9d4950f3b3135ba5940dcddb581cf1b3297a3a3fffcc49daaddd6aa1e353f372",
+    "data\\raw\\world-bank\\chile-fase05\\NV.IND.TOTL.ZS-metadata.json": "989dfa43e4289f3b70735cd07f08fbbba8b2c76e89a6f0d19ded866027736c9b",
+    "data\\raw\\world-bank\\chile-fase05\\NV.IND.TOTL.ZS-CHL.json": "3534635a6a7b7ee5753089c74d36ae08d966e77f2891fc898b7f27176e37a804",
+    "data\\raw\\world-bank\\chile-fase05\\NV.SRV.TOTL.ZS-metadata.json": "55d203ff83eb44bd8a39d3fd48042f3473c75f3ce2c6364cfb44da0454661fb6",
+    "data\\raw\\world-bank\\chile-fase05\\NV.SRV.TOTL.ZS-CHL.json": "a1fe07fff076fd3e1111bfb40b151060ac12f86ef6ed648f95b6ee771d9eb990",
+    "data\\raw\\world-bank\\chile-fase05\\SI.POV.GINI-metadata.json": "e377bf82b38024748153880ff90c0106a0ef0fd8cb04761146cc60a2609cab3d",
+    "data\\raw\\world-bank\\chile-fase05\\SI.POV.GINI-CHL.json": "0562e7eba65696b77fa7e642802a928c5e2b98b8bd9f0b524833f45bf7d8df2c",
+    "data\\raw\\world-bank\\chile-fase05\\SL.TLF.CACT.ZS-metadata.json": "10154473c4d75dd636f728baf231162ddd5a12c910084f832a3b93fe55038fe7",
+    "data\\raw\\world-bank\\chile-fase05\\SL.TLF.CACT.ZS-CHL.json": "a88a3df9478bc3b8b451624a8ea1f8ca7aa081b913bf9bcd11e086af32670df2",
+    "data\\raw\\world-bank\\chile-fase05\\SL.AGR.EMPL.ZS-metadata.json": "c57a5d67bf62cb9f83bf1a34ef6f0acc9c20edc0ca810e3da24c5cdc9b69c6d1",
+    "data\\raw\\world-bank\\chile-fase05\\SL.AGR.EMPL.ZS-CHL.json": "3374ad3d16d8e4a802be377fa6e7f5c4757995d419a39c4174f9100dcef96f6a",
+    "data\\raw\\world-bank\\chile-fase05\\SL.IND.EMPL.ZS-metadata.json": "76c939faf692ce2682be0d87f0abd30aca6709ef974b84459730e3af090f7585",
+    "data\\raw\\world-bank\\chile-fase05\\SL.IND.EMPL.ZS-CHL.json": "a5d92d7863a3b60441e638099187d4ab357b61effcc9494cc4259ab172cb7c37",
+    "data\\raw\\world-bank\\chile-fase05\\SL.SRV.EMPL.ZS-metadata.json": "ab6a368a1a423e212210adbe97e341513942e3c3bf1c589fee59cb988dc4c86a",
+    "data\\raw\\world-bank\\chile-fase05\\SL.SRV.EMPL.ZS-CHL.json": "6bad2036a09a897200ef72016307386f116313ac1731712bec636c8a070acd7f",
+    "data\\raw\\world-bank\\chile-fase05\\EG.ELC.ACCS.ZS-metadata.json": "b97baf3b8af89e755fb51e00bf690940fddff51d8af3dbf32849662ece66559b",
+    "data\\raw\\world-bank\\chile-fase05\\EG.ELC.ACCS.ZS-CHL.json": "07e95855a2c45ee9a94554aa36988215cc66a7b57d07405c04fdb2e8a04ae34e",
+    "data\\raw\\world-bank\\chile-fase05\\GC.XPN.TOTL.GD.ZS-metadata.json": "f458ceac80d78fea66fc7c9b97700d2fee64a4965350f848ed9fccc4ce075b4f",
+    "data\\raw\\world-bank\\chile-fase05\\GC.XPN.TOTL.GD.ZS-CHL.json": "54dc236d35be8a004a3623ae9579f1864beb58e7f4c9120039f72ebf06c8b3f6",
+    "data\\raw\\world-bank\\chile-fase05\\GC.REV.XGRT.GD.ZS-metadata.json": "9bf6a756bffa0cc3ad865aec83824b516dbcf8d3df21314b29bbc90a6021e613",
+    "data\\raw\\world-bank\\chile-fase05\\GC.REV.XGRT.GD.ZS-CHL.json": "8be8604edfb2387690ed103ed881dc55287d2f7c5241446956803b9d2c059548",
+    "data\\raw\\world-bank\\chile-fase05\\GC.DOD.TOTL.GD.ZS-metadata.json": "840db52efe87e4415fecd7d9ac7ca68f875cd8388755126e05609d2e688b5da0",
+    "data\\raw\\world-bank\\chile-fase05\\GC.DOD.TOTL.GD.ZS-CHL.json": "eb5dc8dfea3ce367c3c4c1edf7bfde6514f24b283c984e881b0dbe850a83836e"
+  },
+  "update": {
+    "previousObservationCount": 823,
+    "addedIds": [],
+    "removedIds": [],
+    "changedIds": [],
+    "unchangedCount": 823
+  },
+  "validations": {
+    "duplicates": 0,
+    "nullsImported": 0,
+    "compositionChecks": [
+      {
+        "group": "employment",
+        "countryCode": "CHL",
+        "year": 1991,
+        "sum": 99.99997939164129,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "employment",
+        "countryCode": "CHL",
+        "year": 1992,
+        "sum": 99.9999803563245,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "employment",
+        "countryCode": "CHL",
+        "year": 1993,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "employment",
+        "countryCode": "CHL",
+        "year": 1994,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "employment",
+        "countryCode": "CHL",
+        "year": 1995,
+        "sum": 99.9999819461964,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "employment",
+        "countryCode": "CHL",
+        "year": 1996,
+        "sum": 100.0000180590495,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "employment",
+        "countryCode": "CHL",
+        "year": 1997,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "employment",
+        "countryCode": "CHL",
+        "year": 1998,
+        "sum": 99.9999999999999,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "employment",
+        "countryCode": "CHL",
+        "year": 1999,
+        "sum": 100.0000000000001,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "employment",
+        "countryCode": "CHL",
+        "year": 2000,
+        "sum": 99.9999999999999,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "employment",
+        "countryCode": "CHL",
+        "year": 2001,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "employment",
+        "countryCode": "CHL",
+        "year": 2002,
+        "sum": 100.0000000000001,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "employment",
+        "countryCode": "CHL",
+        "year": 2003,
+        "sum": 100.0000168190784,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "employment",
+        "countryCode": "CHL",
+        "year": 2004,
+        "sum": 99.99999999999989,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "employment",
+        "countryCode": "CHL",
+        "year": 2005,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "employment",
+        "countryCode": "CHL",
+        "year": 2006,
+        "sum": 100.0000000000001,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "employment",
+        "countryCode": "CHL",
+        "year": 2007,
+        "sum": 100.00000000000001,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "employment",
+        "countryCode": "CHL",
+        "year": 2008,
+        "sum": 100.00000000000001,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "employment",
+        "countryCode": "CHL",
+        "year": 2009,
+        "sum": 99.9999854400385,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "employment",
+        "countryCode": "CHL",
+        "year": 2010,
+        "sum": 99.99999999999999,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "employment",
+        "countryCode": "CHL",
+        "year": 2011,
+        "sum": 100.00001280163042,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "employment",
+        "countryCode": "CHL",
+        "year": 2012,
+        "sum": 99.99999999999999,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "employment",
+        "countryCode": "CHL",
+        "year": 2013,
+        "sum": 100.0000122840088,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "employment",
+        "countryCode": "CHL",
+        "year": 2014,
+        "sum": 99.99998788860178,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "employment",
+        "countryCode": "CHL",
+        "year": 2015,
+        "sum": 100.00001190190403,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "employment",
+        "countryCode": "CHL",
+        "year": 2016,
+        "sum": 99.99998825356886,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "employment",
+        "countryCode": "CHL",
+        "year": 2017,
+        "sum": 99.99999999999999,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "employment",
+        "countryCode": "CHL",
+        "year": 2018,
+        "sum": 100.00000000000007,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "employment",
+        "countryCode": "CHL",
+        "year": 2019,
+        "sum": 100.0,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "employment",
+        "countryCode": "CHL",
+        "year": 2020,
+        "sum": 99.99999999999994,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "employment",
+        "countryCode": "CHL",
+        "year": 2021,
+        "sum": 99.99999999999999,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "employment",
+        "countryCode": "CHL",
+        "year": 2022,
+        "sum": 100.00000000000001,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "employment",
+        "countryCode": "CHL",
+        "year": 2023,
+        "sum": 99.99999999999994,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "employment",
+        "countryCode": "CHL",
+        "year": 2024,
+        "sum": 99.99997856892263,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      },
+      {
+        "group": "employment",
+        "countryCode": "CHL",
+        "year": 2025,
+        "sum": 100.00002127798781,
+        "tolerance": 0.2,
+        "result": "dentro de tolerancia"
+      }
+    ],
+    "origins": {
+      "observed": 647,
+      "source_estimate": 176,
+      "derived": 0,
+      "inferred": 0,
+      "imputed": 0
+    }
+  },
+  "sampleChecks": [
+    {
+      "id": "obs-chl-central-government-debt-share-gdp-2000",
+      "sourceFile": "data\\raw\\world-bank\\chile-fase05\\GC.DOD.TOTL.GD.ZS-CHL.json",
+      "sourceRow": 26,
+      "checked": "GC.DOD.TOTL.GD.ZS=13.1456400046218; year=2000; country=CHL",
+      "result": "coincide"
+    },
+    {
+      "id": "obs-chl-electricity-access-2024",
+      "sourceFile": "data\\raw\\world-bank\\chile-fase05\\EG.ELC.ACCS.ZS-CHL.json",
+      "sourceRow": 2,
+      "checked": "EG.ELC.ACCS.ZS=99; year=2024; country=CHL",
+      "result": "coincide"
+    },
+    {
+      "id": "obs-chl-employment-agriculture-share-2025",
+      "sourceFile": "data\\raw\\world-bank\\chile-fase05\\SL.AGR.EMPL.ZS-CHL.json",
+      "sourceRow": 1,
+      "checked": "SL.AGR.EMPL.ZS=6.06552449974121; year=2025; country=CHL",
+      "result": "coincide"
+    },
+    {
+      "id": "obs-chl-employment-industry-share-2025",
+      "sourceFile": "data\\raw\\world-bank\\chile-fase05\\SL.IND.EMPL.ZS-CHL.json",
+      "sourceRow": 1,
+      "checked": "SL.IND.EMPL.ZS=21.5000875057251; year=2025; country=CHL",
+      "result": "coincide"
+    },
+    {
+      "id": "obs-chl-employment-services-share-2025",
+      "sourceFile": "data\\raw\\world-bank\\chile-fase05\\SL.SRV.EMPL.ZS-CHL.json",
+      "sourceRow": 1,
+      "checked": "SL.SRV.EMPL.ZS=72.4344092725215; year=2025; country=CHL",
+      "result": "coincide"
+    },
+    {
+      "id": "obs-chl-gdp-agriculture-share-2025",
+      "sourceFile": "data\\raw\\world-bank\\chile-fase05\\NV.AGR.TOTL.ZS-CHL.json",
+      "sourceRow": 1,
+      "checked": "NV.AGR.TOTL.ZS=3.45290754387223; year=2025; country=CHL",
+      "result": "coincide"
+    },
+    {
+      "id": "obs-chl-gdp-growth-annual-2025",
+      "sourceFile": "data\\raw\\world-bank\\chile-fase05\\NY.GDP.MKTP.KD.ZG-CHL.json",
+      "sourceRow": 1,
+      "checked": "NY.GDP.MKTP.KD.ZG=2.45925474781374; year=2025; country=CHL",
+      "result": "coincide"
+    },
+    {
+      "id": "obs-chl-gdp-industry-share-2025",
+      "sourceFile": "data\\raw\\world-bank\\chile-fase05\\NV.IND.TOTL.ZS-CHL.json",
+      "sourceRow": 1,
+      "checked": "NV.IND.TOTL.ZS=31.4236371449973; year=2025; country=CHL",
+      "result": "coincide"
+    },
+    {
+      "id": "obs-chl-gdp-services-share-2025",
+      "sourceFile": "data\\raw\\world-bank\\chile-fase05\\NV.SRV.TOTL.ZS-CHL.json",
+      "sourceRow": 1,
+      "checked": "NV.SRV.TOTL.ZS=55.5140420637813; year=2025; country=CHL",
+      "result": "coincide"
+    },
+    {
+      "id": "obs-chl-gdp-total-constant-2015-usd-2025",
+      "sourceFile": "data\\raw\\world-bank\\chile-fase05\\NY.GDP.MKTP.KD-CHL.json",
+      "sourceRow": 1,
+      "checked": "NY.GDP.MKTP.KD=296005043455.575; year=2025; country=CHL",
+      "result": "coincide"
+    },
+    {
+      "id": "obs-chl-gini-index-2024",
+      "sourceFile": "data\\raw\\world-bank\\chile-fase05\\SI.POV.GINI-CHL.json",
+      "sourceRow": 2,
+      "checked": "SI.POV.GINI=43; year=2024; country=CHL",
+      "result": "coincide"
+    },
+    {
+      "id": "obs-chl-government-expense-share-gdp-2023",
+      "sourceFile": "data\\raw\\world-bank\\chile-fase05\\GC.XPN.TOTL.GD.ZS-CHL.json",
+      "sourceRow": 3,
+      "checked": "GC.XPN.TOTL.GD.ZS=24.5587474981752; year=2023; country=CHL",
+      "result": "coincide"
+    },
+    {
+      "id": "obs-chl-government-revenue-share-gdp-2024",
+      "sourceFile": "data\\raw\\world-bank\\chile-fase05\\GC.REV.XGRT.GD.ZS-CHL.json",
+      "sourceRow": 2,
+      "checked": "GC.REV.XGRT.GD.ZS=21.8550506046341; year=2024; country=CHL",
+      "result": "coincide"
+    },
+    {
+      "id": "obs-chl-inflation-cpi-annual-2025",
+      "sourceFile": "data\\raw\\world-bank\\chile-fase05\\FP.CPI.TOTL.ZG-CHL.json",
+      "sourceRow": 1,
+      "checked": "FP.CPI.TOTL.ZG=4.21294031801535; year=2025; country=CHL",
+      "result": "coincide"
+    },
+    {
+      "id": "obs-chl-labor-force-participation-rate-2025",
+      "sourceFile": "data\\raw\\world-bank\\chile-fase05\\SL.TLF.CACT.ZS-CHL.json",
+      "sourceRow": 1,
+      "checked": "SL.TLF.CACT.ZS=62.304; year=2025; country=CHL",
+      "result": "coincide"
+    },
+    {
+      "id": "obs-chl-lending-interest-rate-2018",
+      "sourceFile": "data\\raw\\world-bank\\chile-fase05\\FR.INR.LEND-CHL.json",
+      "sourceRow": 8,
+      "checked": "FR.INR.LEND=4.1780192502556; year=2018; country=CHL",
+      "result": "coincide"
+    },
+    {
+      "id": "obs-chl-official-exchange-rate-2025",
+      "sourceFile": "data\\raw\\world-bank\\chile-fase05\\PA.NUS.FCRF-CHL.json",
+      "sourceRow": 1,
+      "checked": "PA.NUS.FCRF=951.329454191033; year=2025; country=CHL",
+      "result": "coincide"
+    },
+    {
+      "id": "obs-chl-unemployment-ilo-modeled-2025",
+      "sourceFile": "data\\raw\\world-bank\\chile-fase05\\SL.UEM.TOTL.ZS-CHL.json",
+      "sourceRow": 1,
+      "checked": "SL.UEM.TOTL.ZS=8.974; year=2025; country=CHL",
+      "result": "coincide"
+    }
+  ],
+  "verificationMeaning": "verified significa coincidencia con la respuesta original; no es validación metodológica independiente.",
+  "originalCourseFilesUnmodified": true,
+  "complementaryConnectorSnapshot": "data/raw/world-bank/chile-fase05-consulta.csv"
+}

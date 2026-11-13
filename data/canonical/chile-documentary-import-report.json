@@ -1,0 +1,366 @@
+{
+  "scope": {
+    "country": "CHL",
+    "period": "1950–2026",
+    "territorialLevel": "national"
+  },
+  "accessDate": "2026-11-01",
+  "counts": {
+    "officialPresidentialSegments": 18,
+    "legislativePeriods": 22,
+    "legislativeSegments": 22,
+    "judicialChangeNodes": 1,
+    "documentaryEvents": 34,
+    "documentaryChecks": 52
+  },
+  "rawFiles": {
+    "data\\raw\\chile-oficial\\presidents.html": "0b6dbbf232c855c5abe43c651c8aa4a63c296e4572b960e3ad0f8ce09d0029ce",
+    "data\\raw\\chile-oficial\\pinochet.html": "74dc959e8b197228e2af8cffe29a213ec8beded880c728822949fd407a696085",
+    "data\\raw\\chile-oficial\\ibanez.html": "52210fa84b6b389db09160fb971e4547d0d1dbff91fb322f23056f8b7e8b9537",
+    "data\\raw\\chile-oficial\\alessandri.html": "e855546bc4cd483a0de8a240f9d8530110169173310cbb650f66dfb8f37c931e",
+    "data\\raw\\chile-oficial\\allende.html": "d6429d2b6f641e63d5d4d9e0a452c5dbd981cf56611e5cd476a370fc1aa0bac4",
+    "data\\raw\\chile-oficial\\kast.html": "ce2349e7ee65d4981b40fe1d1ba88b7550d1480399f4d29facb08d9bb1dfae80",
+    "data\\raw\\chile-oficial\\congress_absent.html": "5eaa702d65d3b7b9a46ee9a2518677e8272cdd06f5f3353d06fb99376b3bba7c",
+    "data\\raw\\chile-oficial\\congress_modern.html": "276b41ba682d5ca2b054874180908292dd363421291bc4aa49fb0a4f9bdaab5d",
+    "data\\raw\\chile-oficial\\congress_1925.html": "a0eb2c79580091ee8871e65ba7a6bccfcd5d6e4b0db82a7a2041a2c7040a2743",
+    "data\\raw\\chile-oficial\\corporations.html": "25a7377fc417f873a5dcfdb3d5a251be5ad671429e0c819fbea3a4d62a695d29",
+    "data\\raw\\chile-oficial\\elections_early.html": "328057e8fa8b918ccedffc5e417e3299cae714c2f83b0735880d0c2fa6aa6f82",
+    "data\\raw\\chile-oficial\\elections_dictatorship.html": "630e167727716f6cb6bc80cbe6454942d4211b53be95921de3d99c5a4e46bf5b",
+    "data\\raw\\chile-oficial\\elections_modern.html": "99a37634ae56385af578d2e3c3c747ec28ed140ff24faca911bf0844fc5122b6",
+    "data\\raw\\chile-oficial\\winter.html": "d14ff64a7038eeea80e1cb46a767530918f3d1dbb443dab664cdbaa1b774e116",
+    "data\\raw\\chile-oficial\\coloma.html": "e1d9b5e6fdd91fad96d7ce52f43528295a2a33e19e40608d7387d048ecdeabea",
+    "data\\raw\\chile-oficial\\keitel.html": "df8849eb0b0c2570198a3d8800e5b7f8fcef385e027a056e648db66def72fdf8",
+    "data\\raw\\chile-oficial\\lee.html": "323db37a567327a7d4b994a5afc7dfd00bbb4efaca5c436f2a9b6ead22a067c0",
+    "data\\raw\\chile-oficial\\judicial_reform.pdf": "695e170faa9d3accca94b7e8f30591b33544819930ace2e6beadb9c7b449d8da"
+  },
+  "archiveWarnings": [
+    {
+      "page": "judicial_history",
+      "url": "https://www.pjud.cl/post/historia-del-poder-judicial",
+      "error": "HTTP Error 500: Internal Server Error",
+      "action": "Se conserva la referencia, sin instantánea ni registros dependientes."
+    }
+  ],
+  "documentaryChecks": [
+    {
+      "id": "pres-chl-oficial-gabriel-gonzalez-videla",
+      "page": "presidents",
+      "checkedText": "3 de noviembre de 1946",
+      "result": "coincide"
+    },
+    {
+      "id": "pres-chl-oficial-carlos-ibanez-1952",
+      "page": "ibanez",
+      "checkedText": "3 de noviembre de 1952",
+      "result": "coincide"
+    },
+    {
+      "id": "pres-chl-oficial-jorge-alessandri",
+      "page": "alessandri",
+      "checkedText": "3 de noviembre de 1958",
+      "result": "coincide"
+    },
+    {
+      "id": "pres-chl-oficial-eduardo-frei-montalva",
+      "page": "presidents",
+      "checkedText": "3 de noviembre de 1964",
+      "result": "coincide"
+    },
+    {
+      "id": "pres-chl-oficial-salvador-allende",
+      "page": "allende",
+      "checkedText": "3 de noviembre de 1970",
+      "result": "coincide"
+    },
+    {
+      "id": "pres-chl-oficial-junta-gobierno-1973",
+      "page": "pinochet",
+      "checkedText": "Presidente de la Junta de Gobierno",
+      "result": "coincide"
+    },
+    {
+      "id": "pres-chl-oficial-augusto-pinochet-jefe-supremo",
+      "page": "pinochet",
+      "checkedText": "26 de junio de 1974",
+      "result": "coincide"
+    },
+    {
+      "id": "pres-chl-oficial-augusto-pinochet-de-facto",
+      "page": "pinochet",
+      "checkedText": "17 de diciembre de 1974",
+      "result": "coincide"
+    },
+    {
+      "id": "pres-chl-oficial-augusto-pinochet-constitucional",
+      "page": "pinochet",
+      "checkedText": "11 de marzo de 1981",
+      "result": "coincide"
+    },
+    {
+      "id": "pres-chl-oficial-patricio-aylwin",
+      "page": "congress_modern",
+      "checkedText": "11 de marzo de 1990",
+      "result": "coincide"
+    },
+    {
+      "id": "pres-chl-oficial-eduardo-frei-ruiz-tagle",
+      "page": "presidents",
+      "checkedText": "Eduardo Frei Ruiz",
+      "result": "coincide"
+    },
+    {
+      "id": "pres-chl-oficial-ricardo-lagos",
+      "page": "presidents",
+      "checkedText": "Ricardo Lagos",
+      "result": "coincide"
+    },
+    {
+      "id": "pres-chl-oficial-michelle-bachelet-1",
+      "page": "congress_modern",
+      "checkedText": "Michelle Bachelet Jeria (2006-2010)",
+      "result": "coincide"
+    },
+    {
+      "id": "pres-chl-oficial-sebastian-pinera-1",
+      "page": "congress_modern",
+      "checkedText": "Sebastián Piñera Echenique (2010-2014)",
+      "result": "coincide"
+    },
+    {
+      "id": "pres-chl-oficial-michelle-bachelet-2",
+      "page": "congress_modern",
+      "checkedText": "Michelle Bachelet Jeria (2014-2018)",
+      "result": "coincide"
+    },
+    {
+      "id": "pres-chl-oficial-sebastian-pinera-2",
+      "page": "presidents",
+      "checkedText": "Sebastián Piñera",
+      "result": "coincide"
+    },
+    {
+      "id": "pres-chl-oficial-gabriel-boric",
+      "page": "presidents",
+      "checkedText": "11 de marzo de 2022",
+      "result": "coincide"
+    },
+    {
+      "id": "pres-chl-oficial-jose-antonio-kast",
+      "page": "kast",
+      "checkedText": "presidente de la República desde el 11 de marzo de 2026",
+      "result": "coincide"
+    },
+    {
+      "id": "event-chl-election-1952",
+      "page": "elections_early",
+      "checkedText": "04-09-1952",
+      "result": "coincide"
+    },
+    {
+      "id": "event-chl-election-1953",
+      "page": "elections_early",
+      "checkedText": "01-03-1953",
+      "result": "coincide"
+    },
+    {
+      "id": "event-chl-election-1957",
+      "page": "elections_early",
+      "checkedText": "03-03-1957",
+      "result": "coincide"
+    },
+    {
+      "id": "event-chl-election-1958",
+      "page": "elections_early",
+      "checkedText": "04-09-1958",
+      "result": "coincide"
+    },
+    {
+      "id": "event-chl-election-1961",
+      "page": "elections_early",
+      "checkedText": "05-03-1961",
+      "result": "coincide"
+    },
+    {
+      "id": "event-chl-agrarian-reform-1962",
+      "page": "congress_1925",
+      "checkedText": "27 de noviembre de 1962",
+      "result": "coincide"
+    },
+    {
+      "id": "event-chl-election-1964",
+      "page": "elections_early",
+      "checkedText": "04-09-1964",
+      "result": "coincide"
+    },
+    {
+      "id": "event-chl-election-1965",
+      "page": "elections_early",
+      "checkedText": "07-03-1965",
+      "result": "coincide"
+    },
+    {
+      "id": "event-chl-election-1969",
+      "page": "elections_early",
+      "checkedText": "02-03-1969",
+      "result": "coincide"
+    },
+    {
+      "id": "event-chl-election-1970",
+      "page": "elections_early",
+      "checkedText": "04-09-1970",
+      "result": "coincide"
+    },
+    {
+      "id": "event-chl-copper-nationalization-1971",
+      "page": "congress_1925",
+      "checkedText": "11 de julio de 1971",
+      "result": "coincide"
+    },
+    {
+      "id": "event-chl-election-1973",
+      "page": "elections_early",
+      "checkedText": "04-03-1973",
+      "result": "coincide"
+    },
+    {
+      "id": "event-chl-coup-1973",
+      "page": "congress_1925",
+      "checkedText": "11 de septiembre de 1973",
+      "result": "coincide"
+    },
+    {
+      "id": "event-chl-constitution-1980",
+      "page": "elections_dictatorship",
+      "checkedText": "11 de septiembre de 1980",
+      "result": "coincide"
+    },
+    {
+      "id": "event-chl-tricel-1985",
+      "page": "elections_modern",
+      "checkedText": "15-11-1985",
+      "result": "coincide"
+    },
+    {
+      "id": "event-chl-servel-1986",
+      "page": "elections_dictatorship",
+      "checkedText": "1 de octubre de 1986",
+      "result": "coincide"
+    },
+    {
+      "id": "event-chl-elections-law-1988",
+      "page": "elections_dictatorship",
+      "checkedText": "6 de mayo de 1988",
+      "result": "coincide"
+    },
+    {
+      "id": "event-chl-plebiscite-1988",
+      "page": "elections_dictatorship",
+      "checkedText": "5 de octubre de 1988",
+      "result": "coincide"
+    },
+    {
+      "id": "event-chl-binominal-1989",
+      "page": "elections_dictatorship",
+      "checkedText": "26 de mayo de 1989",
+      "result": "coincide"
+    },
+    {
+      "id": "event-chl-plebiscite-1989",
+      "page": "elections_dictatorship",
+      "checkedText": "30 de julio de 1989",
+      "result": "coincide"
+    },
+    {
+      "id": "event-chl-elections-1989",
+      "page": "elections_dictatorship",
+      "checkedText": "14 de diciembre de 1989",
+      "result": "coincide"
+    },
+    {
+      "id": "event-chl-congress-return-1990",
+      "page": "congress_modern",
+      "checkedText": "retomando sus actividades legislativas",
+      "result": "coincide"
+    },
+    {
+      "id": "event-chl-elections-1993",
+      "page": "elections_modern",
+      "checkedText": "11-12-1993",
+      "result": "coincide"
+    },
+    {
+      "id": "event-chl-election-1999",
+      "page": "elections_modern",
+      "checkedText": "12-12-1999",
+      "result": "coincide"
+    },
+    {
+      "id": "event-chl-constitutional-reform-2005",
+      "page": "elections_modern",
+      "checkedText": "26-08-2005",
+      "result": "coincide"
+    },
+    {
+      "id": "event-chl-elections-2005",
+      "page": "elections_modern",
+      "checkedText": "11-12-2005",
+      "result": "coincide"
+    },
+    {
+      "id": "event-chl-elections-2013",
+      "page": "elections_modern",
+      "checkedText": "17-11-2013",
+      "result": "coincide"
+    },
+    {
+      "id": "event-chl-electoral-reform-2015",
+      "page": "congress_modern",
+      "checkedText": "Ley 20840",
+      "result": "coincide"
+    },
+    {
+      "id": "event-chl-elections-2017",
+      "page": "elections_modern",
+      "checkedText": "19-11-2017",
+      "result": "coincide"
+    },
+    {
+      "id": "event-chl-plebiscite-2020",
+      "page": "elections_modern",
+      "checkedText": "25-10-2020",
+      "result": "coincide"
+    },
+    {
+      "id": "event-chl-elections-2021",
+      "page": "elections_modern",
+      "checkedText": "21-11-2021",
+      "result": "coincide"
+    },
+    {
+      "id": "event-chl-plebiscite-2022",
+      "page": "elections_modern",
+      "checkedText": "04-09-2022",
+      "result": "coincide"
+    },
+    {
+      "id": "event-chl-elections-2025",
+      "page": "kast",
+      "checkedText": "16 de noviembre de 2025",
+      "result": "coincide"
+    },
+    {
+      "id": "event-chl-succession-2026",
+      "page": "kast",
+      "checkedText": "presidente de la República desde el 11 de marzo de 2026",
+      "result": "coincide"
+    }
+  ],
+  "presidentialSourceComparison": "docs/fase-05-ampliacion-chile.md#comparación-de-presidencias-antes-de-integrar-la-serie-oficial",
+  "limitations": [
+    "No se cargan correlaciones de fuerzas ni mayorías legislativas sin criterio y fecha de medición.",
+    "Los períodos anteriores a 1973 requieren una investigación separada de fechas exactas por cámara.",
+    "La cobertura judicial se limita al nodo de 1957; no hay serie de integrantes.",
+    "La selección de acontecimientos no es exhaustiva y no reemplaza las crisis ni las huelgas del curso."
+  ],
+  "noInferredValues": true
+}
